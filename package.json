@@ -1,0 +1,54 @@
+{
+  "name": "civicdata-nexus",
+  "version": "1.0.0",
+  "main": "dist/server/index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "tsx watch server/index.ts",
+    "dev:server": "tsx watch server/index.ts",
+    "dev:client": "vite",
+    "build": "npm run build:server && node scripts/build-client.mjs",
+    "build:server": "tsc -p tsconfig.json",
+    "build:client": "vite build",
+    "start": "node dist/server/index.js",
+    "seed": "tsx server/lib/seedgen.ts",
+    "typecheck": "tsc --noEmit",
+    "verify": "bash verify.sh"
+  },
+  "keywords": [],
+  "author": "Team CivicNexus <team@civicnexus.in>",
+  "license": "MIT",
+  "description": "CivicData Nexus — Efficient Telemetry Analysis & Automated Decision Intelligence for Public Sector Data",
+  "dependencies": {
+    "better-sqlite3": "^12.11.1",
+    "express": "^4.22.2",
+    "lucide-react": "^1.31.0",
+    "pdfkit": "^0.19.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.4",
+    "recharts": "^2.15.4",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^9.6.0",
+    "@types/express": "^4.17.25",
+    "@types/node": "^20.19.43",
+    "@types/pdfkit": "^0.17.6",
+    "@types/react": "^18.3.31",
+    "@types/react-dom": "^18.3.7",
+    "@vitejs/plugin-react": "^6.0.5",
+    "autoprefixer": "^10.5.4",
+    "postcss": "^8.5.26",
+    "tailwindcss": "^3.4.19",
+    "tsx": "^4.23.12",
+    "typescript": "^5.6.3",
+    "vite": "^8.2.1"
+  },
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  }
+}

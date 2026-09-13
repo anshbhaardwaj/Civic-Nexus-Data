@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" role="img" aria-label="CivicData Nexus">
+  <rect width="32" height="32" rx="7" fill="#0A2138"/>
+  <g fill="none" stroke="#2DD4BF" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M16 4.4 25.1 9.7v10.6L16 25.6 6.9 20.3V9.7Z"/>
+    <path d="M16 15v-5.6M16 15l4.9 2.9M16 15l-4.9 2.9"/>
+  </g>
+  <g fill="#2DD4BF">
+    <circle cx="16" cy="8.6" r="1.9"/>
+    <circle cx="21.7" cy="18.6" r="1.9"/>
+    <circle cx="10.3" cy="18.6" r="1.9"/>
+  </g>
+  <circle cx="16" cy="15" r="2.7" fill="#FF9933"/>
+</svg>

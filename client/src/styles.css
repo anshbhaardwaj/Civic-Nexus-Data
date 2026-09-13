@@ -1,0 +1,154 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Bundled offline (no network at runtime, SPEC §0). Noto Sans also carries ₹ U+20B9. */
+@font-face {
+  font-family: 'Noto Sans';
+  src: url('/fonts/NotoSans-Regular.ttf') format('truetype');
+  font-weight: 400 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Noto Sans';
+  src: url('/fonts/NotoSans-Bold.ttf') format('truetype');
+  font-weight: 700 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@layer base {
+  /* Light — paper-white civic register */
+  :root {
+    --c-bg: 240 244 249;
+    --c-surface: 255 255 255;
+    --c-raised: 246 249 252;
+    --c-line: 213 224 235;
+    --c-ink: 10 33 56;
+    --c-muted: 79 103 128;
+    --c-faint: 127 148 170;
+    --c-teal: 13 124 122;
+    --c-teal-soft: 224 244 243;
+    --c-navy: 10 33 56;
+    --c-saffron: 200 106 8;
+    --c-danger: 185 45 45;
+    --c-warn: 176 106 6;
+    --c-ok: 20 118 74;
+  }
+  /* Dark — deep navy control room */
+  .dark {
+    --c-bg: 6 16 26;
+    --c-surface: 12 27 42;
+    --c-raised: 17 36 54;
+    --c-line: 30 55 79;
+    --c-ink: 226 236 245;
+    --c-muted: 148 173 196;
+    --c-faint: 108 134 158;
+    --c-teal: 45 212 191;
+    --c-teal-soft: 15 55 60;
+    --c-navy: 4 12 22;
+    --c-saffron: 255 153 51;
+    --c-danger: 248 113 113;
+    --c-warn: 251 191 36;
+    --c-ok: 52 211 153;
+  }
+
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+  body {
+    @apply bg-bg text-ink font-sans antialiased;
+    font-feature-settings: 'tnum' 1, 'cv05' 1;
+  }
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: rgb(var(--c-line)) transparent;
+  }
+  *::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  *::-webkit-scrollbar-thumb {
+    background: rgb(var(--c-line));
+    border-radius: 999px;
+    border: 3px solid transparent;
+    background-clip: content-box;
+  }
+  :focus-visible {
+    outline: 2px solid rgb(var(--c-teal));
+    outline-offset: 2px;
+  }
+}
+
+@layer components {
+  .card {
+    @apply rounded-xl border border-line bg-surface shadow-card;
+  }
+  .card-pad {
+    @apply p-4 sm:p-5;
+  }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg border border-line bg-raised px-3 py-2 text-sm font-semibold text-ink transition-colors hover:border-teal/60 hover:text-teal disabled:cursor-not-allowed disabled:opacity-50;
+  }
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg border border-teal bg-teal px-3 py-2 text-sm font-semibold text-white transition-opacity hover:opacity-90 disabled:cursor-not-allowed disabled:opacity-50 dark:text-navy;
+  }
+  .btn-accent {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg border border-saffron bg-saffron/10 px-3 py-2 text-sm font-semibold text-saffron transition-colors hover:bg-saffron/20 disabled:cursor-not-allowed disabled:opacity-50;
+  }
+  .input {
+    @apply w-full rounded-lg border border-line bg-surface px-3 py-2 text-sm text-ink placeholder:text-faint focus:border-teal focus:outline-none;
+  }
+  .label {
+    @apply mb-1 block text-2xs font-bold uppercase tracking-[0.09em] text-faint;
+  }
+  .chip {
+    @apply inline-flex items-center gap-1 rounded-md border border-line bg-raised px-2 py-0.5 text-2xs font-semibold text-muted;
+  }
+  .th {
+    @apply whitespace-nowrap px-3 py-2 text-left text-2xs font-bold uppercase tracking-wider text-faint;
+  }
+  .td {
+    @apply whitespace-nowrap px-3 py-2 text-sm text-ink;
+  }
+  .num {
+    font-variant-numeric: tabular-nums;
+  }
+  .formula {
+    @apply break-words rounded-md border border-line bg-raised px-2 py-1 font-mono text-2xs leading-relaxed text-muted;
+  }
+  .skel {
+    background-image: linear-gradient(90deg, rgb(var(--c-line) / 0.28) 25%, rgb(var(--c-line) / 0.62) 50%, rgb(var(--c-line) / 0.28) 75%);
+    background-size: 200% 100%;
+    @apply animate-shimmer rounded-md;
+  }
+  .hairline-grid {
+    background-image: linear-gradient(rgb(var(--c-line) / 0.5) 1px, transparent 1px), linear-gradient(90deg, rgb(var(--c-line) / 0.5) 1px, transparent 1px);
+    background-size: 44px 44px;
+  }
+}
+
+/*
+ * Grid children default to `min-width: auto`, so one wide table or a long
+ * unbroken hash can push a whole page into horizontal overflow. Every grid
+ * child in this app is allowed to shrink instead.
+ */
+.grid > * {
+  min-width: 0;
+}
+
+/*
+ * A <select> is intrinsically as wide as its longest option, which on a 375px
+ * screen would push a filter bar past the viewport. Cap it and let the label
+ * ellipsise instead.
+ */
+.input {
+  max-width: 100%;
+}
+
+select.input {
+  text-overflow: ellipsis;
+}

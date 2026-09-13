@@ -1,0 +1,1009 @@
+scheme,department,state,district,fy,allocation_cr,released_cr,spent_cr,beneficiaries,utilisation_pct
+Ayushman Bharat PM-JAY,Health & Family Welfare,Punjab,Amritsar,2019-20,773.49,750.49,564.05,491288,72.9
+Ayushman Bharat PM-JAY,Health & Family Welfare,Punjab,Amritsar,2020-21,852.26,557.55,420.03,178933,49.3
+Ayushman Bharat PM-JAY,Health & Family Welfare,Punjab,Amritsar,2021-22,967.11,962.53,687.84,281327,71.1
+Ayushman Bharat PM-JAY,Health & Family Welfare,Punjab,Amritsar,2022-23,1270.64,1116.47,836.02,466499,65.8
+Ayushman Bharat PM-JAY,Health & Family Welfare,Punjab,Amritsar,2023-24,1544.26,1263.81,1263.81,549757,81.8
+Ayushman Bharat PM-JAY,Health & Family Welfare,Punjab,Amritsar,2024-25,1983.38,1474.11,1288.13,425083,64.9
+Ayushman Bharat PM-JAY,Health & Family Welfare,Punjab,Amritsar,2025-26,2573.09,2528.6,2528.6,2159424,98.3
+Ayushman Bharat PM-JAY,Health & Family Welfare,Rajasthan,Udaipur,2019-20,121.81,100.36,77.9,32329,64
+Ayushman Bharat PM-JAY,Health & Family Welfare,Rajasthan,Udaipur,2020-21,125.27,89.48,87.53,28097,69.9
+Ayushman Bharat PM-JAY,Health & Family Welfare,Rajasthan,Udaipur,2021-22,140.05,117.67,102.09,83101,72.9
+Ayushman Bharat PM-JAY,Health & Family Welfare,Rajasthan,Udaipur,2022-23,157.98,135.93,121.7,76549,77
+Ayushman Bharat PM-JAY,Health & Family Welfare,Rajasthan,Udaipur,2023-24,185.57,178.48,161.15,124086,86.8
+Ayushman Bharat PM-JAY,Health & Family Welfare,Rajasthan,Udaipur,2024-25,256.89,256.89,184.82,154879,71.9
+Ayushman Bharat PM-JAY,Health & Family Welfare,Rajasthan,Udaipur,2025-26,363.95,311.24,226.87,202141,62.3
+Ayushman Bharat PM-JAY,Health & Family Welfare,Tamil Nadu,Madurai,2019-20,918.51,801.43,642.75,221106,70
+Ayushman Bharat PM-JAY,Health & Family Welfare,Tamil Nadu,Madurai,2020-21,937.05,797.16,629.69,141051,67.2
+Ayushman Bharat PM-JAY,Health & Family Welfare,Tamil Nadu,Madurai,2021-22,1074.54,739.99,465.95,310789,43.4
+Ayushman Bharat PM-JAY,Health & Family Welfare,Tamil Nadu,Madurai,2022-23,1210.56,1127.21,907.1,713888,74.9
+Ayushman Bharat PM-JAY,Health & Family Welfare,Tamil Nadu,Madurai,2023-24,1402.41,1221.87,1152.99,891261,82.2
+Ayushman Bharat PM-JAY,Health & Family Welfare,Tamil Nadu,Madurai,2024-25,1801.14,1197.15,904.25,404200,50.2
+Ayushman Bharat PM-JAY,Health & Family Welfare,Tamil Nadu,Madurai,2025-26,2366.94,2081.75,1584.85,893855,67
+Ayushman Bharat PM-JAY,Health & Family Welfare,Gujarat,Ahmedabad,2019-20,703.87,670.65,552.08,378175,78.4
+Ayushman Bharat PM-JAY,Health & Family Welfare,Gujarat,Ahmedabad,2020-21,717.07,476.7,408.1,87742,56.9
+Ayushman Bharat PM-JAY,Health & Family Welfare,Gujarat,Ahmedabad,2021-22,835.18,683.64,442.6,80996,53
+Ayushman Bharat PM-JAY,Health & Family Welfare,Gujarat,Ahmedabad,2022-23,964.67,831.57,658.25,229071,68.2
+Ayushman Bharat PM-JAY,Health & Family Welfare,Gujarat,Ahmedabad,2023-24,1272.51,1174.29,841.19,198521,66.1
+Ayushman Bharat PM-JAY,Health & Family Welfare,Gujarat,Ahmedabad,2024-25,1675.8,1385.78,1158.48,259500,69.1
+Ayushman Bharat PM-JAY,Health & Family Welfare,Gujarat,Ahmedabad,2025-26,2237.98,1746.53,1428.1,285620,63.8
+Ayushman Bharat PM-JAY,Health & Family Welfare,Uttarakhand,Dehradun,2019-20,829.8,684.13,557.83,174043,67.2
+Ayushman Bharat PM-JAY,Health & Family Welfare,Uttarakhand,Dehradun,2020-21,852.73,679.23,472.89,403375,55.5
+Ayushman Bharat PM-JAY,Health & Family Welfare,Uttarakhand,Dehradun,2021-22,932.23,859.24,834.54,209470,89.5
+Ayushman Bharat PM-JAY,Health & Family Welfare,Uttarakhand,Dehradun,2022-23,1092.04,882.74,737.77,177065,67.6
+Ayushman Bharat PM-JAY,Health & Family Welfare,Uttarakhand,Dehradun,2023-24,1308.16,1018.76,805.86,705933,61.6
+Ayushman Bharat PM-JAY,Health & Family Welfare,Uttarakhand,Dehradun,2024-25,1582.03,1319.93,1040.46,818842,65.8
+Ayushman Bharat PM-JAY,Health & Family Welfare,Uttarakhand,Dehradun,2025-26,2106.54,1619.49,1470.81,773646,69.8
+Ayushman Bharat PM-JAY,Health & Family Welfare,Rajasthan,Jodhpur,2019-20,459.06,425.97,320.29,108899,69.8
+Ayushman Bharat PM-JAY,Health & Family Welfare,Rajasthan,Jodhpur,2020-21,506.94,388.37,388.37,62139,76.6
+Ayushman Bharat PM-JAY,Health & Family Welfare,Rajasthan,Jodhpur,2021-22,569.34,480.79,480.79,312994,84.4
+Ayushman Bharat PM-JAY,Health & Family Welfare,Rajasthan,Jodhpur,2022-23,711.81,475.71,444.62,255657,62.5
+Ayushman Bharat PM-JAY,Health & Family Welfare,Rajasthan,Jodhpur,2023-24,862.33,847.36,654.21,150468,75.9
+Ayushman Bharat PM-JAY,Health & Family Welfare,Rajasthan,Jodhpur,2024-25,1199.84,1159.57,864.22,192721,72
+Ayushman Bharat PM-JAY,Health & Family Welfare,Rajasthan,Jodhpur,2025-26,1641.77,1491.02,890.91,668183,54.3
+Ayushman Bharat PM-JAY,Health & Family Welfare,Gujarat,Rajkot,2019-20,749.49,692.16,438.8,174204,58.5
+Ayushman Bharat PM-JAY,Health & Family Welfare,Gujarat,Rajkot,2020-21,819.88,535.84,535.84,225053,65.4
+Ayushman Bharat PM-JAY,Health & Family Welfare,Gujarat,Rajkot,2021-22,887.67,634.31,524.5,186198,59.1
+Ayushman Bharat PM-JAY,Health & Family Welfare,Gujarat,Rajkot,2022-23,1071.33,995.56,806.45,445160,75.3
+Ayushman Bharat PM-JAY,Health & Family Welfare,Gujarat,Rajkot,2023-24,1382.33,1045.78,825.47,351650,59.7
+Ayushman Bharat PM-JAY,Health & Family Welfare,Gujarat,Rajkot,2024-25,1742.25,1278.54,1207.17,1068345,69.3
+Ayushman Bharat PM-JAY,Health & Family Welfare,Gujarat,Rajkot,2025-26,2420.69,2073.96,1508.4,921632,62.3
+Ayushman Bharat PM-JAY,Health & Family Welfare,Bihar,Patna,2019-20,868.53,838.36,619.82,164252,71.4
+Ayushman Bharat PM-JAY,Health & Family Welfare,Bihar,Patna,2020-21,950.79,671.68,471.49,267335,49.6
+Ayushman Bharat PM-JAY,Health & Family Welfare,Bihar,Patna,2021-22,987.14,987.14,754.52,500247,76.4
+Ayushman Bharat PM-JAY,Health & Family Welfare,Bihar,Patna,2022-23,1204.71,958.1,722.18,499026,59.9
+Ayushman Bharat PM-JAY,Health & Family Welfare,Bihar,Patna,2023-24,1526.39,1225.81,950.45,222405,62.3
+Ayushman Bharat PM-JAY,Health & Family Welfare,Bihar,Patna,2024-25,1958.74,1442.66,1035.05,930510,52.8
+Ayushman Bharat PM-JAY,Health & Family Welfare,Bihar,Patna,2025-26,2790.41,2219.12,1923.08,1338464,68.9
+Ayushman Bharat PM-JAY,Health & Family Welfare,Assam,Guwahati,2019-20,710.49,550.3,475.91,277456,67
+Ayushman Bharat PM-JAY,Health & Family Welfare,Assam,Guwahati,2020-21,762.94,547.18,387.75,169059,50.8
+Ayushman Bharat PM-JAY,Health & Family Welfare,Assam,Guwahati,2021-22,799.69,759.63,524.26,312983,65.6
+Ayushman Bharat PM-JAY,Health & Family Welfare,Assam,Guwahati,2022-23,920.13,920.13,920.13,118697,100
+Ayushman Bharat PM-JAY,Health & Family Welfare,Assam,Guwahati,2023-24,1110.88,990.29,882,349272,79.4
+Ayushman Bharat PM-JAY,Health & Family Welfare,Assam,Guwahati,2024-25,1445.19,1320.36,1060.08,891527,73.4
+Ayushman Bharat PM-JAY,Health & Family Welfare,Assam,Guwahati,2025-26,1929.9,1862.98,1725.37,665993,89.4
+Ayushman Bharat PM-JAY,Health & Family Welfare,Andhra Pradesh,Visakhapatnam,2019-20,790.43,730.29,546.8,423770,69.2
+Ayushman Bharat PM-JAY,Health & Family Welfare,Andhra Pradesh,Visakhapatnam,2020-21,839.17,610.52,541.27,270635,64.5
+Ayushman Bharat PM-JAY,Health & Family Welfare,Andhra Pradesh,Visakhapatnam,2021-22,942.06,830.98,708.16,485090,75.2
+Ayushman Bharat PM-JAY,Health & Family Welfare,Andhra Pradesh,Visakhapatnam,2022-23,985.98,879.38,817.2,292558,82.9
+Ayushman Bharat PM-JAY,Health & Family Welfare,Andhra Pradesh,Visakhapatnam,2023-24,1215.39,924.05,719.71,174170,59.2
+Ayushman Bharat PM-JAY,Health & Family Welfare,Andhra Pradesh,Visakhapatnam,2024-25,1616.11,1363.52,1035.36,311643,64.1
+Ayushman Bharat PM-JAY,Health & Family Welfare,Andhra Pradesh,Visakhapatnam,2025-26,2110.07,1916.66,1916.66,693831,90.8
+Ayushman Bharat PM-JAY,Health & Family Welfare,Rajasthan,Jaipur,2019-20,107.39,80.8,67.71,49564,63.1
+Ayushman Bharat PM-JAY,Health & Family Welfare,Rajasthan,Jaipur,2020-21,113.01,78.08,61.96,41265,54.8
+Ayushman Bharat PM-JAY,Health & Family Welfare,Rajasthan,Jaipur,2021-22,125.11,119.58,88.65,71895,70.9
+Ayushman Bharat PM-JAY,Health & Family Welfare,Rajasthan,Jaipur,2022-23,146.76,136.51,115.48,43190,78.7
+Ayushman Bharat PM-JAY,Health & Family Welfare,Rajasthan,Jaipur,2023-24,188.38,159.85,119.84,26125,63.6
+Ayushman Bharat PM-JAY,Health & Family Welfare,Rajasthan,Jaipur,2024-25,253.62,203.18,124.31,40525,49
+Ayushman Bharat PM-JAY,Health & Family Welfare,Rajasthan,Jaipur,2025-26,342,339.03,133.57,94434,39.1
+Ayushman Bharat PM-JAY,Health & Family Welfare,Madhya Pradesh,Indore,2019-20,42.51,36.55,29.04,15653,68.3
+Ayushman Bharat PM-JAY,Health & Family Welfare,Madhya Pradesh,Indore,2020-21,43.24,32.38,16.89,2044,39.1
+Ayushman Bharat PM-JAY,Health & Family Welfare,Madhya Pradesh,Indore,2021-22,48.56,42.6,22.81,10493,47
+Ayushman Bharat PM-JAY,Health & Family Welfare,Madhya Pradesh,Indore,2022-23,59.39,48.88,34.66,22078,58.4
+Ayushman Bharat PM-JAY,Health & Family Welfare,Madhya Pradesh,Indore,2023-24,73.54,63.7,51.97,44954,70.7
+Ayushman Bharat PM-JAY,Health & Family Welfare,Madhya Pradesh,Indore,2024-25,91.85,91.16,91.16,25342,99.2
+Ayushman Bharat PM-JAY,Health & Family Welfare,Madhya Pradesh,Indore,2025-26,120.53,119.04,99,54252,82.1
+National Health Mission,Health & Family Welfare,Uttarakhand,Dehradun,2019-20,486.68,417.25,259.1,74362,53.2
+National Health Mission,Health & Family Welfare,Uttarakhand,Dehradun,2020-21,544.53,440.88,361.23,98616,66.3
+National Health Mission,Health & Family Welfare,Uttarakhand,Dehradun,2021-22,620.33,545.15,312.7,44091,50.4
+National Health Mission,Health & Family Welfare,Uttarakhand,Dehradun,2022-23,758.07,636.26,493.06,191307,65
+National Health Mission,Health & Family Welfare,Uttarakhand,Dehradun,2023-24,1010.91,845.99,623.92,471060,61.7
+National Health Mission,Health & Family Welfare,Uttarakhand,Dehradun,2024-25,1267.92,1078.64,940.75,411108,74.2
+National Health Mission,Health & Family Welfare,Uttarakhand,Dehradun,2025-26,1614.4,1605.09,1154.14,945241,71.5
+National Health Mission,Health & Family Welfare,Rajasthan,Jodhpur,2019-20,413.21,295.16,193.9,40719,46.9
+National Health Mission,Health & Family Welfare,Rajasthan,Jodhpur,2020-21,455.63,358.28,275.18,167860,60.4
+National Health Mission,Health & Family Welfare,Rajasthan,Jodhpur,2021-22,512.56,414.9,342.43,91771,66.8
+National Health Mission,Health & Family Welfare,Rajasthan,Jodhpur,2022-23,571.95,497.54,464.8,269119,81.3
+National Health Mission,Health & Family Welfare,Rajasthan,Jodhpur,2023-24,733.4,694.06,694.06,270683,94.6
+National Health Mission,Health & Family Welfare,Rajasthan,Jodhpur,2024-25,946.35,693.3,583.22,215208,61.6
+National Health Mission,Health & Family Welfare,Rajasthan,Jodhpur,2025-26,1299.42,1028.62,714,317730,54.9
+National Health Mission,Health & Family Welfare,Karnataka,Belagavi,2019-20,495.38,359.75,303.44,134727,61.3
+National Health Mission,Health & Family Welfare,Karnataka,Belagavi,2020-21,476.89,319.49,256.18,129883,53.7
+National Health Mission,Health & Family Welfare,Karnataka,Belagavi,2021-22,522.66,413.2,382.2,59623,73.1
+National Health Mission,Health & Family Welfare,Karnataka,Belagavi,2022-23,584.44,406.86,290.12,147961,49.6
+National Health Mission,Health & Family Welfare,Karnataka,Belagavi,2023-24,735.95,566.13,440.37,162497,59.8
+National Health Mission,Health & Family Welfare,Karnataka,Belagavi,2024-25,872.98,624.58,552.8,190163,63.3
+National Health Mission,Health & Family Welfare,Karnataka,Belagavi,2025-26,1149.67,1064.3,855.84,369723,74.4
+National Health Mission,Health & Family Welfare,Tamil Nadu,Coimbatore,2019-20,662.14,528.32,526.91,206022,79.6
+National Health Mission,Health & Family Welfare,Tamil Nadu,Coimbatore,2020-21,703,478.6,376.2,305851,53.5
+National Health Mission,Health & Family Welfare,Tamil Nadu,Coimbatore,2021-22,764.64,732.82,627.87,117412,82.1
+National Health Mission,Health & Family Welfare,Tamil Nadu,Coimbatore,2022-23,871.23,774.72,514.6,245979,59.1
+National Health Mission,Health & Family Welfare,Tamil Nadu,Coimbatore,2023-24,1074.21,949.53,803.65,279670,74.8
+National Health Mission,Health & Family Welfare,Tamil Nadu,Coimbatore,2024-25,1479.58,1173.4,940.14,373236,63.5
+National Health Mission,Health & Family Welfare,Tamil Nadu,Coimbatore,2025-26,1945.66,1945.66,1493.89,1072613,76.8
+National Health Mission,Health & Family Welfare,Tamil Nadu,Madurai,2019-20,352.65,323.07,249.03,198726,70.6
+National Health Mission,Health & Family Welfare,Tamil Nadu,Madurai,2020-21,338.11,217.16,182.92,139934,54.1
+National Health Mission,Health & Family Welfare,Tamil Nadu,Madurai,2021-22,390.56,332.97,252.32,59800,64.6
+National Health Mission,Health & Family Welfare,Tamil Nadu,Madurai,2022-23,443.04,391.09,277.15,160193,62.6
+National Health Mission,Health & Family Welfare,Tamil Nadu,Madurai,2023-24,530.18,409.26,352.2,51069,66.4
+National Health Mission,Health & Family Welfare,Tamil Nadu,Madurai,2024-25,672.84,641.01,610.6,453676,90.7
+National Health Mission,Health & Family Welfare,Tamil Nadu,Madurai,2025-26,984.44,872.6,829.66,158465,84.3
+National Health Mission,Health & Family Welfare,Bihar,Muzaffarpur,2019-20,286.9,273.36,185.53,69203,64.7
+National Health Mission,Health & Family Welfare,Bihar,Muzaffarpur,2020-21,308.58,205.63,143.27,82667,46.4
+National Health Mission,Health & Family Welfare,Bihar,Muzaffarpur,2021-22,340.61,237.66,222.65,83494,65.4
+National Health Mission,Health & Family Welfare,Bihar,Muzaffarpur,2022-23,379.17,307.34,266.29,147525,70.2
+National Health Mission,Health & Family Welfare,Bihar,Muzaffarpur,2023-24,489.96,377.91,345.76,144528,70.6
+National Health Mission,Health & Family Welfare,Bihar,Muzaffarpur,2024-25,654.95,539.02,530.71,360352,81
+National Health Mission,Health & Family Welfare,Bihar,Muzaffarpur,2025-26,893.57,775.68,616.92,259106,69
+National Health Mission,Health & Family Welfare,Andhra Pradesh,Guntur,2019-20,358.08,315.26,218.85,142909,61.1
+National Health Mission,Health & Family Welfare,Andhra Pradesh,Guntur,2020-21,367.68,247.43,247.43,39589,67.3
+National Health Mission,Health & Family Welfare,Andhra Pradesh,Guntur,2021-22,415.25,292.05,244.84,128051,59
+National Health Mission,Health & Family Welfare,Andhra Pradesh,Guntur,2022-23,492.4,379.72,349.75,65403,71
+National Health Mission,Health & Family Welfare,Andhra Pradesh,Guntur,2023-24,583.57,412.13,366.94,219430,62.9
+National Health Mission,Health & Family Welfare,Andhra Pradesh,Guntur,2024-25,807.2,534.09,508.68,270618,63
+National Health Mission,Health & Family Welfare,Andhra Pradesh,Guntur,2025-26,1119.37,888.15,731.8,552509,65.4
+National Health Mission,Health & Family Welfare,Maharashtra,Nashik,2019-20,455.36,356.05,253.18,142794,55.6
+National Health Mission,Health & Family Welfare,Maharashtra,Nashik,2020-21,445.34,316.36,215.82,133161,48.5
+National Health Mission,Health & Family Welfare,Maharashtra,Nashik,2021-22,463.65,405.99,353.76,317323,76.3
+National Health Mission,Health & Family Welfare,Maharashtra,Nashik,2022-23,552.79,526.48,422.4,136435,76.4
+National Health Mission,Health & Family Welfare,Maharashtra,Nashik,2023-24,753.57,604.63,540.24,114531,71.7
+National Health Mission,Health & Family Welfare,Maharashtra,Nashik,2024-25,996.45,724.22,662.07,411808,66.4
+National Health Mission,Health & Family Welfare,Maharashtra,Nashik,2025-26,1370.61,1281.36,1022.19,202394,74.6
+National Health Mission,Health & Family Welfare,Jharkhand,Ranchi,2019-20,49.16,40.58,37.07,24281,75.4
+National Health Mission,Health & Family Welfare,Jharkhand,Ranchi,2020-21,52.95,30.76,26.73,3715,50.5
+National Health Mission,Health & Family Welfare,Jharkhand,Ranchi,2021-22,56.5,45.26,43.35,21892,76.7
+National Health Mission,Health & Family Welfare,Jharkhand,Ranchi,2022-23,68.77,49.46,43.07,8140,62.6
+National Health Mission,Health & Family Welfare,Jharkhand,Ranchi,2023-24,82.23,76.32,57.11,20274,69.5
+National Health Mission,Health & Family Welfare,Jharkhand,Ranchi,2024-25,104.58,84.17,58.38,18740,55.8
+National Health Mission,Health & Family Welfare,Jharkhand,Ranchi,2025-26,147.17,147.17,131.04,37215,89
+National Health Mission,Health & Family Welfare,Madhya Pradesh,Indore,2019-20,154.76,147.59,131.83,38758,85.2
+National Health Mission,Health & Family Welfare,Madhya Pradesh,Indore,2020-21,170.44,111.28,97.72,55994,57.3
+National Health Mission,Health & Family Welfare,Madhya Pradesh,Indore,2021-22,181.4,164.79,122.41,26318,67.5
+National Health Mission,Health & Family Welfare,Madhya Pradesh,Indore,2022-23,208.86,162.27,155.76,115574,74.6
+National Health Mission,Health & Family Welfare,Madhya Pradesh,Indore,2023-24,272.03,180.7,142.22,101261,52.3
+National Health Mission,Health & Family Welfare,Madhya Pradesh,Indore,2024-25,335.54,321.3,251.49,61364,75
+National Health Mission,Health & Family Welfare,Madhya Pradesh,Indore,2025-26,489.52,405.25,308.81,150082,63.1
+National Health Mission,Health & Family Welfare,Assam,Guwahati,2019-20,204.03,174.89,164.36,21696,80.6
+National Health Mission,Health & Family Welfare,Assam,Guwahati,2020-21,219.41,159.09,124.1,27923,56.6
+National Health Mission,Health & Family Welfare,Assam,Guwahati,2021-22,256.42,197.2,187.43,118081,73.1
+National Health Mission,Health & Family Welfare,Assam,Guwahati,2022-23,275.1,221.56,209.03,159490,76
+National Health Mission,Health & Family Welfare,Assam,Guwahati,2023-24,340.28,340.28,297.66,120255,87.5
+National Health Mission,Health & Family Welfare,Assam,Guwahati,2024-25,445.19,355.88,317.05,132527,71.2
+National Health Mission,Health & Family Welfare,Assam,Guwahati,2025-26,600.2,518.7,449.92,371184,75
+National Health Mission,Health & Family Welfare,Maharashtra,Nagpur,2019-20,266.04,234.97,195.28,138454,73.4
+National Health Mission,Health & Family Welfare,Maharashtra,Nagpur,2020-21,271.97,191.79,149.01,87916,54.8
+National Health Mission,Health & Family Welfare,Maharashtra,Nagpur,2021-22,307.34,299.62,210.85,149282,68.6
+National Health Mission,Health & Family Welfare,Maharashtra,Nagpur,2022-23,356,283.26,245.44,34852,68.9
+National Health Mission,Health & Family Welfare,Maharashtra,Nagpur,2023-24,430.17,420.82,348.2,120477,80.9
+National Health Mission,Health & Family Welfare,Maharashtra,Nagpur,2024-25,562.58,536.97,419.77,259418,74.6
+National Health Mission,Health & Family Welfare,Maharashtra,Nagpur,2025-26,796.07,575.22,453.23,394310,56.9
+Jal Jeevan Mission,Jal Shakti,Tamil Nadu,Coimbatore,2019-20,71.61,59.8,39.07,29889,54.6
+Jal Jeevan Mission,Jal Shakti,Tamil Nadu,Coimbatore,2020-21,70.51,40.07,14.14,9714,20.1
+Jal Jeevan Mission,Jal Shakti,Tamil Nadu,Coimbatore,2021-22,77.17,54.2,20.65,7496,26.8
+Jal Jeevan Mission,Jal Shakti,Tamil Nadu,Coimbatore,2022-23,86.88,75.46,57.08,11873,65.7
+Jal Jeevan Mission,Jal Shakti,Tamil Nadu,Coimbatore,2023-24,103.92,88.59,33.49,14769,32.2
+Jal Jeevan Mission,Jal Shakti,Tamil Nadu,Coimbatore,2024-25,130.57,125.51,40.29,5197,30.9
+Jal Jeevan Mission,Jal Shakti,Tamil Nadu,Coimbatore,2025-26,165.06,116.32,107.65,77508,65.2
+Jal Jeevan Mission,Jal Shakti,Odisha,Cuttack,2019-20,274.36,224.71,98.42,17617,35.9
+Jal Jeevan Mission,Jal Shakti,Odisha,Cuttack,2020-21,286.28,180.03,164.88,33141,57.6
+Jal Jeevan Mission,Jal Shakti,Odisha,Cuttack,2021-22,317.84,298.99,122.88,89580,38.7
+Jal Jeevan Mission,Jal Shakti,Odisha,Cuttack,2022-23,349.12,264.88,238.18,111945,68.2
+Jal Jeevan Mission,Jal Shakti,Odisha,Cuttack,2023-24,461.43,343.24,272.67,173145,59.1
+Jal Jeevan Mission,Jal Shakti,Odisha,Cuttack,2024-25,591.7,480.04,448.05,362472,75.7
+Jal Jeevan Mission,Jal Shakti,Odisha,Cuttack,2025-26,827.67,634.14,263.8,202598,31.9
+Jal Jeevan Mission,Jal Shakti,Maharashtra,Nagpur,2019-20,155.54,125.38,80.55,67340,51.8
+Jal Jeevan Mission,Jal Shakti,Maharashtra,Nagpur,2020-21,155.02,102.4,44.75,30743,28.9
+Jal Jeevan Mission,Jal Shakti,Maharashtra,Nagpur,2021-22,168.49,144.15,63.28,34234,37.6
+Jal Jeevan Mission,Jal Shakti,Maharashtra,Nagpur,2022-23,198.25,148.02,127.92,84939,64.5
+Jal Jeevan Mission,Jal Shakti,Maharashtra,Nagpur,2023-24,237.4,185.55,71.07,31129,29.9
+Jal Jeevan Mission,Jal Shakti,Maharashtra,Nagpur,2024-25,323.26,287.43,100.31,21065,31
+Jal Jeevan Mission,Jal Shakti,Maharashtra,Nagpur,2025-26,471.87,448.65,335.03,121281,71
+Jal Jeevan Mission,Jal Shakti,Uttarakhand,Dehradun,2019-20,662.7,527.03,511.04,413431,77.1
+Jal Jeevan Mission,Jal Shakti,Uttarakhand,Dehradun,2020-21,680.29,421.88,168.33,73560,24.7
+Jal Jeevan Mission,Jal Shakti,Uttarakhand,Dehradun,2021-22,677.03,632.9,546.28,167708,80.7
+Jal Jeevan Mission,Jal Shakti,Uttarakhand,Dehradun,2022-23,814.03,790.39,742.73,228761,91.2
+Jal Jeevan Mission,Jal Shakti,Uttarakhand,Dehradun,2023-24,986.64,810.47,771.95,509487,78.2
+Jal Jeevan Mission,Jal Shakti,Uttarakhand,Dehradun,2024-25,1287,1053.58,655.79,135093,51
+Jal Jeevan Mission,Jal Shakti,Uttarakhand,Dehradun,2025-26,1729.78,1526.23,1273.27,421452,73.6
+Jal Jeevan Mission,Jal Shakti,Tamil Nadu,Tiruchirappalli,2019-20,591.77,502.31,489.58,162541,82.7
+Jal Jeevan Mission,Jal Shakti,Tamil Nadu,Tiruchirappalli,2020-21,555.35,341.04,283.84,240412,51.1
+Jal Jeevan Mission,Jal Shakti,Tamil Nadu,Tiruchirappalli,2021-22,647.57,424.38,127.31,16296,19.7
+Jal Jeevan Mission,Jal Shakti,Tamil Nadu,Tiruchirappalli,2022-23,778.64,529.78,410.2,182129,52.7
+Jal Jeevan Mission,Jal Shakti,Tamil Nadu,Tiruchirappalli,2023-24,998.15,914.5,714.35,201447,71.6
+Jal Jeevan Mission,Jal Shakti,Tamil Nadu,Tiruchirappalli,2024-25,1351.86,1078.22,891.97,114172,66
+Jal Jeevan Mission,Jal Shakti,Tamil Nadu,Tiruchirappalli,2025-26,1784.52,1680.95,1680.95,1000165,94.2
+Jal Jeevan Mission,Jal Shakti,Rajasthan,Udaipur,2019-20,248.79,204.99,191.27,71726,76.9
+Jal Jeevan Mission,Jal Shakti,Rajasthan,Udaipur,2020-21,266.39,207.2,152.92,50769,57.4
+Jal Jeevan Mission,Jal Shakti,Rajasthan,Udaipur,2021-22,300.23,242.26,77.28,67002,25.7
+Jal Jeevan Mission,Jal Shakti,Rajasthan,Udaipur,2022-23,355.93,299.57,263.3,46078,74
+Jal Jeevan Mission,Jal Shakti,Rajasthan,Udaipur,2023-24,430.74,371.81,371.81,61720,86.3
+Jal Jeevan Mission,Jal Shakti,Rajasthan,Udaipur,2024-25,548.73,512.5,512.5,178350,93.4
+Jal Jeevan Mission,Jal Shakti,Rajasthan,Udaipur,2025-26,699.58,487.78,402.31,99371,57.5
+Jal Jeevan Mission,Jal Shakti,Rajasthan,Jaipur,2019-20,764.86,678.85,384.47,189544,50.3
+Jal Jeevan Mission,Jal Shakti,Rajasthan,Jaipur,2020-21,865.93,646.65,281.94,156477,32.6
+Jal Jeevan Mission,Jal Shakti,Rajasthan,Jaipur,2021-22,1036.9,982.29,863.39,180449,83.3
+Jal Jeevan Mission,Jal Shakti,Rajasthan,Jaipur,2022-23,1270.45,1151.86,755.45,466113,59.5
+Jal Jeevan Mission,Jal Shakti,Rajasthan,Jaipur,2023-24,1548.75,1382.7,504.69,362872,32.6
+Jal Jeevan Mission,Jal Shakti,Rajasthan,Jaipur,2024-25,1954.06,1820.71,795.65,365203,40.7
+Jal Jeevan Mission,Jal Shakti,Rajasthan,Jaipur,2025-26,2836.37,2735.75,2294.69,1115219,80.9
+Jal Jeevan Mission,Jal Shakti,Punjab,Amritsar,2019-20,282.84,227.99,227.38,40701,80.4
+Jal Jeevan Mission,Jal Shakti,Punjab,Amritsar,2020-21,312.06,175.4,121.01,24565,38.8
+Jal Jeevan Mission,Jal Shakti,Punjab,Amritsar,2021-22,359.55,347.95,334.04,68144,92.9
+Jal Jeevan Mission,Jal Shakti,Punjab,Amritsar,2022-23,455.51,361.13,291.05,56464,63.9
+Jal Jeevan Mission,Jal Shakti,Punjab,Amritsar,2023-24,579.02,525.62,171.35,39068,29.6
+Jal Jeevan Mission,Jal Shakti,Punjab,Amritsar,2024-25,740.04,541.23,195.93,88364,26.5
+Jal Jeevan Mission,Jal Shakti,Punjab,Amritsar,2025-26,998.19,875.02,286.13,126183,28.7
+Jal Jeevan Mission,Jal Shakti,Punjab,Ludhiana,2019-20,486.73,466.68,466.68,119003,95.9
+Jal Jeevan Mission,Jal Shakti,Punjab,Ludhiana,2020-21,508.34,367.49,308.43,227621,60.7
+Jal Jeevan Mission,Jal Shakti,Punjab,Ludhiana,2021-22,574.29,472.6,429.84,371812,74.8
+Jal Jeevan Mission,Jal Shakti,Punjab,Ludhiana,2022-23,761.14,547.24,168.55,140234,22.1
+Jal Jeevan Mission,Jal Shakti,Punjab,Ludhiana,2023-24,951.02,737.36,647.23,280898,68.1
+Jal Jeevan Mission,Jal Shakti,Punjab,Ludhiana,2024-25,1309.42,1199.67,1199.67,501462,91.6
+Jal Jeevan Mission,Jal Shakti,Punjab,Ludhiana,2025-26,1773.66,1445.45,1399.14,1129106,78.9
+Jal Jeevan Mission,Jal Shakti,Bihar,Gaya,2019-20,731.56,715.21,637.97,329830,87.2
+Jal Jeevan Mission,Jal Shakti,Bihar,Gaya,2020-21,766.93,493.03,162.7,142037,21.2
+Jal Jeevan Mission,Jal Shakti,Bihar,Gaya,2021-22,802.19,717.47,456.87,310672,57
+Jal Jeevan Mission,Jal Shakti,Bihar,Gaya,2022-23,903.86,697.52,306.21,74409,33.9
+Jal Jeevan Mission,Jal Shakti,Bihar,Gaya,2023-24,1126.42,1085.85,1085.85,200882,96.4
+Jal Jeevan Mission,Jal Shakti,Bihar,Gaya,2024-25,1449.06,1343.49,930.57,171225,64.2
+Jal Jeevan Mission,Jal Shakti,Bihar,Gaya,2025-26,1946.99,1809.66,741.96,330914,38.1
+Jal Jeevan Mission,Jal Shakti,Maharashtra,Nashik,2019-20,454,344.4,236.74,200045,52.1
+Jal Jeevan Mission,Jal Shakti,Maharashtra,Nashik,2020-21,499.91,370.43,305.85,263337,61.2
+Jal Jeevan Mission,Jal Shakti,Maharashtra,Nashik,2021-22,605.84,508.19,439.42,141493,72.5
+Jal Jeevan Mission,Jal Shakti,Maharashtra,Nashik,2022-23,743.51,721.43,222.92,115695,30
+Jal Jeevan Mission,Jal Shakti,Maharashtra,Nashik,2023-24,881.37,664.16,664.16,361303,75.4
+Jal Jeevan Mission,Jal Shakti,Maharashtra,Nashik,2024-25,1136.79,933.24,785.04,462389,69.1
+Jal Jeevan Mission,Jal Shakti,Maharashtra,Nashik,2025-26,1601.1,1530.47,1238.13,564587,77.3
+Jal Jeevan Mission,Jal Shakti,Madhya Pradesh,Bhopal,2019-20,535.9,409.38,399.02,274526,74.5
+Jal Jeevan Mission,Jal Shakti,Madhya Pradesh,Bhopal,2020-21,555.89,421.81,408.51,203438,73.5
+Jal Jeevan Mission,Jal Shakti,Madhya Pradesh,Bhopal,2021-22,653.55,584.04,435.96,202721,66.7
+Jal Jeevan Mission,Jal Shakti,Madhya Pradesh,Bhopal,2022-23,744.8,652.69,558.74,400058,75
+Jal Jeevan Mission,Jal Shakti,Madhya Pradesh,Bhopal,2023-24,985.19,747.95,620.42,76932,63
+Jal Jeevan Mission,Jal Shakti,Madhya Pradesh,Bhopal,2024-25,1280.4,1280.4,1148.23,694679,89.7
+Jal Jeevan Mission,Jal Shakti,Madhya Pradesh,Bhopal,2025-26,1701.72,1210.43,1022.47,807751,60.1
+AMRUT 2.0,Urban Affairs,Karnataka,Bengaluru Urban,2019-20,182.64,166.38,130.51,85354,71.5
+AMRUT 2.0,Urban Affairs,Karnataka,Bengaluru Urban,2020-21,186.13,105.04,88.56,69608,47.6
+AMRUT 2.0,Urban Affairs,Karnataka,Bengaluru Urban,2021-22,197.21,187.15,167.22,110365,84.8
+AMRUT 2.0,Urban Affairs,Karnataka,Bengaluru Urban,2022-23,218.76,198.1,178.49,105845,81.6
+AMRUT 2.0,Urban Affairs,Karnataka,Bengaluru Urban,2023-24,292.02,273.92,260.03,124034,89
+AMRUT 2.0,Urban Affairs,Karnataka,Bengaluru Urban,2024-25,384.96,384.96,341.8,173976,88.8
+AMRUT 2.0,Urban Affairs,Karnataka,Bengaluru Urban,2025-26,507.52,383.29,353.76,130537,69.7
+AMRUT 2.0,Urban Affairs,Punjab,Amritsar,2019-20,386.18,289.74,235.47,165771,61
+AMRUT 2.0,Urban Affairs,Punjab,Amritsar,2020-21,455.72,341.35,328.54,51909,72.1
+AMRUT 2.0,Urban Affairs,Punjab,Amritsar,2021-22,512.83,428.82,288.98,110390,56.4
+AMRUT 2.0,Urban Affairs,Punjab,Amritsar,2022-23,623.72,573.25,474.33,383733,76
+AMRUT 2.0,Urban Affairs,Punjab,Amritsar,2023-24,778.79,616.75,348.54,83998,44.8
+AMRUT 2.0,Urban Affairs,Punjab,Amritsar,2024-25,949.56,801.94,632.69,184113,66.6
+AMRUT 2.0,Urban Affairs,Punjab,Amritsar,2025-26,1238.58,1066.11,733.07,612847,59.2
+AMRUT 2.0,Urban Affairs,Bihar,Muzaffarpur,2019-20,672.9,650.27,479.3,59433,71.2
+AMRUT 2.0,Urban Affairs,Bihar,Muzaffarpur,2020-21,672.6,425.24,410.62,290308,61
+AMRUT 2.0,Urban Affairs,Bihar,Muzaffarpur,2021-22,729,535.29,420.64,107263,57.7
+AMRUT 2.0,Urban Affairs,Bihar,Muzaffarpur,2022-23,866.24,746.51,584.85,243882,67.5
+AMRUT 2.0,Urban Affairs,Bihar,Muzaffarpur,2023-24,1096.09,1066.35,804.25,486571,73.4
+AMRUT 2.0,Urban Affairs,Bihar,Muzaffarpur,2024-25,1466.59,1196.37,1081.79,726963,73.8
+AMRUT 2.0,Urban Affairs,Bihar,Muzaffarpur,2025-26,2110.07,1889.93,1654.18,937920,78.4
+AMRUT 2.0,Urban Affairs,Uttar Pradesh,Varanasi,2019-20,771.91,748.28,748.28,620324,96.9
+AMRUT 2.0,Urban Affairs,Uttar Pradesh,Varanasi,2020-21,823.71,543.37,406.55,74399,49.4
+AMRUT 2.0,Urban Affairs,Uttar Pradesh,Varanasi,2021-22,982.91,776.72,440.62,81515,44.8
+AMRUT 2.0,Urban Affairs,Uttar Pradesh,Varanasi,2022-23,1166.62,1151.57,964.72,844130,82.7
+AMRUT 2.0,Urban Affairs,Uttar Pradesh,Varanasi,2023-24,1393.78,1081.04,942.76,734410,67.6
+AMRUT 2.0,Urban Affairs,Uttar Pradesh,Varanasi,2024-25,1797.21,1371.1,1319.93,423698,73.4
+AMRUT 2.0,Urban Affairs,Uttar Pradesh,Varanasi,2025-26,2460.07,2260.35,2002.62,929216,81.4
+AMRUT 2.0,Urban Affairs,Madhya Pradesh,Bhopal,2019-20,707.95,566.71,482.43,154860,68.1
+AMRUT 2.0,Urban Affairs,Madhya Pradesh,Bhopal,2020-21,772.04,465.26,376.39,47802,48.8
+AMRUT 2.0,Urban Affairs,Madhya Pradesh,Bhopal,2021-22,881.79,654.02,654.02,496401,74.2
+AMRUT 2.0,Urban Affairs,Madhya Pradesh,Bhopal,2022-23,1070.98,899.53,795.98,646336,74.3
+AMRUT 2.0,Urban Affairs,Madhya Pradesh,Bhopal,2023-24,1449.9,1204.3,1008.92,395497,69.6
+AMRUT 2.0,Urban Affairs,Madhya Pradesh,Bhopal,2024-25,1980.69,1602.32,1162.23,367265,58.7
+AMRUT 2.0,Urban Affairs,Madhya Pradesh,Bhopal,2025-26,2739.49,2396.7,2255.8,446648,82.3
+AMRUT 2.0,Urban Affairs,Gujarat,Rajkot,2019-20,303.7,284.5,188.37,153145,62
+AMRUT 2.0,Urban Affairs,Gujarat,Rajkot,2020-21,322.21,200.08,173.38,150494,53.8
+AMRUT 2.0,Urban Affairs,Gujarat,Rajkot,2021-22,358.63,289.18,242.7,71354,67.7
+AMRUT 2.0,Urban Affairs,Gujarat,Rajkot,2022-23,435.05,397.7,237.1,128271,54.5
+AMRUT 2.0,Urban Affairs,Gujarat,Rajkot,2023-24,560.7,560.7,405.74,165136,72.4
+AMRUT 2.0,Urban Affairs,Gujarat,Rajkot,2024-25,758.25,586.13,555.71,248402,73.3
+AMRUT 2.0,Urban Affairs,Gujarat,Rajkot,2025-26,1008,884.84,579.11,231644,57.5
+AMRUT 2.0,Urban Affairs,Madhya Pradesh,Indore,2019-20,599.46,450.46,391.53,310875,65.3
+AMRUT 2.0,Urban Affairs,Madhya Pradesh,Indore,2020-21,619.49,382.55,347.04,311989,56
+AMRUT 2.0,Urban Affairs,Madhya Pradesh,Indore,2021-22,666.07,496.88,489.46,394015,73.5
+AMRUT 2.0,Urban Affairs,Madhya Pradesh,Indore,2022-23,740.87,720.65,682.47,354202,92.1
+AMRUT 2.0,Urban Affairs,Madhya Pradesh,Indore,2023-24,905.61,866.97,699.06,100665,77.2
+AMRUT 2.0,Urban Affairs,Madhya Pradesh,Indore,2024-25,1200.88,1200.88,1059.86,381550,88.3
+AMRUT 2.0,Urban Affairs,Madhya Pradesh,Indore,2025-26,1541.07,1352.54,1047.06,340295,67.9
+AMRUT 2.0,Urban Affairs,Uttar Pradesh,Kanpur Nagar,2019-20,795.11,684.48,657.88,394070,82.7
+AMRUT 2.0,Urban Affairs,Uttar Pradesh,Kanpur Nagar,2020-21,789.47,479.29,442.59,285028,56.1
+AMRUT 2.0,Urban Affairs,Uttar Pradesh,Kanpur Nagar,2021-22,855.63,718.98,625.89,559546,73.1
+AMRUT 2.0,Urban Affairs,Uttar Pradesh,Kanpur Nagar,2022-23,894.03,766.05,766.05,305654,85.7
+AMRUT 2.0,Urban Affairs,Uttar Pradesh,Kanpur Nagar,2023-24,1058.61,797.93,566,383182,53.5
+AMRUT 2.0,Urban Affairs,Uttar Pradesh,Kanpur Nagar,2024-25,1423.96,1154.44,997.17,163536,70
+AMRUT 2.0,Urban Affairs,Uttar Pradesh,Kanpur Nagar,2025-26,2045.41,1660.7,1557.78,386329,76.2
+AMRUT 2.0,Urban Affairs,Punjab,Ludhiana,2019-20,631.06,626.81,493.57,380049,78.2
+AMRUT 2.0,Urban Affairs,Punjab,Ludhiana,2020-21,684.3,421.67,331.8,68351,48.5
+AMRUT 2.0,Urban Affairs,Punjab,Ludhiana,2021-22,782.19,746.58,536.21,391433,68.6
+AMRUT 2.0,Urban Affairs,Punjab,Ludhiana,2022-23,896.54,661.42,582.22,333030,64.9
+AMRUT 2.0,Urban Affairs,Punjab,Ludhiana,2023-24,1070.01,940.48,806.54,186311,75.4
+AMRUT 2.0,Urban Affairs,Punjab,Ludhiana,2024-25,1400.21,1082.69,1082.69,430911,77.3
+AMRUT 2.0,Urban Affairs,Punjab,Ludhiana,2025-26,1875.42,1340.56,944.05,124615,50.3
+AMRUT 2.0,Urban Affairs,Tamil Nadu,Tiruchirappalli,2019-20,361.95,293.86,239.5,181781,66.2
+AMRUT 2.0,Urban Affairs,Tamil Nadu,Tiruchirappalli,2020-21,391.89,245.13,241.23,151492,61.6
+AMRUT 2.0,Urban Affairs,Tamil Nadu,Tiruchirappalli,2021-22,443.81,359.68,305.25,252747,68.8
+AMRUT 2.0,Urban Affairs,Tamil Nadu,Tiruchirappalli,2022-23,528.08,394.6,241.77,119434,45.8
+AMRUT 2.0,Urban Affairs,Tamil Nadu,Tiruchirappalli,2023-24,696.64,587.81,437.49,309743,62.8
+AMRUT 2.0,Urban Affairs,Tamil Nadu,Tiruchirappalli,2024-25,879.16,842.54,759.38,476131,86.4
+AMRUT 2.0,Urban Affairs,Tamil Nadu,Tiruchirappalli,2025-26,1247.63,1162.63,801.76,345559,64.3
+AMRUT 2.0,Urban Affairs,Kerala,Ernakulam,2019-20,638.23,625.34,609.35,530135,95.5
+AMRUT 2.0,Urban Affairs,Kerala,Ernakulam,2020-21,635.93,427.41,427.41,177803,67.2
+AMRUT 2.0,Urban Affairs,Kerala,Ernakulam,2021-22,787.85,588.34,466.86,397298,59.3
+AMRUT 2.0,Urban Affairs,Kerala,Ernakulam,2022-23,933.91,613.86,613.86,111723,65.7
+AMRUT 2.0,Urban Affairs,Kerala,Ernakulam,2023-24,1132.79,1132.79,734.94,426265,64.9
+AMRUT 2.0,Urban Affairs,Kerala,Ernakulam,2024-25,1458.98,1307.05,1301.08,1163166,89.2
+AMRUT 2.0,Urban Affairs,Kerala,Ernakulam,2025-26,1983.76,1865.09,1402.64,662046,70.7
+AMRUT 2.0,Urban Affairs,Tamil Nadu,Coimbatore,2019-20,637.8,520.41,369.39,58733,57.9
+AMRUT 2.0,Urban Affairs,Tamil Nadu,Coimbatore,2020-21,695.08,459.97,457.89,376386,65.9
+AMRUT 2.0,Urban Affairs,Tamil Nadu,Coimbatore,2021-22,777.06,652.2,526.4,451125,67.7
+AMRUT 2.0,Urban Affairs,Tamil Nadu,Coimbatore,2022-23,888.26,822.2,715.08,243842,80.5
+AMRUT 2.0,Urban Affairs,Tamil Nadu,Coimbatore,2023-24,1083.44,993.91,757.51,474201,69.9
+AMRUT 2.0,Urban Affairs,Tamil Nadu,Coimbatore,2024-25,1469.31,1235.3,899.91,701030,61.2
+AMRUT 2.0,Urban Affairs,Tamil Nadu,Coimbatore,2025-26,1971.35,1546.53,995.04,411947,50.5
+Swachh Bharat Mission Urban,Urban Affairs,Jharkhand,Ranchi,2019-20,824.2,824.2,535.37,457206,65
+Swachh Bharat Mission Urban,Urban Affairs,Jharkhand,Ranchi,2020-21,862.72,548.45,500.8,365083,58
+Swachh Bharat Mission Urban,Urban Affairs,Jharkhand,Ranchi,2021-22,989.53,958.28,825.77,173412,83.5
+Swachh Bharat Mission Urban,Urban Affairs,Jharkhand,Ranchi,2022-23,1069.2,916.97,652.06,544470,61
+Swachh Bharat Mission Urban,Urban Affairs,Jharkhand,Ranchi,2023-24,1292.05,1131.32,849.96,558424,65.8
+Swachh Bharat Mission Urban,Urban Affairs,Jharkhand,Ranchi,2024-25,1715.44,1502.47,1308.78,778724,76.3
+Swachh Bharat Mission Urban,Urban Affairs,Jharkhand,Ranchi,2025-26,2420.26,1811.49,1045.17,692948,43.2
+Swachh Bharat Mission Urban,Urban Affairs,Odisha,Ganjam,2019-20,117.09,102.08,94.04,75138,80.3
+Swachh Bharat Mission Urban,Urban Affairs,Odisha,Ganjam,2020-21,121.99,88.4,72.54,28218,59.5
+Swachh Bharat Mission Urban,Urban Affairs,Odisha,Ganjam,2021-22,131.72,115.99,112.35,99992,85.3
+Swachh Bharat Mission Urban,Urban Affairs,Odisha,Ganjam,2022-23,162.43,122.16,93.41,73607,57.5
+Swachh Bharat Mission Urban,Urban Affairs,Odisha,Ganjam,2023-24,199.37,145.96,117.63,27173,59
+Swachh Bharat Mission Urban,Urban Affairs,Odisha,Ganjam,2024-25,252.7,230.11,230.11,90433,91.1
+Swachh Bharat Mission Urban,Urban Affairs,Odisha,Ganjam,2025-26,336.29,336.29,264.76,102992,78.7
+Swachh Bharat Mission Urban,Urban Affairs,Punjab,Amritsar,2019-20,497.9,387.33,209.02,179966,42
+Swachh Bharat Mission Urban,Urban Affairs,Punjab,Amritsar,2020-21,494.45,281.94,275.77,49914,55.8
+Swachh Bharat Mission Urban,Urban Affairs,Punjab,Amritsar,2021-22,615.86,546.51,331.32,44066,53.8
+Swachh Bharat Mission Urban,Urban Affairs,Punjab,Amritsar,2022-23,735.27,631.15,558.06,452587,75.9
+Swachh Bharat Mission Urban,Urban Affairs,Punjab,Amritsar,2023-24,923.68,659.12,596.01,142446,64.5
+Swachh Bharat Mission Urban,Urban Affairs,Punjab,Amritsar,2024-25,1166.94,829.68,621.74,155435,53.3
+Swachh Bharat Mission Urban,Urban Affairs,Punjab,Amritsar,2025-26,1550.19,1405.31,1303.15,796225,84.1
+Swachh Bharat Mission Urban,Urban Affairs,Madhya Pradesh,Indore,2019-20,577.78,447.44,324.53,178816,56.2
+Swachh Bharat Mission Urban,Urban Affairs,Madhya Pradesh,Indore,2020-21,599.44,501.49,445.49,111818,74.3
+Swachh Bharat Mission Urban,Urban Affairs,Madhya Pradesh,Indore,2021-22,683.04,523.21,351.52,178221,51.5
+Swachh Bharat Mission Urban,Urban Affairs,Madhya Pradesh,Indore,2022-23,764.94,707.89,572.48,106481,74.8
+Swachh Bharat Mission Urban,Urban Affairs,Madhya Pradesh,Indore,2023-24,892.81,702.38,533.17,404143,59.7
+Swachh Bharat Mission Urban,Urban Affairs,Madhya Pradesh,Indore,2024-25,1137.77,1103.82,855.69,697387,75.2
+Swachh Bharat Mission Urban,Urban Affairs,Madhya Pradesh,Indore,2025-26,1522.96,1402.9,815.33,336731,53.5
+Swachh Bharat Mission Urban,Urban Affairs,Bihar,Patna,2019-20,586.47,586.47,483.76,273324,82.5
+Swachh Bharat Mission Urban,Urban Affairs,Bihar,Patna,2020-21,588.09,437.68,397.84,172265,67.6
+Swachh Bharat Mission Urban,Urban Affairs,Bihar,Patna,2021-22,628.57,525.56,259.46,67979,41.3
+Swachh Bharat Mission Urban,Urban Affairs,Bihar,Patna,2022-23,716.7,523.48,390.13,250463,54.4
+Swachh Bharat Mission Urban,Urban Affairs,Bihar,Patna,2023-24,958.1,776.28,583.8,287230,60.9
+Swachh Bharat Mission Urban,Urban Affairs,Bihar,Patna,2024-25,1220.38,974.93,817.77,219162,67
+Swachh Bharat Mission Urban,Urban Affairs,Bihar,Patna,2025-26,1800.85,1800.85,1455.11,660620,80.8
+Swachh Bharat Mission Urban,Urban Affairs,Andhra Pradesh,Guntur,2019-20,506.15,367.62,367.62,62863,72.6
+Swachh Bharat Mission Urban,Urban Affairs,Andhra Pradesh,Guntur,2020-21,521.8,342.89,270.64,205957,51.9
+Swachh Bharat Mission Urban,Urban Affairs,Andhra Pradesh,Guntur,2021-22,577.55,505.28,380.63,325439,65.9
+Swachh Bharat Mission Urban,Urban Affairs,Andhra Pradesh,Guntur,2022-23,675.78,627.62,521.14,75565,77.1
+Swachh Bharat Mission Urban,Urban Affairs,Andhra Pradesh,Guntur,2023-24,820.36,711.05,648.62,495546,79.1
+Swachh Bharat Mission Urban,Urban Affairs,Andhra Pradesh,Guntur,2024-25,1044.91,847.8,780.04,547588,74.7
+Swachh Bharat Mission Urban,Urban Affairs,Andhra Pradesh,Guntur,2025-26,1389.89,1102.72,725.26,94284,52.2
+Swachh Bharat Mission Urban,Urban Affairs,Maharashtra,Pune,2019-20,423.18,414.26,340.24,266748,80.4
+Swachh Bharat Mission Urban,Urban Affairs,Maharashtra,Pune,2020-21,454.16,226.74,216.25,163485,47.6
+Swachh Bharat Mission Urban,Urban Affairs,Maharashtra,Pune,2021-22,504.75,504.75,504.75,393200,100
+Swachh Bharat Mission Urban,Urban Affairs,Maharashtra,Pune,2022-23,607.67,484.99,421.97,122371,69.4
+Swachh Bharat Mission Urban,Urban Affairs,Maharashtra,Pune,2023-24,742.78,742.78,566.11,104164,76.2
+Swachh Bharat Mission Urban,Urban Affairs,Maharashtra,Pune,2024-25,941.22,739.39,595.41,485259,63.3
+Swachh Bharat Mission Urban,Urban Affairs,Maharashtra,Pune,2025-26,1221.2,904.04,698.38,115931,57.2
+Swachh Bharat Mission Urban,Urban Affairs,Punjab,Ludhiana,2019-20,606.33,458.64,388.51,205522,64.1
+Swachh Bharat Mission Urban,Urban Affairs,Punjab,Ludhiana,2020-21,677.71,495.12,449.02,256839,66.3
+Swachh Bharat Mission Urban,Urban Affairs,Punjab,Ludhiana,2021-22,780.53,780.43,520.13,207012,66.6
+Swachh Bharat Mission Urban,Urban Affairs,Punjab,Ludhiana,2022-23,917.32,719.65,608.53,93714,66.3
+Swachh Bharat Mission Urban,Urban Affairs,Punjab,Ludhiana,2023-24,1153.05,917.88,541.07,286226,46.9
+Swachh Bharat Mission Urban,Urban Affairs,Punjab,Ludhiana,2024-25,1436.5,1153.99,1056.3,536600,73.5
+Swachh Bharat Mission Urban,Urban Affairs,Punjab,Ludhiana,2025-26,1935.02,1712.92,1510.16,844179,78
+Swachh Bharat Mission Urban,Urban Affairs,Kerala,Ernakulam,2019-20,848.03,848.03,638.05,122506,75.2
+Swachh Bharat Mission Urban,Urban Affairs,Kerala,Ernakulam,2020-21,868.04,588.88,379.56,68700,43.7
+Swachh Bharat Mission Urban,Urban Affairs,Kerala,Ernakulam,2021-22,996.96,956.14,692.26,593959,69.4
+Swachh Bharat Mission Urban,Urban Affairs,Kerala,Ernakulam,2022-23,1166.3,1166.3,974.54,566208,83.6
+Swachh Bharat Mission Urban,Urban Affairs,Kerala,Ernakulam,2023-24,1557.32,1086.93,733.79,588500,47.1
+Swachh Bharat Mission Urban,Urban Affairs,Kerala,Ernakulam,2024-25,1935.43,1544.29,1337.99,270274,69.1
+Swachh Bharat Mission Urban,Urban Affairs,Kerala,Ernakulam,2025-26,2656.66,1819.53,1702.56,975567,64.1
+Swachh Bharat Mission Urban,Urban Affairs,Gujarat,Ahmedabad,2019-20,582.44,397.54,286.45,135204,49.2
+Swachh Bharat Mission Urban,Urban Affairs,Gujarat,Ahmedabad,2020-21,608.19,460.79,423.47,358679,69.6
+Swachh Bharat Mission Urban,Urban Affairs,Gujarat,Ahmedabad,2021-22,719.29,719.29,568.52,109724,79
+Swachh Bharat Mission Urban,Urban Affairs,Gujarat,Ahmedabad,2022-23,875.29,805.86,661.58,324174,75.6
+Swachh Bharat Mission Urban,Urban Affairs,Gujarat,Ahmedabad,2023-24,1081.82,735.67,718.99,327140,66.5
+Swachh Bharat Mission Urban,Urban Affairs,Gujarat,Ahmedabad,2024-25,1356.93,1139.89,964.14,507138,71.1
+Swachh Bharat Mission Urban,Urban Affairs,Gujarat,Ahmedabad,2025-26,1851.9,1784.37,1395.77,293112,75.4
+Swachh Bharat Mission Urban,Urban Affairs,Madhya Pradesh,Gwalior,2019-20,827.09,768.08,513.1,116474,62
+Swachh Bharat Mission Urban,Urban Affairs,Madhya Pradesh,Gwalior,2020-21,834.16,571.2,486.25,207143,58.3
+Swachh Bharat Mission Urban,Urban Affairs,Madhya Pradesh,Gwalior,2021-22,945.8,889.65,595.11,264229,62.9
+Swachh Bharat Mission Urban,Urban Affairs,Madhya Pradesh,Gwalior,2022-23,1125.59,920.62,892.38,227557,79.3
+Swachh Bharat Mission Urban,Urban Affairs,Madhya Pradesh,Gwalior,2023-24,1407.84,1152.92,1015.64,279301,72.1
+Swachh Bharat Mission Urban,Urban Affairs,Madhya Pradesh,Gwalior,2024-25,1830.71,1280.48,996.75,787433,54.4
+Swachh Bharat Mission Urban,Urban Affairs,Madhya Pradesh,Gwalior,2025-26,2430.75,1874.53,1447.43,992937,59.5
+Swachh Bharat Mission Urban,Urban Affairs,Rajasthan,Jaipur,2019-20,243.15,219.85,168.39,77965,69.3
+Swachh Bharat Mission Urban,Urban Affairs,Rajasthan,Jaipur,2020-21,249.35,135.05,135.05,20258,54.2
+Swachh Bharat Mission Urban,Urban Affairs,Rajasthan,Jaipur,2021-22,270.66,242.47,201.76,59317,74.5
+Swachh Bharat Mission Urban,Urban Affairs,Rajasthan,Jaipur,2022-23,294.28,247.61,247.61,131233,84.1
+Swachh Bharat Mission Urban,Urban Affairs,Rajasthan,Jaipur,2023-24,323.66,323.66,298.3,169733,92.2
+Swachh Bharat Mission Urban,Urban Affairs,Rajasthan,Jaipur,2024-25,417.78,284.61,234.32,42178,56.1
+Swachh Bharat Mission Urban,Urban Affairs,Rajasthan,Jaipur,2025-26,572.53,519.77,418.2,272248,73
+PMGSY Rural Roads,Rural Development,Bihar,Patna,2019-20,187.98,167.24,140.66,85240,74.8
+PMGSY Rural Roads,Rural Development,Bihar,Patna,2020-21,209.47,136.32,117.45,52030,56.1
+PMGSY Rural Roads,Rural Development,Bihar,Patna,2021-22,235.73,194.85,194.85,93918,82.7
+PMGSY Rural Roads,Rural Development,Bihar,Patna,2022-23,267.25,249.02,190.15,60468,71.2
+PMGSY Rural Roads,Rural Development,Bihar,Patna,2023-24,353.27,310.83,221.56,118091,62.7
+PMGSY Rural Roads,Rural Development,Bihar,Patna,2024-25,446.89,340.83,331.87,80313,74.3
+PMGSY Rural Roads,Rural Development,Bihar,Patna,2025-26,599.81,534.08,521.35,422294,86.9
+PMGSY Rural Roads,Rural Development,Punjab,Amritsar,2019-20,497.31,402.81,276.07,199599,55.5
+PMGSY Rural Roads,Rural Development,Punjab,Amritsar,2020-21,521.11,341.81,249.48,201829,47.9
+PMGSY Rural Roads,Rural Development,Punjab,Amritsar,2021-22,588.67,490.8,490.8,128099,83.4
+PMGSY Rural Roads,Rural Development,Punjab,Amritsar,2022-23,686.35,519.38,435.84,203101,63.5
+PMGSY Rural Roads,Rural Development,Punjab,Amritsar,2023-24,851,851,625.98,142097,73.6
+PMGSY Rural Roads,Rural Development,Punjab,Amritsar,2024-25,1055.23,717.05,658.14,215870,62.4
+PMGSY Rural Roads,Rural Development,Punjab,Amritsar,2025-26,1439.45,1068.3,838.69,528375,58.3
+PMGSY Rural Roads,Rural Development,Gujarat,Rajkot,2019-20,85.34,63.55,59.57,36516,69.8
+PMGSY Rural Roads,Rural Development,Gujarat,Rajkot,2020-21,87.17,69.64,55.25,25526,63.4
+PMGSY Rural Roads,Rural Development,Gujarat,Rajkot,2021-22,94.4,94.4,48.12,6448,51
+PMGSY Rural Roads,Rural Development,Gujarat,Rajkot,2022-23,102.55,90.42,61.13,17605,59.6
+PMGSY Rural Roads,Rural Development,Gujarat,Rajkot,2023-24,123.76,123.76,88.94,18055,71.9
+PMGSY Rural Roads,Rural Development,Gujarat,Rajkot,2024-25,161.26,140.96,114.14,52733,70.8
+PMGSY Rural Roads,Rural Development,Gujarat,Rajkot,2025-26,217.7,179.91,121.66,86744,55.9
+PMGSY Rural Roads,Rural Development,Rajasthan,Jodhpur,2019-20,503.62,429.97,373.54,264466,74.2
+PMGSY Rural Roads,Rural Development,Rajasthan,Jodhpur,2020-21,579.18,371.4,360.98,248354,62.3
+PMGSY Rural Roads,Rural Development,Rajasthan,Jodhpur,2021-22,655,490.66,377.7,217555,57.7
+PMGSY Rural Roads,Rural Development,Rajasthan,Jodhpur,2022-23,796.29,695.72,645.56,526777,81.1
+PMGSY Rural Roads,Rural Development,Rajasthan,Jodhpur,2023-24,1030.46,814.9,629.19,454904,61.1
+PMGSY Rural Roads,Rural Development,Rajasthan,Jodhpur,2024-25,1289.68,1048.93,695.09,525488,53.9
+PMGSY Rural Roads,Rural Development,Rajasthan,Jodhpur,2025-26,1862.94,1685.75,1374,468534,73.8
+PMGSY Rural Roads,Rural Development,Andhra Pradesh,Guntur,2019-20,105.68,93.17,59.99,49552,56.8
+PMGSY Rural Roads,Rural Development,Andhra Pradesh,Guntur,2020-21,113.95,71.14,49.75,12935,43.7
+PMGSY Rural Roads,Rural Development,Andhra Pradesh,Guntur,2021-22,126.45,83.56,61.48,42667,48.6
+PMGSY Rural Roads,Rural Development,Andhra Pradesh,Guntur,2022-23,148.09,131.56,124.61,63426,84.1
+PMGSY Rural Roads,Rural Development,Andhra Pradesh,Guntur,2023-24,185.08,177.62,128.41,68443,69.4
+PMGSY Rural Roads,Rural Development,Andhra Pradesh,Guntur,2024-25,248.48,205.09,154.79,27553,62.3
+PMGSY Rural Roads,Rural Development,Andhra Pradesh,Guntur,2025-26,332.73,227.16,203.61,97529,61.2
+PMGSY Rural Roads,Rural Development,Chhattisgarh,Raipur,2019-20,401.13,286.45,235.49,178737,58.7
+PMGSY Rural Roads,Rural Development,Chhattisgarh,Raipur,2020-21,453.87,280.48,263.08,46565,58
+PMGSY Rural Roads,Rural Development,Chhattisgarh,Raipur,2021-22,493.01,414.26,366.42,212890,74.3
+PMGSY Rural Roads,Rural Development,Chhattisgarh,Raipur,2022-23,610.37,487.56,469.47,352103,76.9
+PMGSY Rural Roads,Rural Development,Chhattisgarh,Raipur,2023-24,809.96,651.92,639.15,329801,78.9
+PMGSY Rural Roads,Rural Development,Chhattisgarh,Raipur,2024-25,1100.5,925.79,763.34,589298,69.4
+PMGSY Rural Roads,Rural Development,Chhattisgarh,Raipur,2025-26,1366.67,1053.8,793.89,569219,58.1
+PMGSY Rural Roads,Rural Development,Tamil Nadu,Coimbatore,2019-20,53.34,49.35,43.11,32764,80.8
+PMGSY Rural Roads,Rural Development,Tamil Nadu,Coimbatore,2020-21,57.72,41.78,28.75,22540,49.8
+PMGSY Rural Roads,Rural Development,Tamil Nadu,Coimbatore,2021-22,67.35,60.87,55.43,43235,82.3
+PMGSY Rural Roads,Rural Development,Tamil Nadu,Coimbatore,2022-23,77.77,66.82,51.05,21798,65.6
+PMGSY Rural Roads,Rural Development,Tamil Nadu,Coimbatore,2023-24,95.2,73.71,54.38,32139,57.1
+PMGSY Rural Roads,Rural Development,Tamil Nadu,Coimbatore,2024-25,128.04,117.57,105.91,19276,82.7
+PMGSY Rural Roads,Rural Development,Tamil Nadu,Coimbatore,2025-26,175.27,175.27,150.54,99657,85.9
+PMGSY Rural Roads,Rural Development,Uttarakhand,Dehradun,2019-20,44.67,38.39,28.34,15190,63.4
+PMGSY Rural Roads,Rural Development,Uttarakhand,Dehradun,2020-21,48.08,35.13,24.43,13779,50.8
+PMGSY Rural Roads,Rural Development,Uttarakhand,Dehradun,2021-22,51.61,40.44,38.05,6430,73.7
+PMGSY Rural Roads,Rural Development,Uttarakhand,Dehradun,2022-23,64.04,56.68,27.49,13360,42.9
+PMGSY Rural Roads,Rural Development,Uttarakhand,Dehradun,2023-24,71.47,60.99,54.56,15386,76.3
+PMGSY Rural Roads,Rural Development,Uttarakhand,Dehradun,2024-25,97.77,81.49,54.71,21993,56
+PMGSY Rural Roads,Rural Development,Uttarakhand,Dehradun,2025-26,131.98,106.63,86.31,18643,65.4
+PMGSY Rural Roads,Rural Development,Maharashtra,Nashik,2019-20,699.58,572.38,371.73,222666,53.1
+PMGSY Rural Roads,Rural Development,Maharashtra,Nashik,2020-21,727.23,571.12,571.12,208459,78.5
+PMGSY Rural Roads,Rural Development,Maharashtra,Nashik,2021-22,820.14,761.34,560.48,459594,68.3
+PMGSY Rural Roads,Rural Development,Maharashtra,Nashik,2022-23,987.32,752.64,596.65,446294,60.4
+PMGSY Rural Roads,Rural Development,Maharashtra,Nashik,2023-24,1160.42,1037.74,883.48,291548,76.1
+PMGSY Rural Roads,Rural Development,Maharashtra,Nashik,2024-25,1456.39,1334.13,1011.72,704157,69.5
+PMGSY Rural Roads,Rural Development,Maharashtra,Nashik,2025-26,1974.9,1709.51,1155.06,537103,58.5
+PMGSY Rural Roads,Rural Development,Madhya Pradesh,Bhopal,2019-20,847.1,723.52,399.46,353922,47.2
+PMGSY Rural Roads,Rural Development,Madhya Pradesh,Bhopal,2020-21,930.24,648.05,590.34,358927,63.5
+PMGSY Rural Roads,Rural Development,Madhya Pradesh,Bhopal,2021-22,1041.97,910.31,910.31,794701,87.4
+PMGSY Rural Roads,Rural Development,Madhya Pradesh,Bhopal,2022-23,1285.65,1150.78,935.11,199178,72.7
+PMGSY Rural Roads,Rural Development,Madhya Pradesh,Bhopal,2023-24,1667.88,1408.11,1056.27,790090,63.3
+PMGSY Rural Roads,Rural Development,Madhya Pradesh,Bhopal,2024-25,2200.31,1604.49,1020.78,171491,46.4
+PMGSY Rural Roads,Rural Development,Madhya Pradesh,Bhopal,2025-26,2910.18,2588.72,2200.74,567791,75.6
+PMGSY Rural Roads,Rural Development,Punjab,Ludhiana,2019-20,242.71,239.27,208.01,104421,85.7
+PMGSY Rural Roads,Rural Development,Punjab,Ludhiana,2020-21,258.86,162.56,147.33,52302,56.9
+PMGSY Rural Roads,Rural Development,Punjab,Ludhiana,2021-22,281.74,245.1,234.89,173819,83.4
+PMGSY Rural Roads,Rural Development,Punjab,Ludhiana,2022-23,356.67,299.53,261.79,106549,73.4
+PMGSY Rural Roads,Rural Development,Punjab,Ludhiana,2023-24,464.09,384.37,303.36,91918,65.4
+PMGSY Rural Roads,Rural Development,Punjab,Ludhiana,2024-25,597.8,566.85,501.22,380426,83.8
+PMGSY Rural Roads,Rural Development,Punjab,Ludhiana,2025-26,791.46,765.45,556.74,232717,70.3
+PMGSY Rural Roads,Rural Development,Andhra Pradesh,Visakhapatnam,2019-20,299.15,237.79,182.78,123377,61.1
+PMGSY Rural Roads,Rural Development,Andhra Pradesh,Visakhapatnam,2020-21,339.77,188.63,166.74,78368,49.1
+PMGSY Rural Roads,Rural Development,Andhra Pradesh,Visakhapatnam,2021-22,396.26,288.09,243.93,91718,61.6
+PMGSY Rural Roads,Rural Development,Andhra Pradesh,Visakhapatnam,2022-23,510.15,488.03,405.12,361772,79.4
+PMGSY Rural Roads,Rural Development,Andhra Pradesh,Visakhapatnam,2023-24,663.71,524.27,524.27,340776,79
+PMGSY Rural Roads,Rural Development,Andhra Pradesh,Visakhapatnam,2024-25,902.16,821.55,468.08,145105,51.9
+PMGSY Rural Roads,Rural Development,Andhra Pradesh,Visakhapatnam,2025-26,1250.7,949.38,896.83,132731,71.7
+Bharatmala Pariyojana,Road Transport & Highways,Assam,Dibrugarh,2019-20,332.77,218.59,186.06,65679,55.9
+Bharatmala Pariyojana,Road Transport & Highways,Assam,Dibrugarh,2020-21,325.83,193.24,153.73,131285,47.2
+Bharatmala Pariyojana,Road Transport & Highways,Assam,Dibrugarh,2021-22,381.01,319.55,184.81,61911,48.5
+Bharatmala Pariyojana,Road Transport & Highways,Assam,Dibrugarh,2022-23,452.39,288.74,175.89,157246,38.9
+Bharatmala Pariyojana,Road Transport & Highways,Assam,Dibrugarh,2023-24,530,434.41,434.41,131192,82
+Bharatmala Pariyojana,Road Transport & Highways,Assam,Dibrugarh,2024-25,687.2,592.63,592.63,277351,86.2
+Bharatmala Pariyojana,Road Transport & Highways,Assam,Dibrugarh,2025-26,918.36,804.49,804.49,498784,87.6
+Bharatmala Pariyojana,Road Transport & Highways,Kerala,Thiruvananthapuram,2019-20,651.51,560.1,543.48,124457,83.4
+Bharatmala Pariyojana,Road Transport & Highways,Kerala,Thiruvananthapuram,2020-21,707.94,491.06,281.53,231699,39.8
+Bharatmala Pariyojana,Road Transport & Highways,Kerala,Thiruvananthapuram,2021-22,790.7,587.8,489.87,66132,62
+Bharatmala Pariyojana,Road Transport & Highways,Kerala,Thiruvananthapuram,2022-23,939.07,748.86,473.96,320871,50.5
+Bharatmala Pariyojana,Road Transport & Highways,Kerala,Thiruvananthapuram,2023-24,1146.58,863.33,660.75,248442,57.6
+Bharatmala Pariyojana,Road Transport & Highways,Kerala,Thiruvananthapuram,2024-25,1508.07,1383.18,1383.18,993123,91.7
+Bharatmala Pariyojana,Road Transport & Highways,Kerala,Thiruvananthapuram,2025-26,2120.86,1673.26,1359.27,521960,64.1
+Bharatmala Pariyojana,Road Transport & Highways,Uttar Pradesh,Gorakhpur,2019-20,500.35,480.8,396.52,104681,79.2
+Bharatmala Pariyojana,Road Transport & Highways,Uttar Pradesh,Gorakhpur,2020-21,516.88,379.9,327.11,40889,63.3
+Bharatmala Pariyojana,Road Transport & Highways,Uttar Pradesh,Gorakhpur,2021-22,579.58,468.49,421.05,114105,72.6
+Bharatmala Pariyojana,Road Transport & Highways,Uttar Pradesh,Gorakhpur,2022-23,685.75,685.75,474.43,313124,69.2
+Bharatmala Pariyojana,Road Transport & Highways,Uttar Pradesh,Gorakhpur,2023-24,914.14,678.96,621.2,406886,68
+Bharatmala Pariyojana,Road Transport & Highways,Uttar Pradesh,Gorakhpur,2024-25,1165.5,1091.3,938.79,170860,80.5
+Bharatmala Pariyojana,Road Transport & Highways,Uttar Pradesh,Gorakhpur,2025-26,1618.13,1373.92,1021.91,758257,63.2
+Bharatmala Pariyojana,Road Transport & Highways,Bihar,Muzaffarpur,2019-20,759.66,747.11,580.86,299724,76.5
+Bharatmala Pariyojana,Road Transport & Highways,Bihar,Muzaffarpur,2020-21,812.17,593.53,501.05,331194,61.7
+Bharatmala Pariyojana,Road Transport & Highways,Bihar,Muzaffarpur,2021-22,908.93,847.36,750.59,343770,82.6
+Bharatmala Pariyojana,Road Transport & Highways,Bihar,Muzaffarpur,2022-23,1105.06,1055.87,909.42,493815,82.3
+Bharatmala Pariyojana,Road Transport & Highways,Bihar,Muzaffarpur,2023-24,1309.61,988.54,863.26,145891,65.9
+Bharatmala Pariyojana,Road Transport & Highways,Bihar,Muzaffarpur,2024-25,1624.19,1481.32,1465.01,1111943,90.2
+Bharatmala Pariyojana,Road Transport & Highways,Bihar,Muzaffarpur,2025-26,2135.14,1951.78,1506.98,269749,70.6
+Bharatmala Pariyojana,Road Transport & Highways,Karnataka,Mysuru,2019-20,507.39,478.56,454.74,290579,89.6
+Bharatmala Pariyojana,Road Transport & Highways,Karnataka,Mysuru,2020-21,538.23,316.52,181.63,32149,33.7
+Bharatmala Pariyojana,Road Transport & Highways,Karnataka,Mysuru,2021-22,607.08,482.48,412.86,257212,68
+Bharatmala Pariyojana,Road Transport & Highways,Karnataka,Mysuru,2022-23,734.68,476.91,425.92,379921,58
+Bharatmala Pariyojana,Road Transport & Highways,Karnataka,Mysuru,2023-24,855.02,755.15,608.17,145353,71.1
+Bharatmala Pariyojana,Road Transport & Highways,Karnataka,Mysuru,2024-25,1110.21,895.25,839.56,387877,75.6
+Bharatmala Pariyojana,Road Transport & Highways,Karnataka,Mysuru,2025-26,1523.95,1500.49,1119.95,319186,73.5
+Bharatmala Pariyojana,Road Transport & Highways,Jharkhand,Ranchi,2019-20,458.66,402.47,270.01,151476,58.9
+Bharatmala Pariyojana,Road Transport & Highways,Jharkhand,Ranchi,2020-21,501.52,290.38,290.38,130961,57.9
+Bharatmala Pariyojana,Road Transport & Highways,Jharkhand,Ranchi,2021-22,517.11,500.48,403.31,168180,78
+Bharatmala Pariyojana,Road Transport & Highways,Jharkhand,Ranchi,2022-23,638.15,460.23,355.23,48311,55.7
+Bharatmala Pariyojana,Road Transport & Highways,Jharkhand,Ranchi,2023-24,801.71,732.64,533.31,160526,66.5
+Bharatmala Pariyojana,Road Transport & Highways,Jharkhand,Ranchi,2024-25,1010.48,867.07,839.04,149349,83
+Bharatmala Pariyojana,Road Transport & Highways,Jharkhand,Ranchi,2025-26,1424.06,1150.43,923.02,560273,64.8
+Bharatmala Pariyojana,Road Transport & Highways,Uttar Pradesh,Lucknow,2019-20,257.75,202.92,162.27,78376,63
+Bharatmala Pariyojana,Road Transport & Highways,Uttar Pradesh,Lucknow,2020-21,266.83,152.54,132.75,56021,49.8
+Bharatmala Pariyojana,Road Transport & Highways,Uttar Pradesh,Lucknow,2021-22,296.04,228.52,189.38,106621,64
+Bharatmala Pariyojana,Road Transport & Highways,Uttar Pradesh,Lucknow,2022-23,350.46,295.84,252.21,100380,72
+Bharatmala Pariyojana,Road Transport & Highways,Uttar Pradesh,Lucknow,2023-24,419.38,338.38,261.81,215208,62.4
+Bharatmala Pariyojana,Road Transport & Highways,Uttar Pradesh,Lucknow,2024-25,521.7,462.5,390.49,218284,74.8
+Bharatmala Pariyojana,Road Transport & Highways,Uttar Pradesh,Lucknow,2025-26,745.44,653.19,629.54,96949,84.5
+Bharatmala Pariyojana,Road Transport & Highways,Rajasthan,Jaipur,2019-20,516.41,461.55,335.22,245716,64.9
+Bharatmala Pariyojana,Road Transport & Highways,Rajasthan,Jaipur,2020-21,525.81,328.22,258.85,158934,49.2
+Bharatmala Pariyojana,Road Transport & Highways,Rajasthan,Jaipur,2021-22,632.32,538.71,423.17,184502,66.9
+Bharatmala Pariyojana,Road Transport & Highways,Rajasthan,Jaipur,2022-23,756.74,632.57,466.64,166590,61.7
+Bharatmala Pariyojana,Road Transport & Highways,Rajasthan,Jaipur,2023-24,983.35,890.8,575.47,322839,58.5
+Bharatmala Pariyojana,Road Transport & Highways,Rajasthan,Jaipur,2024-25,1318.83,1078.38,770,254100,58.4
+Bharatmala Pariyojana,Road Transport & Highways,Rajasthan,Jaipur,2025-26,1941.63,1941.63,1248.08,458045,64.3
+Bharatmala Pariyojana,Road Transport & Highways,Chhattisgarh,Raipur,2019-20,267.14,226.84,191.31,65045,71.6
+Bharatmala Pariyojana,Road Transport & Highways,Chhattisgarh,Raipur,2020-21,298.22,169.48,131.09,94909,44
+Bharatmala Pariyojana,Road Transport & Highways,Chhattisgarh,Raipur,2021-22,324.84,324.84,229.91,42993,70.8
+Bharatmala Pariyojana,Road Transport & Highways,Chhattisgarh,Raipur,2022-23,387.45,387.45,387.45,284776,100
+Bharatmala Pariyojana,Road Transport & Highways,Chhattisgarh,Raipur,2023-24,465.01,402.71,357.55,76873,76.9
+Bharatmala Pariyojana,Road Transport & Highways,Chhattisgarh,Raipur,2024-25,582.27,418.45,374.9,272552,64.4
+Bharatmala Pariyojana,Road Transport & Highways,Chhattisgarh,Raipur,2025-26,799.46,600.77,437.13,341399,54.7
+Bharatmala Pariyojana,Road Transport & Highways,Andhra Pradesh,Guntur,2019-20,483.13,426.49,343.34,147636,71.1
+Bharatmala Pariyojana,Road Transport & Highways,Andhra Pradesh,Guntur,2020-21,500.85,361.85,361.85,227242,72.2
+Bharatmala Pariyojana,Road Transport & Highways,Andhra Pradesh,Guntur,2021-22,562.97,428.83,379.31,204827,67.4
+Bharatmala Pariyojana,Road Transport & Highways,Andhra Pradesh,Guntur,2022-23,610.86,482.71,404.33,344489,66.2
+Bharatmala Pariyojana,Road Transport & Highways,Andhra Pradesh,Guntur,2023-24,742.41,742.41,541.22,368030,72.9
+Bharatmala Pariyojana,Road Transport & Highways,Andhra Pradesh,Guntur,2024-25,1000.55,884.19,655.53,580144,65.5
+Bharatmala Pariyojana,Road Transport & Highways,Andhra Pradesh,Guntur,2025-26,1293.6,1054.18,828.86,429349,64.1
+Bharatmala Pariyojana,Road Transport & Highways,Maharashtra,Nashik,2019-20,120.83,108.25,102.17,33818,84.6
+Bharatmala Pariyojana,Road Transport & Highways,Maharashtra,Nashik,2020-21,112.12,74.75,71.04,30121,63.4
+Bharatmala Pariyojana,Road Transport & Highways,Maharashtra,Nashik,2021-22,114.33,86.45,66.26,35118,58
+Bharatmala Pariyojana,Road Transport & Highways,Maharashtra,Nashik,2022-23,140.71,124.25,124.25,41500,88.3
+Bharatmala Pariyojana,Road Transport & Highways,Maharashtra,Nashik,2023-24,181.79,138.74,123.35,43296,67.9
+Bharatmala Pariyojana,Road Transport & Highways,Maharashtra,Nashik,2024-25,227.81,188.39,170.59,40771,74.9
+Bharatmala Pariyojana,Road Transport & Highways,Maharashtra,Nashik,2025-26,298.42,239.48,172.96,136292,58
+Bharatmala Pariyojana,Road Transport & Highways,Rajasthan,Udaipur,2019-20,400.52,290.19,203.4,161703,50.8
+Bharatmala Pariyojana,Road Transport & Highways,Rajasthan,Udaipur,2020-21,433.17,338.03,224.46,85744,51.8
+Bharatmala Pariyojana,Road Transport & Highways,Rajasthan,Udaipur,2021-22,496.02,426.13,329.11,83265,66.4
+Bharatmala Pariyojana,Road Transport & Highways,Rajasthan,Udaipur,2022-23,559.53,475.12,316.8,239818,56.6
+Bharatmala Pariyojana,Road Transport & Highways,Rajasthan,Udaipur,2023-24,697.03,616.03,616.03,136759,88.4
+Bharatmala Pariyojana,Road Transport & Highways,Rajasthan,Udaipur,2024-25,823.1,703.99,465.06,190675,56.5
+Bharatmala Pariyojana,Road Transport & Highways,Rajasthan,Udaipur,2025-26,1106.01,894.48,824.96,655018,74.6
+Samagra Shiksha,Education,Andhra Pradesh,Guntur,2019-20,764.61,666.73,539.1,94882,70.5
+Samagra Shiksha,Education,Andhra Pradesh,Guntur,2020-21,804.7,555.66,434.41,228500,54
+Samagra Shiksha,Education,Andhra Pradesh,Guntur,2021-22,893.31,641.57,571.71,358462,64
+Samagra Shiksha,Education,Andhra Pradesh,Guntur,2022-23,1128.95,907.13,722.38,234774,64
+Samagra Shiksha,Education,Andhra Pradesh,Guntur,2023-24,1392.88,926.92,819.93,718259,58.9
+Samagra Shiksha,Education,Andhra Pradesh,Guntur,2024-25,1744.77,1504.02,1074.66,520135,61.6
+Samagra Shiksha,Education,Andhra Pradesh,Guntur,2025-26,2475.05,2024.24,1335.21,640901,53.9
+Samagra Shiksha,Education,Maharashtra,Nagpur,2019-20,178.81,163.84,131.1,59519,73.3
+Samagra Shiksha,Education,Maharashtra,Nagpur,2020-21,204.79,136.62,74.16,25140,36.2
+Samagra Shiksha,Education,Maharashtra,Nagpur,2021-22,242.24,179.39,117.94,23706,48.7
+Samagra Shiksha,Education,Maharashtra,Nagpur,2022-23,276.12,207.75,207.75,103875,75.2
+Samagra Shiksha,Education,Maharashtra,Nagpur,2023-24,313.09,227.32,227.32,61831,72.6
+Samagra Shiksha,Education,Maharashtra,Nagpur,2024-25,419.32,347.04,275.86,85241,65.8
+Samagra Shiksha,Education,Maharashtra,Nagpur,2025-26,549.16,411.41,320.5,230119,58.4
+Samagra Shiksha,Education,Maharashtra,Pune,2019-20,277.54,269.43,199.54,126309,71.9
+Samagra Shiksha,Education,Maharashtra,Pune,2020-21,276.11,166.84,128.28,52595,46.5
+Samagra Shiksha,Education,Maharashtra,Pune,2021-22,302.42,289.18,249.63,130806,82.5
+Samagra Shiksha,Education,Maharashtra,Pune,2022-23,355.72,300.5,235.39,111575,66.2
+Samagra Shiksha,Education,Maharashtra,Pune,2023-24,443.96,393.26,393.26,217473,88.6
+Samagra Shiksha,Education,Maharashtra,Pune,2024-25,586.2,549.87,492.79,382405,84.1
+Samagra Shiksha,Education,Maharashtra,Pune,2025-26,815.47,712.96,649.03,425115,79.6
+Samagra Shiksha,Education,Rajasthan,Udaipur,2019-20,570.49,537.98,438.17,133204,76.8
+Samagra Shiksha,Education,Rajasthan,Udaipur,2020-21,591.44,375.44,289.92,118577,49
+Samagra Shiksha,Education,Rajasthan,Udaipur,2021-22,676.04,608.5,531.76,446678,78.7
+Samagra Shiksha,Education,Rajasthan,Udaipur,2022-23,817.66,659.26,558.09,202029,68.3
+Samagra Shiksha,Education,Rajasthan,Udaipur,2023-24,972.56,884.19,511.96,460252,52.6
+Samagra Shiksha,Education,Rajasthan,Udaipur,2024-25,1223.36,1066.57,706.49,346887,57.7
+Samagra Shiksha,Education,Rajasthan,Udaipur,2025-26,1678.59,1182.31,1066.09,221747,63.5
+Samagra Shiksha,Education,Madhya Pradesh,Indore,2019-20,413.84,318.13,292.4,98539,70.7
+Samagra Shiksha,Education,Madhya Pradesh,Indore,2020-21,464.68,299.89,278.21,196416,59.9
+Samagra Shiksha,Education,Madhya Pradesh,Indore,2021-22,477.98,445.26,373.3,187023,78.1
+Samagra Shiksha,Education,Madhya Pradesh,Indore,2022-23,548.24,427.28,320.35,234496,58.4
+Samagra Shiksha,Education,Madhya Pradesh,Indore,2023-24,662.04,578.16,471.46,269204,71.2
+Samagra Shiksha,Education,Madhya Pradesh,Indore,2024-25,888.91,844.43,794.96,511954,89.4
+Samagra Shiksha,Education,Madhya Pradesh,Indore,2025-26,1184.14,817.54,587.95,484471,49.7
+Samagra Shiksha,Education,Odisha,Cuttack,2019-20,186.16,154.74,127.98,107375,68.7
+Samagra Shiksha,Education,Odisha,Cuttack,2020-21,203.53,102.18,97.1,80593,47.7
+Samagra Shiksha,Education,Odisha,Cuttack,2021-22,225.81,209.67,177.84,100835,78.8
+Samagra Shiksha,Education,Odisha,Cuttack,2022-23,254.9,244.58,208.78,133202,81.9
+Samagra Shiksha,Education,Odisha,Cuttack,2023-24,329.14,311.55,231.25,148463,70.3
+Samagra Shiksha,Education,Odisha,Cuttack,2024-25,444.27,403.68,342.16,184082,77
+Samagra Shiksha,Education,Odisha,Cuttack,2025-26,641.14,614.22,587.07,135026,91.6
+Samagra Shiksha,Education,Maharashtra,Aurangabad,2019-20,802.08,709.33,516.91,419731,64.4
+Samagra Shiksha,Education,Maharashtra,Aurangabad,2020-21,851.85,496.42,395.53,225057,46.4
+Samagra Shiksha,Education,Maharashtra,Aurangabad,2021-22,915.61,812.64,605.36,473392,66.1
+Samagra Shiksha,Education,Maharashtra,Aurangabad,2022-23,1068.64,991.16,763.17,568562,71.4
+Samagra Shiksha,Education,Maharashtra,Aurangabad,2023-24,1265.97,856.12,649.3,172714,51.3
+Samagra Shiksha,Education,Maharashtra,Aurangabad,2024-25,1752.32,1505.95,1208.68,147459,69
+Samagra Shiksha,Education,Maharashtra,Aurangabad,2025-26,2220.55,1739.25,1051.47,297566,47.4
+Samagra Shiksha,Education,Uttar Pradesh,Varanasi,2019-20,473.98,420.93,416.46,106614,87.9
+Samagra Shiksha,Education,Uttar Pradesh,Varanasi,2020-21,478.71,278.13,222.81,53697,46.5
+Samagra Shiksha,Education,Uttar Pradesh,Varanasi,2021-22,537.26,403.75,403.75,105379,75.1
+Samagra Shiksha,Education,Uttar Pradesh,Varanasi,2022-23,645.03,582.81,484.51,206401,75.1
+Samagra Shiksha,Education,Uttar Pradesh,Varanasi,2023-24,742.54,741,520.6,433139,70.1
+Samagra Shiksha,Education,Uttar Pradesh,Varanasi,2024-25,960.16,960.16,781.89,587981,81.4
+Samagra Shiksha,Education,Uttar Pradesh,Varanasi,2025-26,1288.95,1272.32,1272.32,611986,98.7
+Samagra Shiksha,Education,Punjab,Ludhiana,2019-20,537.72,400.98,210.76,81353,39.2
+Samagra Shiksha,Education,Punjab,Ludhiana,2020-21,531.78,322.78,191.13,117545,35.9
+Samagra Shiksha,Education,Punjab,Ludhiana,2021-22,537.09,416.11,416.11,136900,77.5
+Samagra Shiksha,Education,Punjab,Ludhiana,2022-23,561.82,437.87,296.67,207076,52.8
+Samagra Shiksha,Education,Punjab,Ludhiana,2023-24,738.51,657.58,406.08,154716,55
+Samagra Shiksha,Education,Punjab,Ludhiana,2024-25,955.3,734.55,542.08,424991,56.7
+Samagra Shiksha,Education,Punjab,Ludhiana,2025-26,1313.46,1071.23,728.04,533653,55.4
+Samagra Shiksha,Education,Odisha,Ganjam,2019-20,947.09,889.2,889.2,798502,93.9
+Samagra Shiksha,Education,Odisha,Ganjam,2020-21,1000.03,650.41,449.37,123127,44.9
+Samagra Shiksha,Education,Odisha,Ganjam,2021-22,1080.58,1001.31,632.57,427617,58.5
+Samagra Shiksha,Education,Odisha,Ganjam,2022-23,1231.86,1069.15,932.25,805464,75.7
+Samagra Shiksha,Education,Odisha,Ganjam,2023-24,1501.28,1062.62,977.51,204300,65.1
+Samagra Shiksha,Education,Odisha,Ganjam,2024-25,1938.28,1422.94,1129.54,515070,58.3
+Samagra Shiksha,Education,Odisha,Ganjam,2025-26,2697.25,2322.46,2042.11,739244,75.7
+Samagra Shiksha,Education,Uttar Pradesh,Gorakhpur,2019-20,292.34,272.04,238.82,137322,81.7
+Samagra Shiksha,Education,Uttar Pradesh,Gorakhpur,2020-21,310.55,193.82,116.28,52907,37.4
+Samagra Shiksha,Education,Uttar Pradesh,Gorakhpur,2021-22,306.7,249.11,168.15,85757,54.8
+Samagra Shiksha,Education,Uttar Pradesh,Gorakhpur,2022-23,366.16,296.64,296.64,73270,81
+Samagra Shiksha,Education,Uttar Pradesh,Gorakhpur,2023-24,452.53,375.77,253.13,56448,55.9
+Samagra Shiksha,Education,Uttar Pradesh,Gorakhpur,2024-25,596.19,542.53,394.48,56016,66.2
+Samagra Shiksha,Education,Uttar Pradesh,Gorakhpur,2025-26,771.62,635.09,612.92,237200,79.4
+Samagra Shiksha,Education,Kerala,Thiruvananthapuram,2019-20,263.9,212.87,136.51,78630,51.7
+Samagra Shiksha,Education,Kerala,Thiruvananthapuram,2020-21,295.68,200.44,193.82,48261,65.6
+Samagra Shiksha,Education,Kerala,Thiruvananthapuram,2021-22,337.52,282.52,244.05,70775,72.3
+Samagra Shiksha,Education,Kerala,Thiruvananthapuram,2022-23,402.5,372.2,285.43,145569,70.9
+Samagra Shiksha,Education,Kerala,Thiruvananthapuram,2023-24,475.27,460.56,415.61,180790,87.4
+Samagra Shiksha,Education,Kerala,Thiruvananthapuram,2024-25,603.01,519.54,487.41,66288,80.8
+Samagra Shiksha,Education,Kerala,Thiruvananthapuram,2025-26,883.17,660.19,610.18,295327,69.1
+PM POSHAN,Education,Andhra Pradesh,Visakhapatnam,2019-20,668.07,564.97,446.63,337206,66.9
+PM POSHAN,Education,Andhra Pradesh,Visakhapatnam,2020-21,706.03,485.52,429.23,379010,60.8
+PM POSHAN,Education,Andhra Pradesh,Visakhapatnam,2021-22,831.37,714.52,598.02,339675,71.9
+PM POSHAN,Education,Andhra Pradesh,Visakhapatnam,2022-23,996.44,885.35,768.19,290376,77.1
+PM POSHAN,Education,Andhra Pradesh,Visakhapatnam,2023-24,1163.59,1103.52,916.97,652883,78.8
+PM POSHAN,Education,Andhra Pradesh,Visakhapatnam,2024-25,1534.64,1280.32,1098.74,981175,71.6
+PM POSHAN,Education,Andhra Pradesh,Visakhapatnam,2025-26,2017.7,1512.58,1148.86,537666,56.9
+PM POSHAN,Education,Jharkhand,Ranchi,2019-20,356.36,282.52,246.04,45025,69
+PM POSHAN,Education,Jharkhand,Ranchi,2020-21,382.72,263.61,258.8,191512,67.6
+PM POSHAN,Education,Jharkhand,Ranchi,2021-22,421.87,366.07,184.34,90511,43.7
+PM POSHAN,Education,Jharkhand,Ranchi,2022-23,505.33,456.61,413.24,73143,81.8
+PM POSHAN,Education,Jharkhand,Ranchi,2023-24,627.29,579.02,473.46,348940,75.5
+PM POSHAN,Education,Jharkhand,Ranchi,2024-25,816.83,564.84,564.84,390304,69.2
+PM POSHAN,Education,Jharkhand,Ranchi,2025-26,1151.38,805.64,659.52,155647,57.3
+PM POSHAN,Education,Tamil Nadu,Tiruchirappalli,2019-20,607.12,607.12,602.66,244077,99.3
+PM POSHAN,Education,Tamil Nadu,Tiruchirappalli,2020-21,617.67,487.86,458.27,263505,74.2
+PM POSHAN,Education,Tamil Nadu,Tiruchirappalli,2021-22,683.58,646.3,544.31,283041,79.6
+PM POSHAN,Education,Tamil Nadu,Tiruchirappalli,2022-23,817.94,694.87,383.89,240699,46.9
+PM POSHAN,Education,Tamil Nadu,Tiruchirappalli,2023-24,1091.71,971.4,859.97,509102,78.8
+PM POSHAN,Education,Tamil Nadu,Tiruchirappalli,2024-25,1451.44,1236.5,1088.1,337311,75
+PM POSHAN,Education,Tamil Nadu,Tiruchirappalli,2025-26,1955.86,1611.02,1058.04,769195,54.1
+PM POSHAN,Education,Karnataka,Bengaluru Urban,2019-20,218.06,176.53,173.4,116698,79.5
+PM POSHAN,Education,Karnataka,Bengaluru Urban,2020-21,224.33,160.59,123.44,30737,55
+PM POSHAN,Education,Karnataka,Bengaluru Urban,2021-22,258.15,220.24,220.24,109680,85.3
+PM POSHAN,Education,Karnataka,Bengaluru Urban,2022-23,313.56,313.56,259.29,133016,82.7
+PM POSHAN,Education,Karnataka,Bengaluru Urban,2023-24,403.27,369.75,323.17,55908,80.1
+PM POSHAN,Education,Karnataka,Bengaluru Urban,2024-25,502.68,421.11,310.33,246402,61.7
+PM POSHAN,Education,Karnataka,Bengaluru Urban,2025-26,725.29,577.24,282.53,35034,39
+PM POSHAN,Education,Rajasthan,Udaipur,2019-20,666.36,528.16,451.68,327016,67.8
+PM POSHAN,Education,Rajasthan,Udaipur,2020-21,722,435.01,351.35,216432,48.7
+PM POSHAN,Education,Rajasthan,Udaipur,2021-22,750.34,584.56,342.07,114251,45.6
+PM POSHAN,Education,Rajasthan,Udaipur,2022-23,838.23,754.55,442.58,73026,52.8
+PM POSHAN,Education,Rajasthan,Udaipur,2023-24,1008.29,845.63,693.63,156067,68.8
+PM POSHAN,Education,Rajasthan,Udaipur,2024-25,1253.54,827.54,532.54,340293,42.5
+PM POSHAN,Education,Rajasthan,Udaipur,2025-26,1762.68,1663.89,1401.37,236832,79.5
+PM POSHAN,Education,Maharashtra,Pune,2019-20,817.89,760.56,644.06,379351,78.7
+PM POSHAN,Education,Maharashtra,Pune,2020-21,890.24,540.99,489.37,437497,55
+PM POSHAN,Education,Maharashtra,Pune,2021-22,1014.69,947.17,872.2,627112,86
+PM POSHAN,Education,Maharashtra,Pune,2022-23,1225.17,1093.28,982.89,857080,80.2
+PM POSHAN,Education,Maharashtra,Pune,2023-24,1538.42,1328.16,988.79,441989,64.3
+PM POSHAN,Education,Maharashtra,Pune,2024-25,2163.86,2030.25,1569.26,276190,72.5
+PM POSHAN,Education,Maharashtra,Pune,2025-26,2958.9,2375.78,1581.12,752613,53.4
+PM POSHAN,Education,Gujarat,Ahmedabad,2019-20,541.84,505.31,422.66,229504,78
+PM POSHAN,Education,Gujarat,Ahmedabad,2020-21,559.38,301.62,267.81,80343,47.9
+PM POSHAN,Education,Gujarat,Ahmedabad,2021-22,607.31,517.38,382.76,281329,63
+PM POSHAN,Education,Gujarat,Ahmedabad,2022-23,749.2,578.52,460.4,62614,61.5
+PM POSHAN,Education,Gujarat,Ahmedabad,2023-24,931.05,771.13,500.09,74013,53.7
+PM POSHAN,Education,Gujarat,Ahmedabad,2024-25,1124.4,1034.28,969.25,761831,86.2
+PM POSHAN,Education,Gujarat,Ahmedabad,2025-26,1548.42,1351.2,1234.91,806396,79.8
+PM POSHAN,Education,Maharashtra,Nagpur,2019-20,146.26,114.3,98.58,69696,67.4
+PM POSHAN,Education,Maharashtra,Nagpur,2020-21,148.83,76.94,55.85,7205,37.5
+PM POSHAN,Education,Maharashtra,Nagpur,2021-22,155.94,134.91,92.44,17933,59.3
+PM POSHAN,Education,Maharashtra,Nagpur,2022-23,188.73,123.52,96.23,16070,51
+PM POSHAN,Education,Maharashtra,Nagpur,2023-24,236.18,209.13,204.75,76781,86.7
+PM POSHAN,Education,Maharashtra,Nagpur,2024-25,337.4,237.38,168.45,81867,49.9
+PM POSHAN,Education,Maharashtra,Nagpur,2025-26,464,408.92,364.9,248497,78.6
+PM POSHAN,Education,Rajasthan,Jaipur,2019-20,553.73,524.22,427.97,92014,77.3
+PM POSHAN,Education,Rajasthan,Jaipur,2020-21,604.74,519.16,394.96,289506,65.3
+PM POSHAN,Education,Rajasthan,Jaipur,2021-22,677.67,569.13,468.14,307568,69.1
+PM POSHAN,Education,Rajasthan,Jaipur,2022-23,733.76,599.82,599.82,127762,81.7
+PM POSHAN,Education,Rajasthan,Jaipur,2023-24,867.87,711.01,507.54,98970,58.5
+PM POSHAN,Education,Rajasthan,Jaipur,2024-25,1100.94,855.02,662.64,105360,60.2
+PM POSHAN,Education,Rajasthan,Jaipur,2025-26,1533.68,1246.65,874.37,162633,57
+PM POSHAN,Education,Karnataka,Mysuru,2019-20,175.25,161.09,126.14,81613,72
+PM POSHAN,Education,Karnataka,Mysuru,2020-21,180.15,120.73,85.64,71081,47.5
+PM POSHAN,Education,Karnataka,Mysuru,2021-22,197.58,146.18,124.07,27171,62.8
+PM POSHAN,Education,Karnataka,Mysuru,2022-23,231.03,167.08,132.93,65402,57.5
+PM POSHAN,Education,Karnataka,Mysuru,2023-24,277.26,236.45,161.73,48357,58.3
+PM POSHAN,Education,Karnataka,Mysuru,2024-25,354.4,322.85,322.85,281525,91.1
+PM POSHAN,Education,Karnataka,Mysuru,2025-26,509.94,473.02,432.54,96456,84.8
+PM POSHAN,Education,Bihar,Muzaffarpur,2019-20,621.77,499.85,447.2,149812,71.9
+PM POSHAN,Education,Bihar,Muzaffarpur,2020-21,694.64,426.13,349.12,250668,50.3
+PM POSHAN,Education,Bihar,Muzaffarpur,2021-22,778.59,640.31,525.99,90996,67.6
+PM POSHAN,Education,Bihar,Muzaffarpur,2022-23,894.4,772.42,453.11,207071,50.7
+PM POSHAN,Education,Bihar,Muzaffarpur,2023-24,1105.98,997.09,976.59,747091,88.3
+PM POSHAN,Education,Bihar,Muzaffarpur,2024-25,1406.92,1143.19,799.22,652164,56.8
+PM POSHAN,Education,Bihar,Muzaffarpur,2025-26,1955.51,1540.57,833.38,591700,42.6
+PM POSHAN,Education,Kerala,Ernakulam,2019-20,131.91,120.9,92.85,81801,70.4
+PM POSHAN,Education,Kerala,Ernakulam,2020-21,144.97,80.86,60.29,44916,41.6
+PM POSHAN,Education,Kerala,Ernakulam,2021-22,157.86,138.96,102.16,85201,64.7
+PM POSHAN,Education,Kerala,Ernakulam,2022-23,182.07,171.42,129.97,90589,71.4
+PM POSHAN,Education,Kerala,Ernakulam,2023-24,239.31,200.13,154.23,118140,64.4
+PM POSHAN,Education,Kerala,Ernakulam,2024-25,319.47,271.68,216.64,173529,67.8
+PM POSHAN,Education,Kerala,Ernakulam,2025-26,458.57,355.41,209.99,187941,45.8
+National Clean Air Programme,Environment & Climate,Karnataka,Mysuru,2019-20,277.75,217.15,165.93,67036,59.7
+National Clean Air Programme,Environment & Climate,Karnataka,Mysuru,2020-21,279.56,148.81,140.98,93611,50.4
+National Clean Air Programme,Environment & Climate,Karnataka,Mysuru,2021-22,307.74,288.18,205.63,113097,66.8
+National Clean Air Programme,Environment & Climate,Karnataka,Mysuru,2022-23,385.4,385.4,359.06,141111,93.2
+National Clean Air Programme,Environment & Climate,Karnataka,Mysuru,2023-24,489.12,363.12,317.86,93451,65
+National Clean Air Programme,Environment & Climate,Karnataka,Mysuru,2024-25,658.8,514.65,441.42,381387,67
+National Clean Air Programme,Environment & Climate,Karnataka,Mysuru,2025-26,925.05,670.28,507.58,192373,54.9
+National Clean Air Programme,Environment & Climate,Rajasthan,Jodhpur,2019-20,636.06,544.61,514.55,159511,80.9
+National Clean Air Programme,Environment & Climate,Rajasthan,Jodhpur,2020-21,649.2,519.17,447.26,384644,68.9
+National Clean Air Programme,Environment & Climate,Rajasthan,Jodhpur,2021-22,737.87,638.37,467.89,408000,63.4
+National Clean Air Programme,Environment & Climate,Rajasthan,Jodhpur,2022-23,850.43,703.1,660.24,268718,77.6
+National Clean Air Programme,Environment & Climate,Rajasthan,Jodhpur,2023-24,1058.11,910.58,857.92,272819,81.1
+National Clean Air Programme,Environment & Climate,Rajasthan,Jodhpur,2024-25,1386.83,1268.91,964.89,342536,69.6
+National Clean Air Programme,Environment & Climate,Rajasthan,Jodhpur,2025-26,1932.49,1731.21,1450.13,236371,75
+National Clean Air Programme,Environment & Climate,Andhra Pradesh,Visakhapatnam,2019-20,746.14,652.06,518.29,163261,69.5
+National Clean Air Programme,Environment & Climate,Andhra Pradesh,Visakhapatnam,2020-21,833.69,531.97,472.71,100687,56.7
+National Clean Air Programme,Environment & Climate,Andhra Pradesh,Visakhapatnam,2021-22,850.75,756.21,586.99,244775,69
+National Clean Air Programme,Environment & Climate,Andhra Pradesh,Visakhapatnam,2022-23,961.07,873.35,682.23,473468,71
+National Clean Air Programme,Environment & Climate,Andhra Pradesh,Visakhapatnam,2023-24,1269.11,1104.79,897.21,527559,70.7
+National Clean Air Programme,Environment & Climate,Andhra Pradesh,Visakhapatnam,2024-25,1751.53,1467.61,1310.7,713021,74.8
+National Clean Air Programme,Environment & Climate,Andhra Pradesh,Visakhapatnam,2025-26,2322.16,2204.78,1819.64,522237,78.4
+National Clean Air Programme,Environment & Climate,Bihar,Patna,2019-20,533.32,491.85,364.07,195506,68.3
+National Clean Air Programme,Environment & Climate,Bihar,Patna,2020-21,506.32,382.04,294.18,112965,58.1
+National Clean Air Programme,Environment & Climate,Bihar,Patna,2021-22,564.61,498.8,451.93,101684,80
+National Clean Air Programme,Environment & Climate,Bihar,Patna,2022-23,628.47,456.41,344.02,228085,54.7
+National Clean Air Programme,Environment & Climate,Bihar,Patna,2023-24,838.16,797.66,654.29,472397,78.1
+National Clean Air Programme,Environment & Climate,Bihar,Patna,2024-25,1128.66,981.92,885.87,623652,78.5
+National Clean Air Programme,Environment & Climate,Bihar,Patna,2025-26,1573.57,1376.03,903.56,380399,57.4
+National Clean Air Programme,Environment & Climate,Karnataka,Belagavi,2019-20,513.59,374.19,347.26,65285,67.6
+National Clean Air Programme,Environment & Climate,Karnataka,Belagavi,2020-21,536.03,293.9,234.3,140111,43.7
+National Clean Air Programme,Environment & Climate,Karnataka,Belagavi,2021-22,618.01,596.8,448.61,106769,72.6
+National Clean Air Programme,Environment & Climate,Karnataka,Belagavi,2022-23,753.03,721.91,593.38,452156,78.8
+National Clean Air Programme,Environment & Climate,Karnataka,Belagavi,2023-24,952.24,893.41,672.33,600391,70.6
+National Clean Air Programme,Environment & Climate,Karnataka,Belagavi,2024-25,1174.49,1101.95,758.73,404403,64.6
+National Clean Air Programme,Environment & Climate,Karnataka,Belagavi,2025-26,1592.06,1458.05,1071.93,442707,67.3
+National Clean Air Programme,Environment & Climate,Uttar Pradesh,Kanpur Nagar,2019-20,260.1,232.16,227.39,106873,87.4
+National Clean Air Programme,Environment & Climate,Uttar Pradesh,Kanpur Nagar,2020-21,281.45,173.34,134.73,83533,47.9
+National Clean Air Programme,Environment & Climate,Uttar Pradesh,Kanpur Nagar,2021-22,322.3,319.42,269.04,183485,83.5
+National Clean Air Programme,Environment & Climate,Uttar Pradesh,Kanpur Nagar,2022-23,360.72,352.59,302.68,63563,83.9
+National Clean Air Programme,Environment & Climate,Uttar Pradesh,Kanpur Nagar,2023-24,469.89,415.81,324.94,181317,69.2
+National Clean Air Programme,Environment & Climate,Uttar Pradesh,Kanpur Nagar,2024-25,567.14,520.26,399.49,211330,70.4
+National Clean Air Programme,Environment & Climate,Uttar Pradesh,Kanpur Nagar,2025-26,796.93,661.07,450.76,292543,56.6
+National Clean Air Programme,Environment & Climate,Gujarat,Rajkot,2019-20,305.55,230.34,178.55,127306,58.4
+National Clean Air Programme,Environment & Climate,Gujarat,Rajkot,2020-21,337.58,259.7,193.39,67300,57.3
+National Clean Air Programme,Environment & Climate,Gujarat,Rajkot,2021-22,409.13,344.69,252.77,33618,61.8
+National Clean Air Programme,Environment & Climate,Gujarat,Rajkot,2022-23,502.44,412.38,381.79,216475,76
+National Clean Air Programme,Environment & Climate,Gujarat,Rajkot,2023-24,666.48,545.75,545.75,293068,81.9
+National Clean Air Programme,Environment & Climate,Gujarat,Rajkot,2024-25,816.6,720.41,720.41,368130,88.2
+National Clean Air Programme,Environment & Climate,Gujarat,Rajkot,2025-26,1140.9,1061.7,1027.88,658871,90.1
+National Clean Air Programme,Environment & Climate,Assam,Guwahati,2019-20,344.28,224.22,224.22,142604,65.1
+National Clean Air Programme,Environment & Climate,Assam,Guwahati,2020-21,367.13,244.44,199.91,145335,54.5
+National Clean Air Programme,Environment & Climate,Assam,Guwahati,2021-22,411.75,337.24,210.93,98504,51.2
+National Clean Air Programme,Environment & Climate,Assam,Guwahati,2022-23,476.94,430.62,404.47,152485,84.8
+National Clean Air Programme,Environment & Climate,Assam,Guwahati,2023-24,578.9,501.79,375.82,331097,64.9
+National Clean Air Programme,Environment & Climate,Assam,Guwahati,2024-25,787.38,713.05,710.86,430070,90.3
+National Clean Air Programme,Environment & Climate,Assam,Guwahati,2025-26,1070.09,916.4,854.53,155524,79.9
+National Clean Air Programme,Environment & Climate,Jharkhand,Dhanbad,2019-20,722.32,549.36,537.88,311970,74.5
+National Clean Air Programme,Environment & Climate,Jharkhand,Dhanbad,2020-21,773.16,487.4,464.43,404983,60.1
+National Clean Air Programme,Environment & Climate,Jharkhand,Dhanbad,2021-22,906.82,842.99,601.23,425671,66.3
+National Clean Air Programme,Environment & Climate,Jharkhand,Dhanbad,2022-23,1070.56,792.56,607.57,143387,56.8
+National Clean Air Programme,Environment & Climate,Jharkhand,Dhanbad,2023-24,1230.75,857.57,507.05,87720,41.2
+National Clean Air Programme,Environment & Climate,Jharkhand,Dhanbad,2024-25,1513.67,1373.59,937.31,140597,61.9
+National Clean Air Programme,Environment & Climate,Jharkhand,Dhanbad,2025-26,2018.72,1531.65,1308.08,491838,64.8
+National Clean Air Programme,Environment & Climate,Maharashtra,Pune,2019-20,408.64,343.81,244.44,164753,59.8
+National Clean Air Programme,Environment & Climate,Maharashtra,Pune,2020-21,422.36,321.29,240.68,205059,57
+National Clean Air Programme,Environment & Climate,Maharashtra,Pune,2021-22,483.43,400.99,386.96,74683,80
+National Clean Air Programme,Environment & Climate,Maharashtra,Pune,2022-23,604.19,434.35,295.49,124992,48.9
+National Clean Air Programme,Environment & Climate,Maharashtra,Pune,2023-24,733.71,619.04,544.58,410613,74.2
+National Clean Air Programme,Environment & Climate,Maharashtra,Pune,2024-25,977.77,882.07,806.1,437712,82.4
+National Clean Air Programme,Environment & Climate,Maharashtra,Pune,2025-26,1335.95,1083.01,736.35,94989,55.1
+National Clean Air Programme,Environment & Climate,Gujarat,Surat,2019-20,834.51,671.76,603.48,426660,72.3
+National Clean Air Programme,Environment & Climate,Gujarat,Surat,2020-21,928.33,492.95,420.48,86619,45.3
+National Clean Air Programme,Environment & Climate,Gujarat,Surat,2021-22,1061.52,938.23,858.39,263526,80.9
+National Clean Air Programme,Environment & Climate,Gujarat,Surat,2022-23,1266.64,993.66,828.39,712415,65.4
+National Clean Air Programme,Environment & Climate,Gujarat,Surat,2023-24,1648.34,1417.2,985.97,842018,59.8
+National Clean Air Programme,Environment & Climate,Gujarat,Surat,2024-25,2099.65,1715.77,1472.36,181100,70.1
+National Clean Air Programme,Environment & Climate,Gujarat,Surat,2025-26,2774.77,2303.82,1735.32,1053339,62.5
+National Clean Air Programme,Environment & Climate,Maharashtra,Aurangabad,2019-20,229.68,198.59,178,68352,77.5
+National Clean Air Programme,Environment & Climate,Maharashtra,Aurangabad,2020-21,256.43,182.43,156,109044,60.8
+National Clean Air Programme,Environment & Climate,Maharashtra,Aurangabad,2021-22,302.8,260.07,260.07,52534,85.9
+National Clean Air Programme,Environment & Climate,Maharashtra,Aurangabad,2022-23,356.41,291.2,217.98,159343,61.2
+National Clean Air Programme,Environment & Climate,Maharashtra,Aurangabad,2023-24,433.13,385.66,259.9,183749,60
+National Clean Air Programme,Environment & Climate,Maharashtra,Aurangabad,2024-25,578.92,529.74,529.74,417965,91.5
+National Clean Air Programme,Environment & Climate,Maharashtra,Aurangabad,2025-26,838.82,519.7,362.08,61192,43.2
+Mission Shakti,Women & Child Development,Gujarat,Ahmedabad,2019-20,664.69,590.83,544.19,173052,81.9
+Mission Shakti,Women & Child Development,Gujarat,Ahmedabad,2020-21,760.67,535.91,355.41,230306,46.7
+Mission Shakti,Women & Child Development,Gujarat,Ahmedabad,2021-22,889.15,757.74,578.85,409826,65.1
+Mission Shakti,Women & Child Development,Gujarat,Ahmedabad,2022-23,1011.05,858.58,745.29,236257,73.7
+Mission Shakti,Women & Child Development,Gujarat,Ahmedabad,2023-24,1240.2,1171.67,944.14,480567,76.1
+Mission Shakti,Women & Child Development,Gujarat,Ahmedabad,2024-25,1635.37,1505.42,686.81,559063,42
+Mission Shakti,Women & Child Development,Gujarat,Ahmedabad,2025-26,2104.6,1857.94,1857.94,1116622,88.3
+Mission Shakti,Women & Child Development,Karnataka,Mysuru,2019-20,798.42,505.94,460.57,334374,57.7
+Mission Shakti,Women & Child Development,Karnataka,Mysuru,2020-21,863.81,594.06,594.06,367723,68.8
+Mission Shakti,Women & Child Development,Karnataka,Mysuru,2021-22,969.98,824.51,823.24,296366,84.9
+Mission Shakti,Women & Child Development,Karnataka,Mysuru,2022-23,1118.81,1029.2,784.41,374948,70.1
+Mission Shakti,Women & Child Development,Karnataka,Mysuru,2023-24,1360.13,1235.51,876.17,172605,64.4
+Mission Shakti,Women & Child Development,Karnataka,Mysuru,2024-25,1830.91,1504.75,1125.78,431174,61.5
+Mission Shakti,Women & Child Development,Karnataka,Mysuru,2025-26,2562.28,2324.91,2222.24,1835570,86.7
+Mission Shakti,Women & Child Development,Bihar,Gaya,2019-20,565.14,484.42,440.23,293193,77.9
+Mission Shakti,Women & Child Development,Bihar,Gaya,2020-21,552.03,454,392.37,66311,71.1
+Mission Shakti,Women & Child Development,Bihar,Gaya,2021-22,594.46,535.18,406.06,233078,68.3
+Mission Shakti,Women & Child Development,Bihar,Gaya,2022-23,685.82,513.87,400.42,316732,58.4
+Mission Shakti,Women & Child Development,Bihar,Gaya,2023-24,758.07,666.62,582.03,80902,76.8
+Mission Shakti,Women & Child Development,Bihar,Gaya,2024-25,965.91,855.57,673.68,496502,69.7
+Mission Shakti,Women & Child Development,Bihar,Gaya,2025-26,1262.65,1262.65,1029.85,410910,81.6
+Mission Shakti,Women & Child Development,Gujarat,Rajkot,2019-20,561.87,519.19,333.13,196880,59.3
+Mission Shakti,Women & Child Development,Gujarat,Rajkot,2020-21,626.15,459.09,408.21,279624,65.2
+Mission Shakti,Women & Child Development,Gujarat,Rajkot,2021-22,701.67,644.92,486.19,395759,69.3
+Mission Shakti,Women & Child Development,Gujarat,Rajkot,2022-23,818.95,818.95,780.96,520119,95.4
+Mission Shakti,Women & Child Development,Gujarat,Rajkot,2023-24,870.03,763.53,698.81,396225,80.3
+Mission Shakti,Women & Child Development,Gujarat,Rajkot,2024-25,1159.63,854.39,780.64,575332,67.3
+Mission Shakti,Women & Child Development,Gujarat,Rajkot,2025-26,1575.01,1341.41,1222.26,872694,77.6
+Mission Shakti,Women & Child Development,Gujarat,Surat,2019-20,746.12,609.61,438.47,273167,58.8
+Mission Shakti,Women & Child Development,Gujarat,Surat,2020-21,769.56,556.59,452.83,103698,58.8
+Mission Shakti,Women & Child Development,Gujarat,Surat,2021-22,912.15,893.64,692.85,423331,76
+Mission Shakti,Women & Child Development,Gujarat,Surat,2022-23,1100.02,1047.17,748.09,389755,68
+Mission Shakti,Women & Child Development,Gujarat,Surat,2023-24,1331.17,1331.17,1274.33,786262,95.7
+Mission Shakti,Women & Child Development,Gujarat,Surat,2024-25,1746.27,1394.34,1059.93,898821,60.7
+Mission Shakti,Women & Child Development,Gujarat,Surat,2025-26,2293.39,1704.55,1434.95,552456,62.6
+Mission Shakti,Women & Child Development,Karnataka,Bengaluru Urban,2019-20,208.62,204.74,168.94,35140,81
+Mission Shakti,Women & Child Development,Karnataka,Bengaluru Urban,2020-21,204.78,86.01,59.48,41220,29
+Mission Shakti,Women & Child Development,Karnataka,Bengaluru Urban,2021-22,223.83,174.75,173.43,47867,77.5
+Mission Shakti,Women & Child Development,Karnataka,Bengaluru Urban,2022-23,245.39,240.04,204.28,154231,83.2
+Mission Shakti,Women & Child Development,Karnataka,Bengaluru Urban,2023-24,295.16,258.07,238.56,88744,80.8
+Mission Shakti,Women & Child Development,Karnataka,Bengaluru Urban,2024-25,394.13,366.82,366.82,203218,93.1
+Mission Shakti,Women & Child Development,Karnataka,Bengaluru Urban,2025-26,526.98,383,314.02,259381,59.6
+Mission Shakti,Women & Child Development,Rajasthan,Udaipur,2019-20,625.25,526.85,352.63,166441,56.4
+Mission Shakti,Women & Child Development,Rajasthan,Udaipur,2020-21,686.74,406.67,401.97,83610,58.5
+Mission Shakti,Women & Child Development,Rajasthan,Udaipur,2021-22,749.11,541.8,541.8,155497,72.3
+Mission Shakti,Women & Child Development,Rajasthan,Udaipur,2022-23,914.95,745.12,456.54,409516,49.9
+Mission Shakti,Women & Child Development,Rajasthan,Udaipur,2023-24,1097.1,964.58,808.68,515129,73.7
+Mission Shakti,Women & Child Development,Rajasthan,Udaipur,2024-25,1418.7,1418.7,1347.25,1026605,95
+Mission Shakti,Women & Child Development,Rajasthan,Udaipur,2025-26,1980.31,1742.5,1378.55,311552,69.6
+Mission Shakti,Women & Child Development,Assam,Guwahati,2019-20,141.34,120.16,62.29,26473,44.1
+Mission Shakti,Women & Child Development,Assam,Guwahati,2020-21,144.67,106.22,91.94,67576,63.6
+Mission Shakti,Women & Child Development,Assam,Guwahati,2021-22,157.46,99.28,77.81,67072,49.4
+Mission Shakti,Women & Child Development,Assam,Guwahati,2022-23,191.7,121.44,94.36,26232,49.2
+Mission Shakti,Women & Child Development,Assam,Guwahati,2023-24,239.84,186.45,166.03,26897,69.2
+Mission Shakti,Women & Child Development,Assam,Guwahati,2024-25,310.23,283.72,217.9,61884,70.2
+Mission Shakti,Women & Child Development,Assam,Guwahati,2025-26,411.85,385.16,278.58,215621,67.6
+Mission Shakti,Women & Child Development,Odisha,Cuttack,2019-20,368.66,331.8,317.45,143170,86.1
+Mission Shakti,Women & Child Development,Odisha,Cuttack,2020-21,370.27,300.18,263.24,96872,71.1
+Mission Shakti,Women & Child Development,Odisha,Cuttack,2021-22,415.87,415.87,415.87,167596,100
+Mission Shakti,Women & Child Development,Odisha,Cuttack,2022-23,491.12,429.59,411.68,53518,83.8
+Mission Shakti,Women & Child Development,Odisha,Cuttack,2023-24,614.75,516.89,460.96,242004,75
+Mission Shakti,Women & Child Development,Odisha,Cuttack,2024-25,806.9,781.83,739.84,355123,91.7
+Mission Shakti,Women & Child Development,Odisha,Cuttack,2025-26,1067.2,950.32,908.53,443363,85.1
+Mission Shakti,Women & Child Development,Kerala,Thiruvananthapuram,2019-20,437.9,305.66,224.78,177576,51.3
+Mission Shakti,Women & Child Development,Kerala,Thiruvananthapuram,2020-21,464.68,339.94,294.28,203053,63.3
+Mission Shakti,Women & Child Development,Kerala,Thiruvananthapuram,2021-22,524.36,524.36,388.73,62974,74.1
+Mission Shakti,Women & Child Development,Kerala,Thiruvananthapuram,2022-23,652.53,513.5,487.18,197308,74.7
+Mission Shakti,Women & Child Development,Kerala,Thiruvananthapuram,2023-24,817.29,770.41,463.25,369674,56.7
+Mission Shakti,Women & Child Development,Kerala,Thiruvananthapuram,2024-25,1057.74,894.23,500.9,156281,47.4
+Mission Shakti,Women & Child Development,Kerala,Thiruvananthapuram,2025-26,1410.78,1155.45,869.63,643526,61.6
+Mission Shakti,Women & Child Development,Maharashtra,Pune,2019-20,247.4,192.89,125.97,45601,50.9
+Mission Shakti,Women & Child Development,Maharashtra,Pune,2020-21,268.56,201.45,154.75,30641,57.6
+Mission Shakti,Women & Child Development,Maharashtra,Pune,2021-22,308.63,300.26,236.32,69005,76.6
+Mission Shakti,Women & Child Development,Maharashtra,Pune,2022-23,357.8,326.66,201.81,127544,56.4
+Mission Shakti,Women & Child Development,Maharashtra,Pune,2023-24,468.54,336.87,263.5,88009,56.2
+Mission Shakti,Women & Child Development,Maharashtra,Pune,2024-25,619.46,619.46,551.63,248234,89.1
+Mission Shakti,Women & Child Development,Maharashtra,Pune,2025-26,884.32,617.2,534.99,151937,60.5
+Mission Shakti,Women & Child Development,Tamil Nadu,Tiruchirappalli,2019-20,712.67,595.01,442.33,336613,62.1
+Mission Shakti,Women & Child Development,Tamil Nadu,Tiruchirappalli,2020-21,788.91,557.74,468.89,211001,59.4
+Mission Shakti,Women & Child Development,Tamil Nadu,Tiruchirappalli,2021-22,907.58,796.26,720.36,350095,79.4
+Mission Shakti,Women & Child Development,Tamil Nadu,Tiruchirappalli,2022-23,1188,1014.29,949.43,667449,79.9
+Mission Shakti,Women & Child Development,Tamil Nadu,Tiruchirappalli,2023-24,1524.82,1323.79,782.21,535814,51.3
+Mission Shakti,Women & Child Development,Tamil Nadu,Tiruchirappalli,2024-25,1929.04,1670.17,1403.36,794302,72.7
+Mission Shakti,Women & Child Development,Tamil Nadu,Tiruchirappalli,2025-26,2519.57,2176.11,1868.66,396156,74.2
+MGNREGS,Rural Development,Maharashtra,Aurangabad,2019-20,848.93,697.43,697.43,147158,82.2
+MGNREGS,Rural Development,Maharashtra,Aurangabad,2020-21,989.73,543.58,462.28,168732,46.7
+MGNREGS,Rural Development,Maharashtra,Aurangabad,2021-22,1109.69,767.55,500.12,335581,45.1
+MGNREGS,Rural Development,Maharashtra,Aurangabad,2022-23,1403.41,1173.97,740.97,615746,52.8
+MGNREGS,Rural Development,Maharashtra,Aurangabad,2023-24,1796.82,1477.33,1477.33,314671,82.2
+MGNREGS,Rural Development,Maharashtra,Aurangabad,2024-25,2289.5,2087.73,1891.59,1507597,82.6
+MGNREGS,Rural Development,Maharashtra,Aurangabad,2025-26,3117.56,3085.96,2013.82,1214333,64.6
+MGNREGS,Rural Development,Tamil Nadu,Tiruchirappalli,2019-20,665,604.02,527.75,238543,79.4
+MGNREGS,Rural Development,Tamil Nadu,Tiruchirappalli,2020-21,721.03,556.79,446.99,354910,62
+MGNREGS,Rural Development,Tamil Nadu,Tiruchirappalli,2021-22,827.21,739.71,635.07,256568,76.8
+MGNREGS,Rural Development,Tamil Nadu,Tiruchirappalli,2022-23,983.49,836.07,836.07,312690,85
+MGNREGS,Rural Development,Tamil Nadu,Tiruchirappalli,2023-24,1262.71,1163.63,845.54,373729,67
+MGNREGS,Rural Development,Tamil Nadu,Tiruchirappalli,2024-25,1634.76,1277.46,1277.46,738372,78.1
+MGNREGS,Rural Development,Tamil Nadu,Tiruchirappalli,2025-26,2266.9,2049.64,1554.19,1140775,68.6
+MGNREGS,Rural Development,Rajasthan,Jaipur,2019-20,267.24,216.84,204.81,27035,76.6
+MGNREGS,Rural Development,Rajasthan,Jaipur,2020-21,287.86,166.28,114.11,98020,39.6
+MGNREGS,Rural Development,Rajasthan,Jaipur,2021-22,318.39,243.88,164.4,62143,51.6
+MGNREGS,Rural Development,Rajasthan,Jaipur,2022-23,353.2,353.2,278.37,46209,78.8
+MGNREGS,Rural Development,Rajasthan,Jaipur,2023-24,428.04,301.23,277.4,127604,64.8
+MGNREGS,Rural Development,Rajasthan,Jaipur,2024-25,559.77,439.98,281.64,83365,50.3
+MGNREGS,Rural Development,Rajasthan,Jaipur,2025-26,745.2,602.78,602.78,263415,80.9
+MGNREGS,Rural Development,Gujarat,Ahmedabad,2019-20,705.11,557.57,517.82,137222,73.4
+MGNREGS,Rural Development,Gujarat,Ahmedabad,2020-21,760.5,554.08,415.44,54007,54.6
+MGNREGS,Rural Development,Gujarat,Ahmedabad,2021-22,893.84,802.42,528.94,398821,59.2
+MGNREGS,Rural Development,Gujarat,Ahmedabad,2022-23,1129.21,782.92,734.37,546371,65
+MGNREGS,Rural Development,Gujarat,Ahmedabad,2023-24,1373.47,1216.38,871.04,191629,63.4
+MGNREGS,Rural Development,Gujarat,Ahmedabad,2024-25,1771.08,1682.28,1348.43,902100,76.1
+MGNREGS,Rural Development,Gujarat,Ahmedabad,2025-26,2386.61,2037.58,1298.65,728543,54.4
+MGNREGS,Rural Development,Assam,Dibrugarh,2019-20,412.62,388.58,364.61,84225,88.4
+MGNREGS,Rural Development,Assam,Dibrugarh,2020-21,383.09,183.44,163.49,146324,42.7
+MGNREGS,Rural Development,Assam,Dibrugarh,2021-22,441.51,383.96,285.41,173815,64.6
+MGNREGS,Rural Development,Assam,Dibrugarh,2022-23,542.28,480.76,466.3,307758,86
+MGNREGS,Rural Development,Assam,Dibrugarh,2023-24,664.75,547.12,332.42,154908,50
+MGNREGS,Rural Development,Assam,Dibrugarh,2024-25,838.49,731.04,674.36,316949,80.4
+MGNREGS,Rural Development,Assam,Dibrugarh,2025-26,1112.51,950.3,914.18,717631,82.2
+MGNREGS,Rural Development,Kerala,Ernakulam,2019-20,651.54,551.26,488.59,213025,75
+MGNREGS,Rural Development,Kerala,Ernakulam,2020-21,693.37,403.24,332.96,152496,48
+MGNREGS,Rural Development,Kerala,Ernakulam,2021-22,764.83,643.47,567.73,200409,74.2
+MGNREGS,Rural Development,Kerala,Ernakulam,2022-23,947.9,876.79,650.74,528401,68.7
+MGNREGS,Rural Development,Kerala,Ernakulam,2023-24,1099.04,914.43,725.66,409272,66
+MGNREGS,Rural Development,Kerala,Ernakulam,2024-25,1401.07,1203.64,904.98,276019,64.6
+MGNREGS,Rural Development,Kerala,Ernakulam,2025-26,1919.33,1527.53,1527.53,1110514,79.6
+MGNREGS,Rural Development,Uttar Pradesh,Gorakhpur,2019-20,109.98,81.65,57.9,17254,52.6
+MGNREGS,Rural Development,Uttar Pradesh,Gorakhpur,2020-21,116.7,65.69,54.48,18251,46.7
+MGNREGS,Rural Development,Uttar Pradesh,Gorakhpur,2021-22,130.15,116.63,94.35,66422,72.5
+MGNREGS,Rural Development,Uttar Pradesh,Gorakhpur,2022-23,157.88,121.32,121.32,23051,76.8
+MGNREGS,Rural Development,Uttar Pradesh,Gorakhpur,2023-24,186.6,183.59,133.19,20778,71.4
+MGNREGS,Rural Development,Uttar Pradesh,Gorakhpur,2024-25,248.93,232.2,226.43,184314,91
+MGNREGS,Rural Development,Uttar Pradesh,Gorakhpur,2025-26,312.9,279.29,232.06,167547,74.2
+MGNREGS,Rural Development,Maharashtra,Nashik,2019-20,391.31,313.06,308.14,201215,78.7
+MGNREGS,Rural Development,Maharashtra,Nashik,2020-21,383.41,238.53,201.91,126799,52.7
+MGNREGS,Rural Development,Maharashtra,Nashik,2021-22,444.67,322.87,262.29,168915,59
+MGNREGS,Rural Development,Maharashtra,Nashik,2022-23,509.7,357.21,254.02,172226,49.8
+MGNREGS,Rural Development,Maharashtra,Nashik,2023-24,654.38,529.31,521.53,255028,79.7
+MGNREGS,Rural Development,Maharashtra,Nashik,2024-25,898,884.42,531.19,300122,59.2
+MGNREGS,Rural Development,Maharashtra,Nashik,2025-26,1233.12,902.31,622.41,253321,50.5
+MGNREGS,Rural Development,Rajasthan,Jodhpur,2019-20,314.21,280.58,264.85,159440,84.3
+MGNREGS,Rural Development,Rajasthan,Jodhpur,2020-21,345.67,244.45,183.98,118851,53.2
+MGNREGS,Rural Development,Rajasthan,Jodhpur,2021-22,391.5,332.95,262.92,159855,67.2
+MGNREGS,Rural Development,Rajasthan,Jodhpur,2022-23,469.07,385.18,287.01,163022,61.2
+MGNREGS,Rural Development,Rajasthan,Jodhpur,2023-24,594.04,543.21,265.89,69929,44.8
+MGNREGS,Rural Development,Rajasthan,Jodhpur,2024-25,769.02,575.54,505.67,449541,65.8
+MGNREGS,Rural Development,Rajasthan,Jodhpur,2025-26,1106.49,1106.49,905.42,157543,81.8
+MGNREGS,Rural Development,Odisha,Ganjam,2019-20,451.68,392.07,392.07,267392,86.8
+MGNREGS,Rural Development,Odisha,Ganjam,2020-21,477.91,350.43,234.68,183754,49.1
+MGNREGS,Rural Development,Odisha,Ganjam,2021-22,532.67,391.9,368.07,242190,69.1
+MGNREGS,Rural Development,Odisha,Ganjam,2022-23,639.75,538.34,481.71,257233,75.3
+MGNREGS,Rural Development,Odisha,Ganjam,2023-24,753.06,591.53,591.53,434775,78.6
+MGNREGS,Rural Development,Odisha,Ganjam,2024-25,968.5,876.02,747.75,193667,77.2
+MGNREGS,Rural Development,Odisha,Ganjam,2025-26,1265.53,1037.52,942.98,337587,74.5
+MGNREGS,Rural Development,Gujarat,Surat,2019-20,431.18,368.42,312.17,161704,72.4
+MGNREGS,Rural Development,Gujarat,Surat,2020-21,479.61,215.23,170.76,57034,35.6
+MGNREGS,Rural Development,Gujarat,Surat,2021-22,517.88,343.72,260.13,74397,50.2
+MGNREGS,Rural Development,Gujarat,Surat,2022-23,654.12,592.5,493.75,234531,75.5
+MGNREGS,Rural Development,Gujarat,Surat,2023-24,791.42,723.63,702.31,309016,88.7
+MGNREGS,Rural Development,Gujarat,Surat,2024-25,1000.9,834.31,559.89,475907,55.9
+MGNREGS,Rural Development,Gujarat,Surat,2025-26,1388.56,1286.75,1125.38,908182,81
+MGNREGS,Rural Development,Maharashtra,Nagpur,2019-20,465.76,425.04,346.62,285615,74.4
+MGNREGS,Rural Development,Maharashtra,Nagpur,2020-21,502.71,403.12,374.64,50202,74.5
+MGNREGS,Rural Development,Maharashtra,Nagpur,2021-22,564.58,503.6,419.02,203644,74.2
+MGNREGS,Rural Development,Maharashtra,Nagpur,2022-23,610.35,591.23,510.77,190517,83.7
+MGNREGS,Rural Development,Maharashtra,Nagpur,2023-24,735.87,624.46,566.99,263083,77.1
+MGNREGS,Rural Development,Maharashtra,Nagpur,2024-25,967.29,867.02,618.09,411030,63.9
+MGNREGS,Rural Development,Maharashtra,Nagpur,2025-26,1367.89,1367.89,1086.46,475869,79.4

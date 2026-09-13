@@ -1,0 +1,964 @@
+ticket_id,department,district,opened_on,closed_on,days_to_close,category,citizen_name,citizen_phone,citizen_email,aadhaar_ref,status
+GRV-2023-100000,Education,Patna,2023-08-18,2023-10-03,46,Scheme payment pending,Ananya Reddy,+919285551533,ananya.reddy90@yahoo.in,217860847314,Closed
+GRV-2024-100001,Education,Gwalior,2024-02-13,2024-03-05,21,Air pollution complaint,Farhan Das,+917603782831,farhan.das38@yahoo.in,672072442546,Escalated
+GRV-2025-100002,Jal Shakti,Bhopal,2025-06-14,2025-08-14,61,Water supply interruption,Kabir Nair,+919755559804,kabir.nair92@outlook.com,499337969510,Closed
+GRV-2023-100003,Women & Child Development,Surat,2023-08-20,2023-10-13,54,Sanitation / garbage,Rohan Mishra,+916722069541,rohan.mishra67@yahoo.in,419740674017,Escalated
+GRV-2025-100004,Environment & Climate,Cuttack,2025-07-13,2025-10-12,91,Hospital bed unavailability,Lakshmi Chauhan,+918741772176,lakshmi.chauhan91@yahoo.in,712423349776,Escalated
+GRV-2024-100005,Rural Development,Udaipur,2024-05-20,2024-08-13,85,Sanitation / garbage,Aarav Nair,+919862505524,aarav.nair31@rediffmail.com,408166617806,Closed
+GRV-2025-100006,Jal Shakti,Cuttack,2025-06-04,,,Ambulance delay,Vivaan Kulkarni,+916996298751,vivaan.kulkarni57@yahoo.in,651716477538,Open
+GRV-2023-100007,Road Transport & Highways,Jaipur,2023-09-25,2023-10-27,32,Air pollution complaint,Meera Joshi,+916108336657,meera.joshi32@gmail.com,886686884412,Closed
+GRV-2025-100008,Urban Affairs,Nagpur,2025-10-12,2025-10-15,3,Water supply interruption,Rahul Iyer,+916407450775,rahul.iyer69@rediffmail.com,482532135769,Closed
+GRV-2024-100009,Women & Child Development,Pune,2024-05-14,,,Scheme payment pending,Farhan Joshi,+919929479868,farhan.joshi46@gmail.com,801166232417,Open
+GRV-2023-100010,Environment & Climate,Surat,2023-04-21,2023-06-18,58,Sanitation / garbage,Zoya Kulkarni,+918452174381,zoya.kulkarni45@outlook.com,604076179964,Closed
+GRV-2025-100011,Road Transport & Highways,Varanasi,2025-02-23,2025-05-17,83,Sanitation / garbage,Aarav Rao,+919868317505,aarav.rao57@yahoo.in,403618388291,Closed
+GRV-2024-100012,Jal Shakti,Gaya,2024-02-15,2024-05-03,78,Scheme payment pending,Meera Kulkarni,+919420356666,meera.kulkarni61@outlook.com,354447712786,Closed
+GRV-2023-100013,Women & Child Development,Cuttack,2023-11-04,2024-01-29,86,Hospital bed unavailability,Lakshmi Rao,+916643124005,lakshmi.rao85@yahoo.in,356838408401,Closed
+GRV-2025-100014,Environment & Climate,Varanasi,2025-10-21,2025-11-25,35,Ambulance delay,Lakshmi Banerjee,+916998504896,lakshmi.banerjee54@rediffmail.com,799063126216,Closed
+GRV-2023-100015,Rural Development,Mysuru,2023-10-05,,,Street light outage,Farhan Yadav,+916841580590,farhan.yadav30@outlook.com,654939244490,Open
+GRV-2023-100016,Education,Gwalior,2023-10-23,2023-11-16,24,Sanitation / garbage,Farhan Sharma,+916200120076,farhan.sharma75@rediffmail.com,592927416977,Closed
+GRV-2025-100017,Environment & Climate,Tiruchirappalli,2025-05-07,,,Street light outage,Aarav Pillai,+919597193604,aarav.pillai21@gmail.com,968246954532,Open
+GRV-2025-100018,Women & Child Development,Jaipur,2025-07-14,,,Hospital bed unavailability,Farhan Das,+919314828941,farhan.das28@gmail.com,534484374893,Open
+GRV-2024-100019,Environment & Climate,Nagpur,2024-09-15,2024-11-29,75,Sanitation / garbage,Rohan Mahato,+917819623987,rohan.mahato64@gmail.com,782342954659,Closed
+GRV-2023-100020,Jal Shakti,Madurai,2023-09-24,2023-10-25,31,Road damage / pothole,Rohan Nair,+916468052194,rohan.nair29@gmail.com,718884511890,Closed
+GRV-2025-100021,Urban Affairs,Indore,2025-02-24,2025-03-06,10,Scheme payment pending,Rohan Singh,+919690306549,rohan.singh82@outlook.com,619396924598,Closed
+GRV-2025-100022,Urban Affairs,Pune,2025-01-13,,,Water supply interruption,Sunita Reddy,+917280267336,sunita.reddy87@gmail.com,703951919826,Open
+GRV-2023-100023,Jal Shakti,Aurangabad,2023-09-21,,,Air pollution complaint,Meera Banerjee,+916974689962,meera.banerjee61@outlook.com,914691184097,Open
+GRV-2023-100024,Road Transport & Highways,Udaipur,2023-05-17,2023-05-18,1,Ambulance delay,Aarav Joshi,+917397343714,aarav.joshi32@yahoo.in,346266931421,Closed
+GRV-2025-100025,Women & Child Development,Ranchi,2025-06-27,2025-09-03,68,Air pollution complaint,Arjun Iyer,+919622446432,arjun.iyer97@rediffmail.com,738275704021,Escalated
+GRV-2024-100026,Rural Development,Bengaluru Urban,2024-10-07,,,Water supply interruption,Farhan Mahato,+918756294764,farhan.mahato82@gmail.com,751090995951,Open
+GRV-2023-100027,Jal Shakti,Lucknow,2023-05-25,2023-06-14,20,Scheme payment pending,Aditya Banerjee,+917952450651,aditya.banerjee15@yahoo.in,983211115669,Closed
+GRV-2025-100028,Education,Nagpur,2025-07-08,2025-07-12,4,Hospital bed unavailability,Ishaan Nair,+917551116854,ishaan.nair29@rediffmail.com,817428499463,Escalated
+GRV-2023-100029,Environment & Climate,Coimbatore,2023-11-15,2023-11-20,5,Air pollution complaint,Vivaan Kulkarni,+917460893985,vivaan.kulkarni88@rediffmail.com,241667163131,Closed
+GRV-2023-100030,Rural Development,Nagpur,2023-04-13,,,Sanitation / garbage,Ishaan Khan,+919205924769,ishaan.khan39@yahoo.in,648141069987,Open
+GRV-2025-100031,Road Transport & Highways,Dhanbad,2025-03-21,2025-06-11,82,Water supply interruption,Zoya Gupta,+916197077493,zoya.gupta68@gmail.com,402511237326,Closed
+GRV-2024-100032,Jal Shakti,Dibrugarh,2024-12-25,2025-03-15,80,Ambulance delay,Ananya Rao,+917926212382,ananya.rao68@outlook.com,303689782339,Closed
+GRV-2024-100033,Jal Shakti,Aurangabad,2024-02-16,2024-03-14,27,Hospital bed unavailability,Rahul Gupta,+916160208050,rahul.gupta60@outlook.com,477780121713,Closed
+GRV-2023-100034,Urban Affairs,Indore,2023-01-13,2023-04-17,94,Scheme payment pending,Meera Das,+918916300861,meera.das71@yahoo.in,236768026252,Closed
+GRV-2025-100035,Jal Shakti,Gwalior,2025-03-16,2025-06-19,95,Sanitation / garbage,Kavya Verma,+917646275175,kavya.verma27@outlook.com,247881567898,Closed
+GRV-2025-100036,Education,Bhopal,2025-09-08,2025-10-24,46,Hospital bed unavailability,Neha Reddy,+918652445527,neha.reddy33@gmail.com,802732598381,Closed
+GRV-2024-100037,Rural Development,Bengaluru Urban,2024-04-06,2024-06-30,85,Ambulance delay,Meera Sinha,+919767392315,meera.sinha45@yahoo.in,933274155442,Closed
+GRV-2023-100038,Jal Shakti,Surat,2023-02-10,2023-04-27,76,Scheme payment pending,Vivaan Reddy,+919570016385,vivaan.reddy27@outlook.com,413698175379,Closed
+GRV-2024-100039,Women & Child Development,Gorakhpur,2024-08-21,2024-10-05,45,Street light outage,Rahul Verma,+917498726036,rahul.verma77@gmail.com,574324502184,Closed
+GRV-2025-100040,Environment & Climate,Nashik,2025-07-05,2025-08-24,50,Ambulance delay,Priya Patel,+917280427276,priya.patel22@outlook.com,680227949165,Closed
+GRV-2023-100041,Rural Development,Nashik,2023-10-25,,,Road damage / pothole,Sunita Sharma,+918751934061,sunita.sharma14@gmail.com,615279398015,Open
+GRV-2023-100042,Urban Affairs,Ernakulam,2023-10-14,2023-12-10,57,Sanitation / garbage,Priya Rao,+917360024184,priya.rao20@yahoo.in,353238014493,Escalated
+GRV-2023-100043,Health & Family Welfare,Raipur,2023-05-26,2023-07-05,40,Water supply interruption,Vivaan Banerjee,+919431835808,vivaan.banerjee68@gmail.com,486276024381,Closed
+GRV-2023-100044,Education,Muzaffarpur,2023-07-15,2023-09-27,74,Road damage / pothole,Ishaan Verma,+917731890523,ishaan.verma14@rediffmail.com,799895453855,Closed
+GRV-2023-100045,Health & Family Welfare,Nashik,2023-04-23,2023-06-22,60,Sanitation / garbage,Vivaan Patel,+918257398702,vivaan.patel50@yahoo.in,529019096631,Closed
+GRV-2023-100046,Rural Development,Belagavi,2023-11-24,2023-12-12,18,Hospital bed unavailability,Ishaan Nair,+917898872715,ishaan.nair69@yahoo.in,593441014122,Closed
+GRV-2025-100047,Environment & Climate,Pune,2025-09-14,,,Sanitation / garbage,Sanya Yadav,+919243402860,sanya.yadav47@rediffmail.com,287182881415,Open
+GRV-2024-100048,Urban Affairs,Belagavi,2024-08-25,2024-08-31,6,Air pollution complaint,Sanya Singh,+918331875205,sanya.singh51@rediffmail.com,681237717916,Closed
+GRV-2024-100049,Health & Family Welfare,Gorakhpur,2024-04-11,2024-05-24,43,Scheme payment pending,Aditya Iyer,+918321528424,aditya.iyer45@gmail.com,758293048280,Closed
+GRV-2024-100050,Rural Development,Coimbatore,2024-08-26,2024-09-21,26,Road damage / pothole,Neha Rao,+918346565877,neha.rao49@rediffmail.com,993945157970,Closed
+GRV-2024-100051,Health & Family Welfare,Gaya,2024-11-05,2025-01-01,57,Sanitation / garbage,Zoya Das,+919129455082,zoya.das45@outlook.com,657835977590,Closed
+GRV-2024-100052,Health & Family Welfare,Ernakulam,2024-03-11,2024-06-12,93,Scheme payment pending,Meera Reddy,+917609722331,meera.reddy68@gmail.com,751334665079,Closed
+GRV-2025-100053,Education,Tiruchirappalli,2025-12-05,2026-02-05,62,Air pollution complaint,Diya Sharma,+919924220928,diya.sharma90@rediffmail.com,394220866389,Closed
+GRV-2025-100054,Rural Development,Mysuru,2025-12-10,2026-01-10,31,Air pollution complaint,Ishaan Kulkarni,+919884298119,ishaan.kulkarni21@yahoo.in,335812263674,Closed
+GRV-2023-100055,Jal Shakti,Belagavi,2023-02-06,2023-05-12,95,Scheme payment pending,Ishaan Sharma,+917597583932,ishaan.sharma89@gmail.com,842772004887,Closed
+GRV-2024-100056,Health & Family Welfare,Thiruvananthapuram,2024-04-23,2024-07-28,96,Road damage / pothole,Zoya Sinha,+919812170837,zoya.sinha36@outlook.com,271980766682,Closed
+GRV-2023-100057,Environment & Climate,Gwalior,2023-06-17,2023-08-29,73,Air pollution complaint,Rahul Rao,+916277879212,rahul.rao36@outlook.com,674121342321,Closed
+GRV-2024-100058,Rural Development,Dibrugarh,2024-05-02,2024-06-24,53,Ambulance delay,Aarav Joshi,+916451180088,aarav.joshi15@rediffmail.com,928819131041,Closed
+GRV-2025-100059,Women & Child Development,Gwalior,2025-03-02,2025-03-10,8,Air pollution complaint,Aarav Mahato,+919319099749,aarav.mahato48@outlook.com,804073414736,Closed
+GRV-2025-100060,Women & Child Development,Aurangabad,2025-06-17,2025-08-31,75,Water supply interruption,Vivaan Banerjee,+916167794826,vivaan.banerjee33@gmail.com,540487555166,Closed
+GRV-2023-100061,Rural Development,Dehradun,2023-07-26,,,Sanitation / garbage,Farhan Pillai,+918541399977,farhan.pillai87@rediffmail.com,429683916463,Open
+GRV-2024-100062,Jal Shakti,Rajkot,2024-09-07,2024-12-08,92,Sanitation / garbage,Sunita Verma,+919713441336,sunita.verma72@rediffmail.com,522681807022,Closed
+GRV-2024-100063,Rural Development,Mysuru,2024-04-03,,,Hospital bed unavailability,Farhan Gupta,+916770373415,farhan.gupta87@outlook.com,846644654963,Open
+GRV-2024-100064,Women & Child Development,Indore,2024-08-21,2024-10-18,58,Hospital bed unavailability,Farhan Das,+916283461145,farhan.das58@gmail.com,460833312462,Closed
+GRV-2024-100065,Rural Development,Raipur,2024-03-27,2024-06-03,68,Air pollution complaint,Arjun Chauhan,+918804821747,arjun.chauhan32@gmail.com,416917372490,Closed
+GRV-2023-100066,Urban Affairs,Raipur,2023-03-11,2023-03-12,1,Street light outage,Aditya Singh,+916323444938,aditya.singh94@outlook.com,361534245538,Closed
+GRV-2023-100067,Health & Family Welfare,Guwahati,2023-07-02,2023-07-03,1,Scheme payment pending,Diya Kulkarni,+917181783608,diya.kulkarni53@outlook.com,478520354460,Closed
+GRV-2025-100068,Rural Development,Rajkot,2025-11-23,2026-01-19,57,Sanitation / garbage,Aarav Sharma,+919835461901,aarav.sharma96@yahoo.in,239239956722,Closed
+GRV-2025-100069,Environment & Climate,Ernakulam,2025-03-21,2025-04-11,21,Ambulance delay,Kavya Rao,+917882849288,kavya.rao86@outlook.com,906064457317,Closed
+GRV-2025-100070,Education,Varanasi,2025-05-11,2025-05-22,11,Hospital bed unavailability,Priya Reddy,+919678464754,priya.reddy98@outlook.com,792064128139,Closed
+GRV-2025-100071,Rural Development,Patna,2025-04-18,2025-05-25,37,Road damage / pothole,Arjun Patel,+917715690961,arjun.patel99@yahoo.in,274388001210,Closed
+GRV-2024-100072,Environment & Climate,Raipur,2024-06-03,2024-08-18,76,Street light outage,Ramesh Pillai,+918568613795,ramesh.pillai12@yahoo.in,637880553903,Closed
+GRV-2025-100073,Women & Child Development,Bhopal,2025-09-24,2025-12-15,82,Street light outage,Kabir Banerjee,+918588472548,kabir.banerjee80@rediffmail.com,481059856368,Closed
+GRV-2024-100074,Environment & Climate,Ranchi,2024-06-07,2024-06-23,16,Street light outage,Priya Gupta,+917518184636,priya.gupta45@gmail.com,774954436749,Closed
+GRV-2024-100075,Women & Child Development,Nagpur,2024-11-20,2025-01-03,44,Sanitation / garbage,Aarav Kulkarni,+916237333286,aarav.kulkarni73@rediffmail.com,698967595209,Closed
+GRV-2024-100076,Road Transport & Highways,Cuttack,2024-05-14,2024-08-12,90,Hospital bed unavailability,Vivaan Nair,+919714924820,vivaan.nair93@gmail.com,395045879053,Closed
+GRV-2024-100077,Women & Child Development,Belagavi,2024-11-28,2024-12-31,33,Street light outage,Ishaan Mahato,+918574349764,ishaan.mahato33@rediffmail.com,208818412087,Escalated
+GRV-2024-100078,Jal Shakti,Muzaffarpur,2024-05-16,2024-05-17,1,Scheme payment pending,Zoya Yadav,+916881354961,zoya.yadav17@yahoo.in,402993102722,Closed
+GRV-2025-100079,Environment & Climate,Bengaluru Urban,2025-06-15,2025-09-19,96,Water supply interruption,Sanya Singh,+919282235713,sanya.singh89@outlook.com,343671928248,Closed
+GRV-2025-100080,Road Transport & Highways,Amritsar,2025-11-15,2026-01-18,64,Air pollution complaint,Rahul Rao,+918773615068,rahul.rao57@outlook.com,488842812139,Closed
+GRV-2023-100081,Jal Shakti,Guwahati,2023-02-15,2023-05-09,83,Hospital bed unavailability,Rahul Banerjee,+916172878019,rahul.banerjee97@outlook.com,917883765827,Closed
+GRV-2023-100082,Jal Shakti,Patna,2023-02-27,2023-05-12,74,Road damage / pothole,Sunita Das,+918167415091,sunita.das40@outlook.com,600191291451,Closed
+GRV-2025-100083,Jal Shakti,Madurai,2025-07-01,2025-07-31,30,Air pollution complaint,Vivaan Kulkarni,+917295444138,vivaan.kulkarni74@yahoo.in,512483361649,Closed
+GRV-2023-100084,Environment & Climate,Rajkot,2023-11-12,2024-01-03,52,Sanitation / garbage,Sanya Sinha,+919815065797,sanya.sinha37@gmail.com,740539018960,Closed
+GRV-2025-100085,Rural Development,Ernakulam,2025-11-05,,,Air pollution complaint,Arjun Kulkarni,+919902556448,arjun.kulkarni85@yahoo.in,200263441888,Open
+GRV-2023-100086,Rural Development,Dibrugarh,2023-05-27,2023-07-28,62,Road damage / pothole,Ishaan Reddy,+917746029363,ishaan.reddy12@gmail.com,276465632077,Escalated
+GRV-2023-100087,Rural Development,Bengaluru Urban,2023-11-23,2024-02-20,89,Air pollution complaint,Farhan Joshi,+917169127066,farhan.joshi56@outlook.com,689398955800,Closed
+GRV-2024-100088,Road Transport & Highways,Aurangabad,2024-03-18,2024-04-05,18,Street light outage,Priya Gupta,+917141326185,priya.gupta22@yahoo.in,256090369672,Closed
+GRV-2024-100089,Education,Ludhiana,2024-03-11,,,Hospital bed unavailability,Lakshmi Mishra,+918426221198,lakshmi.mishra95@outlook.com,232030564542,Open
+GRV-2025-100090,Urban Affairs,Guntur,2025-02-26,2025-05-06,69,Hospital bed unavailability,Rohan Sharma,+916364330400,rohan.sharma74@gmail.com,931356406445,Closed
+GRV-2025-100091,Women & Child Development,Varanasi,2025-04-23,2025-07-13,81,Sanitation / garbage,Aarav Verma,+919518000486,aarav.verma96@rediffmail.com,522752617052,Closed
+GRV-2023-100092,Education,Jaipur,2023-07-25,2023-09-14,51,Hospital bed unavailability,Priya Joshi,+919249619303,priya.joshi57@rediffmail.com,394227201684,Closed
+GRV-2023-100093,Health & Family Welfare,Gwalior,2023-03-05,2023-06-03,90,Ambulance delay,Meera Banerjee,+917727758415,meera.banerjee11@gmail.com,747940311781,Closed
+GRV-2024-100094,Jal Shakti,Rajkot,2024-03-23,,,Ambulance delay,Zoya Banerjee,+916931529587,zoya.banerjee95@outlook.com,416696876432,Open
+GRV-2024-100095,Rural Development,Visakhapatnam,2024-01-27,,,Road damage / pothole,Rahul Das,+917495198810,rahul.das20@outlook.com,398386704238,Open
+GRV-2023-100096,Road Transport & Highways,Guntur,2023-12-25,2024-02-19,56,Street light outage,Kavya Kulkarni,+918699728335,kavya.kulkarni31@outlook.com,815360158805,Closed
+GRV-2024-100097,Road Transport & Highways,Gwalior,2024-10-09,2024-11-21,43,Hospital bed unavailability,Aditya Nair,+916819678141,aditya.nair19@gmail.com,426488898830,Escalated
+GRV-2023-100098,Road Transport & Highways,Aurangabad,2023-08-08,2023-10-21,74,Ambulance delay,Sunita Reddy,+919747234965,sunita.reddy57@gmail.com,532460905468,Closed
+GRV-2024-100099,Environment & Climate,Pune,2024-08-04,2024-11-07,95,Scheme payment pending,Ramesh Singh,+919799388987,ramesh.singh85@yahoo.in,549470306008,Closed
+GRV-2023-100100,Education,Guwahati,2023-07-04,2023-09-26,84,Sanitation / garbage,Aditya Chauhan,+919215188498,aditya.chauhan54@outlook.com,913673749571,Closed
+GRV-2025-100101,Education,Ernakulam,2025-02-01,,,Hospital bed unavailability,Sanya Verma,+917951754412,sanya.verma24@rediffmail.com,560886651850,Open
+GRV-2024-100102,Jal Shakti,Varanasi,2024-02-28,2024-04-16,48,Ambulance delay,Farhan Rao,+916259397659,farhan.rao67@outlook.com,579426342448,Closed
+GRV-2025-100103,Road Transport & Highways,Aurangabad,2025-03-25,2025-04-29,35,Water supply interruption,Aditya Khan,+919439366477,aditya.khan68@gmail.com,303614594981,Escalated
+GRV-2024-100104,Rural Development,Thiruvananthapuram,2024-04-26,2024-04-27,1,Street light outage,Rahul Kulkarni,+916477333078,rahul.kulkarni53@yahoo.in,603384701830,Closed
+GRV-2025-100105,Health & Family Welfare,Ernakulam,2025-06-27,2025-07-22,25,Road damage / pothole,Priya Rao,+918843692759,priya.rao26@outlook.com,319178168201,Closed
+GRV-2024-100106,Environment & Climate,Kanpur Nagar,2024-07-07,2024-08-12,36,Road damage / pothole,Kavya Mahato,+917328822109,kavya.mahato18@outlook.com,936440662110,Closed
+GRV-2024-100107,Women & Child Development,Tiruchirappalli,2024-04-26,,,Street light outage,Neha Nair,+917850501286,neha.nair99@outlook.com,311866441148,Open
+GRV-2023-100108,Rural Development,Ganjam,2023-02-11,,,Ambulance delay,Aditya Kulkarni,+917295354261,aditya.kulkarni34@outlook.com,641665288257,Open
+GRV-2023-100109,Environment & Climate,Patna,2023-07-09,2023-09-26,79,Street light outage,Sanya Reddy,+916300391751,sanya.reddy32@rediffmail.com,724876291400,Closed
+GRV-2025-100110,Urban Affairs,Amritsar,2025-10-11,2025-10-25,14,Hospital bed unavailability,Aarav Mishra,+916950434893,aarav.mishra88@gmail.com,515122176875,Closed
+GRV-2023-100111,Environment & Climate,Nagpur,2023-11-19,,,Road damage / pothole,Aarav Nair,+919292523313,aarav.nair85@outlook.com,713816666719,Open
+GRV-2023-100112,Urban Affairs,Nagpur,2023-07-16,2023-10-05,81,Road damage / pothole,Sunita Nair,+917172567644,sunita.nair14@gmail.com,868019347230,Closed
+GRV-2023-100113,Rural Development,Dibrugarh,2023-09-23,2023-10-09,16,Air pollution complaint,Neha Khan,+919400408350,neha.khan56@yahoo.in,677792672146,Closed
+GRV-2025-100114,Women & Child Development,Muzaffarpur,2025-11-25,2025-12-29,34,Scheme payment pending,Neha Verma,+918486166509,neha.verma50@outlook.com,371765934224,Closed
+GRV-2023-100115,Education,Tiruchirappalli,2023-02-15,2023-02-19,4,Road damage / pothole,Kavya Chauhan,+918957079450,kavya.chauhan19@rediffmail.com,509039488808,Escalated
+GRV-2023-100116,Health & Family Welfare,Belagavi,2023-01-13,2023-01-22,9,Ambulance delay,Neha Patel,+916799913068,neha.patel36@yahoo.in,779715594388,Closed
+GRV-2025-100117,Education,Lucknow,2025-10-02,2025-11-25,54,Sanitation / garbage,Neha Mahato,+918107752079,neha.mahato79@yahoo.in,394998685488,Closed
+GRV-2025-100118,Urban Affairs,Bengaluru Urban,2025-04-24,2025-06-28,65,Water supply interruption,Diya Joshi,+916810663642,diya.joshi36@yahoo.in,448820998845,Closed
+GRV-2023-100119,Education,Surat,2023-09-16,2023-11-08,53,Ambulance delay,Rohan Joshi,+919902654045,rohan.joshi92@rediffmail.com,801149871306,Escalated
+GRV-2023-100120,Health & Family Welfare,Dehradun,2023-12-18,,,Air pollution complaint,Lakshmi Banerjee,+916178366664,lakshmi.banerjee11@gmail.com,692430872686,Open
+GRV-2025-100121,Jal Shakti,Bhopal,2025-03-20,2025-06-14,86,Road damage / pothole,Ishaan Rao,+918847059511,ishaan.rao71@outlook.com,885379057655,Closed
+GRV-2025-100122,Women & Child Development,Jodhpur,2025-12-18,2026-02-28,72,Road damage / pothole,Neha Gupta,+917941230087,neha.gupta29@yahoo.in,532881968935,Closed
+GRV-2025-100123,Road Transport & Highways,Ahmedabad,2025-01-24,2025-03-15,50,Air pollution complaint,Meera Joshi,+918847327169,meera.joshi82@yahoo.in,778144912798,Closed
+GRV-2023-100124,Women & Child Development,Nagpur,2023-12-08,2024-02-13,67,Water supply interruption,Ishaan Kulkarni,+919455113626,ishaan.kulkarni40@outlook.com,539487494047,Closed
+GRV-2023-100125,Health & Family Welfare,Ernakulam,2023-10-18,2024-01-20,94,Hospital bed unavailability,Aditya Gupta,+916994355981,aditya.gupta81@outlook.com,695017144303,Closed
+GRV-2024-100126,Road Transport & Highways,Gaya,2024-01-26,,,Street light outage,Lakshmi Nair,+919473273629,lakshmi.nair38@yahoo.in,536580162877,Open
+GRV-2024-100127,Road Transport & Highways,Ahmedabad,2024-06-06,2024-07-01,25,Air pollution complaint,Zoya Yadav,+918619608862,zoya.yadav38@outlook.com,665641128869,Closed
+GRV-2023-100128,Health & Family Welfare,Patna,2023-10-05,2024-01-08,95,Street light outage,Aarav Mishra,+918950306347,aarav.mishra74@gmail.com,216261498897,Closed
+GRV-2024-100129,Women & Child Development,Nagpur,2024-09-24,2024-12-23,90,Air pollution complaint,Meera Reddy,+919631947145,meera.reddy63@gmail.com,257689171495,Closed
+GRV-2024-100130,Jal Shakti,Nashik,2024-07-19,2024-09-24,67,Scheme payment pending,Meera Sinha,+917830105833,meera.sinha66@yahoo.in,617673655489,Closed
+GRV-2025-100131,Environment & Climate,Tiruchirappalli,2025-11-05,2025-11-19,14,Water supply interruption,Ishaan Patel,+916814443840,ishaan.patel46@yahoo.in,892893346386,Closed
+GRV-2023-100132,Rural Development,Pune,2023-06-05,2023-09-06,93,Water supply interruption,Vivaan Das,+918368611877,vivaan.das37@rediffmail.com,495026804828,Closed
+GRV-2025-100133,Jal Shakti,Jodhpur,2025-04-21,2025-05-20,29,Scheme payment pending,Vivaan Rao,+919800698462,vivaan.rao96@yahoo.in,704074251487,Closed
+GRV-2024-100134,Urban Affairs,Jodhpur,2024-12-24,2025-01-04,11,Water supply interruption,Ramesh Iyer,+918526407917,ramesh.iyer89@rediffmail.com,213598799403,Closed
+GRV-2023-100135,Education,Gaya,2023-12-02,2024-02-16,76,Ambulance delay,Neha Pillai,+916717951424,neha.pillai39@rediffmail.com,573531649872,Closed
+GRV-2025-100136,Women & Child Development,Nashik,2025-02-19,2025-04-18,58,Sanitation / garbage,Sunita Kulkarni,+916733097937,sunita.kulkarni82@yahoo.in,850460084557,Closed
+GRV-2023-100137,Education,Dhanbad,2023-07-22,2023-09-08,48,Scheme payment pending,Aarav Mahato,+919296744199,aarav.mahato35@rediffmail.com,293290313431,Closed
+GRV-2023-100138,Rural Development,Udaipur,2023-02-10,,,Ambulance delay,Vivaan Sinha,+916693402781,vivaan.sinha29@rediffmail.com,485783419005,Open
+GRV-2025-100139,Urban Affairs,Guwahati,2025-06-09,,,Sanitation / garbage,Rahul Banerjee,+918793862205,rahul.banerjee15@yahoo.in,971880583238,Open
+GRV-2024-100140,Health & Family Welfare,Visakhapatnam,2024-06-18,2024-07-31,43,Road damage / pothole,Rahul Joshi,+919784406247,rahul.joshi54@rediffmail.com,577988538540,Closed
+GRV-2023-100141,Road Transport & Highways,Guwahati,2023-11-20,2024-01-27,68,Sanitation / garbage,Ananya Banerjee,+916668762371,ananya.banerjee94@rediffmail.com,337889503084,Escalated
+GRV-2023-100142,Environment & Climate,Pune,2023-10-01,2023-12-14,74,Street light outage,Ananya Singh,+919724928617,ananya.singh22@rediffmail.com,526091566265,Closed
+GRV-2025-100143,Rural Development,Dehradun,2025-11-23,2026-01-05,43,Sanitation / garbage,Zoya Chauhan,+918290256119,zoya.chauhan57@gmail.com,535518426929,Closed
+GRV-2024-100144,Urban Affairs,Amritsar,2024-09-15,2024-11-07,53,Sanitation / garbage,Lakshmi Gupta,+919577296467,lakshmi.gupta67@outlook.com,717128645916,Closed
+GRV-2023-100145,Health & Family Welfare,Ahmedabad,2023-02-06,2023-03-18,40,Air pollution complaint,Meera Khan,+919164983764,meera.khan44@yahoo.in,622576625403,Closed
+GRV-2023-100146,Rural Development,Dibrugarh,2023-02-13,2023-04-25,71,Ambulance delay,Aditya Mishra,+919655950850,aditya.mishra62@outlook.com,346559747831,Escalated
+GRV-2023-100147,Education,Patna,2023-10-28,,,Sanitation / garbage,Diya Mahato,+917839319887,diya.mahato84@yahoo.in,849058379647,Open
+GRV-2023-100148,Rural Development,Aurangabad,2023-05-01,2023-06-13,43,Scheme payment pending,Ananya Kulkarni,+918815893937,ananya.kulkarni36@yahoo.in,742919635694,Closed
+GRV-2023-100149,Rural Development,Thiruvananthapuram,2023-04-12,2023-05-04,22,Road damage / pothole,Neha Gupta,+918631255649,neha.gupta91@gmail.com,577886273347,Closed
+GRV-2024-100150,Health & Family Welfare,Ludhiana,2024-05-28,,,Scheme payment pending,Lakshmi Gupta,+919176368790,lakshmi.gupta60@outlook.com,828688916143,Open
+GRV-2023-100151,Health & Family Welfare,Ahmedabad,2023-11-11,2024-01-03,53,Hospital bed unavailability,Diya Verma,+916942618879,diya.verma55@yahoo.in,608029996039,Closed
+GRV-2023-100152,Education,Visakhapatnam,2023-06-20,2023-08-22,63,Sanitation / garbage,Aarav Pillai,+917571824992,aarav.pillai89@yahoo.in,854852259392,Escalated
+GRV-2025-100153,Environment & Climate,Gwalior,2025-09-07,2025-09-23,16,Ambulance delay,Sanya Verma,+918788112081,sanya.verma43@outlook.com,668211147797,Closed
+GRV-2024-100154,Environment & Climate,Bhopal,2024-08-04,2024-09-28,55,Sanitation / garbage,Aarav Yadav,+919258020076,aarav.yadav21@outlook.com,592368884976,Closed
+GRV-2024-100155,Urban Affairs,Aurangabad,2024-12-10,2025-02-27,79,Road damage / pothole,Arjun Yadav,+917563981397,arjun.yadav55@gmail.com,312878385351,Closed
+GRV-2024-100156,Women & Child Development,Gaya,2024-08-04,2024-10-02,59,Air pollution complaint,Lakshmi Patel,+917864694322,lakshmi.patel19@yahoo.in,794813226849,Escalated
+GRV-2025-100157,Health & Family Welfare,Guwahati,2025-11-10,2025-11-18,8,Ambulance delay,Kavya Sinha,+918143467248,kavya.sinha44@gmail.com,676662579028,Closed
+GRV-2024-100158,Urban Affairs,Gorakhpur,2024-03-17,2024-04-13,27,Water supply interruption,Rahul Pillai,+917165383601,rahul.pillai39@yahoo.in,553236895375,Closed
+GRV-2025-100159,Urban Affairs,Dibrugarh,2025-07-13,,,Scheme payment pending,Zoya Rao,+916100044313,zoya.rao49@yahoo.in,813621654510,Open
+GRV-2024-100160,Road Transport & Highways,Lucknow,2024-01-28,2024-04-02,65,Air pollution complaint,Lakshmi Das,+919523509441,lakshmi.das43@outlook.com,945411391805,Closed
+GRV-2025-100161,Health & Family Welfare,Madurai,2025-04-16,2025-07-12,87,Road damage / pothole,Aarav Pillai,+916511355410,aarav.pillai83@rediffmail.com,724295682569,Closed
+GRV-2025-100162,Jal Shakti,Thiruvananthapuram,2025-05-01,2025-06-18,48,Road damage / pothole,Rahul Yadav,+918644404592,rahul.yadav65@gmail.com,336464739268,Closed
+GRV-2024-100163,Environment & Climate,Aurangabad,2024-03-08,2024-03-11,3,Street light outage,Neha Patel,+916173288993,neha.patel87@outlook.com,933657718898,Closed
+GRV-2024-100164,Road Transport & Highways,Ranchi,2024-04-28,2024-05-01,3,Road damage / pothole,Priya Yadav,+916509201797,priya.yadav37@outlook.com,390682632406,Closed
+GRV-2024-100165,Women & Child Development,Ahmedabad,2024-01-22,2024-04-07,76,Street light outage,Priya Pillai,+918844709515,priya.pillai59@gmail.com,532047662261,Closed
+GRV-2024-100166,Women & Child Development,Dehradun,2024-04-17,2024-06-27,71,Air pollution complaint,Vivaan Pillai,+916451858789,vivaan.pillai42@outlook.com,962878988040,Closed
+GRV-2025-100167,Urban Affairs,Gorakhpur,2025-07-25,2025-10-05,72,Water supply interruption,Priya Joshi,+918358198031,priya.joshi24@gmail.com,633767301709,Closed
+GRV-2024-100168,Environment & Climate,Cuttack,2024-08-24,2024-11-26,94,Ambulance delay,Arjun Sharma,+918514320663,arjun.sharma83@rediffmail.com,836297749441,Closed
+GRV-2023-100169,Rural Development,Rajkot,2023-09-05,,,Air pollution complaint,Meera Iyer,+918699363687,meera.iyer21@gmail.com,826731588593,Open
+GRV-2024-100170,Women & Child Development,Dehradun,2024-03-08,2024-04-27,50,Sanitation / garbage,Kavya Gupta,+917147411766,kavya.gupta60@rediffmail.com,558163185359,Closed
+GRV-2024-100171,Women & Child Development,Jodhpur,2024-10-27,2025-01-04,69,Scheme payment pending,Ramesh Mahato,+918799797259,ramesh.mahato82@yahoo.in,937855299270,Closed
+GRV-2025-100172,Women & Child Development,Tiruchirappalli,2025-02-07,,,Water supply interruption,Neha Pillai,+919790029566,neha.pillai66@yahoo.in,506887726903,Open
+GRV-2024-100173,Health & Family Welfare,Kanpur Nagar,2024-07-19,2024-09-20,63,Water supply interruption,Ananya Mahato,+917343596989,ananya.mahato23@rediffmail.com,555628903891,Closed
+GRV-2023-100174,Urban Affairs,Coimbatore,2023-06-16,2023-08-04,49,Road damage / pothole,Kabir Mahato,+918303460399,kabir.mahato88@gmail.com,426861448386,Closed
+GRV-2023-100175,Road Transport & Highways,Raipur,2023-01-27,,,Hospital bed unavailability,Zoya Yadav,+917246809502,zoya.yadav52@outlook.com,324914469584,Open
+GRV-2023-100176,Rural Development,Varanasi,2023-04-03,2023-05-06,33,Street light outage,Farhan Patel,+917290737897,farhan.patel89@outlook.com,536745873511,Closed
+GRV-2024-100177,Rural Development,Surat,2024-01-22,2024-01-31,9,Ambulance delay,Rahul Joshi,+916798617845,rahul.joshi67@gmail.com,212961708422,Closed
+GRV-2023-100178,Urban Affairs,Dibrugarh,2023-06-27,2023-09-30,95,Street light outage,Ishaan Pillai,+917180303286,ishaan.pillai88@yahoo.in,628576919592,Closed
+GRV-2023-100179,Road Transport & Highways,Dhanbad,2023-09-24,,,Hospital bed unavailability,Aarav Mishra,+917257134492,aarav.mishra63@yahoo.in,649878092025,Open
+GRV-2023-100180,Environment & Climate,Mysuru,2023-01-23,2023-01-29,6,Hospital bed unavailability,Lakshmi Pillai,+916795245093,lakshmi.pillai48@rediffmail.com,733529045618,Closed
+GRV-2024-100181,Jal Shakti,Pune,2024-10-16,2024-12-15,60,Street light outage,Ramesh Kulkarni,+916415706933,ramesh.kulkarni99@gmail.com,963832817466,Escalated
+GRV-2023-100182,Health & Family Welfare,Pune,2023-10-11,2023-12-12,62,Hospital bed unavailability,Meera Kulkarni,+916292460070,meera.kulkarni46@yahoo.in,915675489823,Closed
+GRV-2024-100183,Women & Child Development,Jodhpur,2024-09-02,2024-10-23,51,Hospital bed unavailability,Aditya Pillai,+916777736203,aditya.pillai58@gmail.com,569265929749,Closed
+GRV-2023-100184,Women & Child Development,Nashik,2023-11-12,2023-12-02,20,Hospital bed unavailability,Neha Das,+916168576379,neha.das60@gmail.com,534199333662,Closed
+GRV-2023-100185,Health & Family Welfare,Rajkot,2023-06-09,2023-08-18,70,Sanitation / garbage,Arjun Iyer,+918269563032,arjun.iyer23@gmail.com,308174775622,Closed
+GRV-2023-100186,Women & Child Development,Surat,2023-09-27,2023-12-17,81,Scheme payment pending,Aarav Das,+917599431800,aarav.das78@gmail.com,597655019870,Closed
+GRV-2023-100187,Health & Family Welfare,Surat,2023-05-07,2023-07-05,59,Air pollution complaint,Vivaan Joshi,+916655631680,vivaan.joshi39@yahoo.in,984419883683,Closed
+GRV-2023-100188,Urban Affairs,Bhopal,2023-03-14,2023-04-24,41,Scheme payment pending,Neha Sinha,+919871580755,neha.sinha97@yahoo.in,906079974456,Closed
+GRV-2023-100189,Women & Child Development,Ludhiana,2023-03-02,,,Hospital bed unavailability,Diya Sinha,+919765030347,diya.sinha81@rediffmail.com,580325288257,Open
+GRV-2023-100190,Jal Shakti,Aurangabad,2023-03-08,2023-05-08,61,Sanitation / garbage,Ishaan Singh,+919417795415,ishaan.singh35@gmail.com,988751684184,Closed
+GRV-2024-100191,Environment & Climate,Raipur,2024-03-08,,,Air pollution complaint,Rohan Chauhan,+918938432723,rohan.chauhan29@outlook.com,845028416811,Open
+GRV-2025-100192,Jal Shakti,Lucknow,2025-10-07,2025-11-25,49,Sanitation / garbage,Aarav Mishra,+917775956564,aarav.mishra60@gmail.com,623050763349,Closed
+GRV-2025-100193,Health & Family Welfare,Bengaluru Urban,2025-02-27,2025-03-27,28,Air pollution complaint,Meera Pillai,+918247796993,meera.pillai98@outlook.com,349373896121,Closed
+GRV-2024-100194,Education,Varanasi,2024-01-15,2024-03-30,75,Water supply interruption,Zoya Sinha,+916714433969,zoya.sinha23@gmail.com,688123983338,Closed
+GRV-2024-100195,Urban Affairs,Dibrugarh,2024-04-17,2024-06-01,45,Road damage / pothole,Arjun Singh,+917272346641,arjun.singh46@yahoo.in,949224566140,Escalated
+GRV-2025-100196,Environment & Climate,Amritsar,2025-04-26,2025-05-31,35,Sanitation / garbage,Meera Joshi,+918424439605,meera.joshi55@gmail.com,725752393696,Closed
+GRV-2025-100197,Road Transport & Highways,Pune,2025-02-24,2025-04-27,62,Scheme payment pending,Zoya Khan,+916814358760,zoya.khan59@yahoo.in,565684217911,Closed
+GRV-2024-100198,Road Transport & Highways,Ahmedabad,2024-09-11,2024-10-25,44,Road damage / pothole,Ishaan Gupta,+919519720874,ishaan.gupta84@rediffmail.com,596341076054,Closed
+GRV-2025-100199,Women & Child Development,Dibrugarh,2025-09-09,2025-10-31,52,Air pollution complaint,Aarav Gupta,+918729262243,aarav.gupta94@rediffmail.com,209897308962,Closed
+GRV-2025-100200,Education,Belagavi,2025-04-09,2025-06-13,65,Ambulance delay,Rahul Nair,+918498693962,rahul.nair81@yahoo.in,600846094145,Closed
+GRV-2025-100201,Rural Development,Kanpur Nagar,2025-01-28,,,Hospital bed unavailability,Lakshmi Sharma,+917514945092,lakshmi.sharma59@rediffmail.com,704829764477,Open
+GRV-2023-100202,Education,Mysuru,2023-07-03,2023-07-29,26,Scheme payment pending,Lakshmi Patel,+917463570911,lakshmi.patel26@rediffmail.com,365784408982,Closed
+GRV-2024-100203,Urban Affairs,Kanpur Nagar,2024-04-05,2024-05-31,56,Hospital bed unavailability,Priya Sharma,+916174724637,priya.sharma92@gmail.com,727558943554,Closed
+GRV-2023-100204,Road Transport & Highways,Ganjam,2023-07-23,2023-08-12,20,Road damage / pothole,Aarav Gupta,+919635293590,aarav.gupta69@yahoo.in,892291842782,Escalated
+GRV-2023-100205,Women & Child Development,Visakhapatnam,2023-11-18,2023-12-15,27,Road damage / pothole,Lakshmi Iyer,+916955799965,lakshmi.iyer75@gmail.com,544135233535,Closed
+GRV-2024-100206,Women & Child Development,Pune,2024-06-03,2024-08-17,75,Hospital bed unavailability,Rohan Pillai,+917634746006,rohan.pillai23@rediffmail.com,613729643132,Closed
+GRV-2024-100207,Education,Muzaffarpur,2024-10-09,2025-01-09,92,Air pollution complaint,Kabir Sinha,+918735295014,kabir.sinha24@rediffmail.com,949462259077,Closed
+GRV-2024-100208,Health & Family Welfare,Dhanbad,2024-04-23,2024-06-21,59,Air pollution complaint,Farhan Verma,+917959707904,farhan.verma86@outlook.com,245275662439,Closed
+GRV-2024-100209,Urban Affairs,Gorakhpur,2024-02-22,2024-05-14,82,Road damage / pothole,Sunita Kulkarni,+919813727734,sunita.kulkarni34@gmail.com,890618731208,Closed
+GRV-2024-100210,Rural Development,Guntur,2024-03-28,2024-07-02,96,Ambulance delay,Priya Chauhan,+918127182543,priya.chauhan11@rediffmail.com,600524843387,Closed
+GRV-2025-100211,Rural Development,Ahmedabad,2025-08-10,2025-11-03,85,Air pollution complaint,Ramesh Mishra,+916646495191,ramesh.mishra19@outlook.com,258541228793,Closed
+GRV-2025-100212,Urban Affairs,Amritsar,2025-06-21,,,Ambulance delay,Neha Verma,+916255646273,neha.verma34@yahoo.in,404672078151,Open
+GRV-2024-100213,Women & Child Development,Aurangabad,2024-11-06,,,Ambulance delay,Neha Sharma,+916400632854,neha.sharma54@gmail.com,792112478243,Open
+GRV-2025-100214,Urban Affairs,Dehradun,2025-08-04,2025-09-06,33,Ambulance delay,Aditya Iyer,+916897723436,aditya.iyer23@yahoo.in,510674397805,Escalated
+GRV-2023-100215,Urban Affairs,Dhanbad,2023-08-18,2023-08-21,3,Sanitation / garbage,Kabir Pillai,+917463722612,kabir.pillai88@gmail.com,577593765920,Closed
+GRV-2024-100216,Women & Child Development,Bengaluru Urban,2024-10-22,2024-10-27,5,Road damage / pothole,Kabir Gupta,+917127151084,kabir.gupta78@yahoo.in,681568355392,Closed
+GRV-2025-100217,Education,Raipur,2025-07-26,,,Water supply interruption,Aditya Chauhan,+916197110244,aditya.chauhan71@yahoo.in,886853643970,Open
+GRV-2023-100218,Road Transport & Highways,Nashik,2023-08-14,2023-08-29,15,Ambulance delay,Aditya Sinha,+917331757088,aditya.sinha73@yahoo.in,838946247757,Closed
+GRV-2023-100219,Urban Affairs,Indore,2023-06-02,2023-07-29,57,Water supply interruption,Farhan Joshi,+918755782504,farhan.joshi74@yahoo.in,591414084548,Escalated
+GRV-2023-100220,Jal Shakti,Amritsar,2023-08-07,2023-11-03,88,Street light outage,Vivaan Yadav,+916798583888,vivaan.yadav66@outlook.com,792351777935,Closed
+GRV-2025-100221,Urban Affairs,Visakhapatnam,2025-10-03,2025-11-12,40,Hospital bed unavailability,Ishaan Banerjee,+916884141030,ishaan.banerjee41@outlook.com,627265623466,Escalated
+GRV-2025-100222,Rural Development,Amritsar,2025-06-06,2025-07-20,44,Sanitation / garbage,Neha Kulkarni,+918200603302,neha.kulkarni26@yahoo.in,567493063934,Closed
+GRV-2025-100223,Health & Family Welfare,Jodhpur,2025-05-08,2025-07-29,82,Hospital bed unavailability,Neha Pillai,+919601863395,neha.pillai28@gmail.com,422395173240,Escalated
+GRV-2025-100224,Women & Child Development,Ludhiana,2025-09-12,2025-11-01,50,Scheme payment pending,Ramesh Yadav,+916324055682,ramesh.yadav84@rediffmail.com,578023211764,Closed
+GRV-2025-100225,Environment & Climate,Mysuru,2025-09-16,2025-09-23,7,Road damage / pothole,Kabir Mishra,+916390400357,kabir.mishra85@rediffmail.com,466260631472,Closed
+GRV-2023-100226,Jal Shakti,Indore,2023-06-05,2023-06-16,11,Sanitation / garbage,Ishaan Mishra,+916775864558,ishaan.mishra39@outlook.com,735673901742,Closed
+GRV-2025-100227,Rural Development,Nagpur,2025-05-09,2025-06-27,49,Road damage / pothole,Ananya Sinha,+919117503547,ananya.sinha52@outlook.com,648187953104,Closed
+GRV-2024-100228,Urban Affairs,Nashik,2024-06-22,,,Air pollution complaint,Aarav Rao,+919556790231,aarav.rao47@rediffmail.com,773035211435,Open
+GRV-2024-100229,Rural Development,Rajkot,2024-07-21,2024-09-27,68,Air pollution complaint,Aditya Sinha,+918135000869,aditya.sinha51@outlook.com,572063556225,Closed
+GRV-2025-100230,Urban Affairs,Nagpur,2025-01-21,2025-04-02,71,Road damage / pothole,Sanya Gupta,+918574845549,sanya.gupta48@outlook.com,791834298875,Closed
+GRV-2025-100231,Road Transport & Highways,Ranchi,2025-12-02,2025-12-18,16,Sanitation / garbage,Aditya Khan,+917132931962,aditya.khan32@gmail.com,773695858557,Closed
+GRV-2023-100232,Women & Child Development,Dehradun,2023-11-22,2024-02-19,89,Ambulance delay,Zoya Patel,+918398829659,zoya.patel29@yahoo.in,660977919638,Closed
+GRV-2025-100233,Rural Development,Amritsar,2025-06-24,2025-08-14,51,Road damage / pothole,Zoya Patel,+916144771416,zoya.patel37@outlook.com,379333152738,Closed
+GRV-2025-100234,Urban Affairs,Gwalior,2025-10-05,2025-12-24,80,Scheme payment pending,Meera Joshi,+916866718524,meera.joshi46@outlook.com,428492999899,Closed
+GRV-2024-100235,Women & Child Development,Udaipur,2024-11-19,2024-12-26,37,Road damage / pothole,Diya Chauhan,+918123903115,diya.chauhan61@rediffmail.com,389010557823,Closed
+GRV-2024-100236,Health & Family Welfare,Madurai,2024-05-26,2024-05-30,4,Street light outage,Ishaan Joshi,+919246355036,ishaan.joshi35@gmail.com,896356467922,Closed
+GRV-2024-100237,Road Transport & Highways,Dehradun,2024-09-12,2024-12-02,81,Road damage / pothole,Kavya Patel,+919252417764,kavya.patel56@outlook.com,370440799722,Closed
+GRV-2025-100238,Road Transport & Highways,Bengaluru Urban,2025-06-12,2025-08-10,59,Road damage / pothole,Ananya Sharma,+917845758437,ananya.sharma55@rediffmail.com,665461004178,Escalated
+GRV-2024-100239,Urban Affairs,Varanasi,2024-07-01,2024-10-03,94,Air pollution complaint,Kavya Sharma,+916614761491,kavya.sharma35@yahoo.in,906666818688,Escalated
+GRV-2024-100240,Environment & Climate,Ahmedabad,2024-07-18,2024-10-17,91,Water supply interruption,Priya Rao,+918146985172,priya.rao61@outlook.com,935842292100,Escalated
+GRV-2023-100241,Jal Shakti,Aurangabad,2023-02-12,2023-03-28,44,Hospital bed unavailability,Kavya Reddy,+917405110446,kavya.reddy56@yahoo.in,819574453719,Closed
+GRV-2024-100242,Education,Jaipur,2024-07-23,,,Road damage / pothole,Lakshmi Sinha,+918884816743,lakshmi.sinha89@gmail.com,795680355421,Open
+GRV-2023-100243,Rural Development,Ranchi,2023-04-17,2023-06-30,74,Scheme payment pending,Rohan Yadav,+916929392678,rohan.yadav14@rediffmail.com,693158731848,Closed
+GRV-2023-100244,Women & Child Development,Patna,2023-08-17,2023-08-23,6,Sanitation / garbage,Kavya Yadav,+918416178578,kavya.yadav38@gmail.com,553293571356,Closed
+GRV-2025-100245,Health & Family Welfare,Muzaffarpur,2025-09-22,,,Water supply interruption,Ishaan Kulkarni,+918659646469,ishaan.kulkarni78@yahoo.in,903930879131,Open
+GRV-2023-100246,Jal Shakti,Visakhapatnam,2023-09-22,2023-12-18,87,Ambulance delay,Aditya Yadav,+918333335682,aditya.yadav90@yahoo.in,642051433115,Escalated
+GRV-2023-100247,Education,Jodhpur,2023-03-15,2023-05-26,72,Street light outage,Ananya Rao,+918551032797,ananya.rao60@yahoo.in,561324798458,Closed
+GRV-2023-100248,Women & Child Development,Patna,2023-07-24,2023-10-26,94,Road damage / pothole,Priya Chauhan,+916151566988,priya.chauhan32@gmail.com,496870313384,Closed
+GRV-2025-100249,Environment & Climate,Dhanbad,2025-07-18,,,Sanitation / garbage,Sanya Gupta,+916176067512,sanya.gupta52@outlook.com,374321347733,Open
+GRV-2023-100250,Health & Family Welfare,Nagpur,2023-04-05,2023-04-21,16,Street light outage,Meera Mahato,+919870828445,meera.mahato95@rediffmail.com,953263068552,Closed
+GRV-2023-100251,Health & Family Welfare,Coimbatore,2023-08-28,2023-09-27,30,Sanitation / garbage,Kavya Mishra,+916103813482,kavya.mishra38@outlook.com,887279243331,Closed
+GRV-2023-100252,Environment & Climate,Ahmedabad,2023-03-07,,,Hospital bed unavailability,Neha Mahato,+919690996726,neha.mahato80@rediffmail.com,429378852892,Open
+GRV-2024-100253,Rural Development,Nagpur,2024-05-19,,,Ambulance delay,Ishaan Iyer,+916991797552,ishaan.iyer77@yahoo.in,641083144353,Open
+GRV-2024-100254,Road Transport & Highways,Gwalior,2024-08-07,2024-10-22,76,Ambulance delay,Rahul Chauhan,+917892471829,rahul.chauhan42@yahoo.in,940675102559,Closed
+GRV-2023-100255,Road Transport & Highways,Udaipur,2023-02-19,2023-03-06,15,Scheme payment pending,Sanya Rao,+918460694838,sanya.rao56@yahoo.in,992268321392,Closed
+GRV-2025-100256,Rural Development,Nagpur,2025-12-17,2026-02-16,61,Scheme payment pending,Sanya Pillai,+918404375660,sanya.pillai62@gmail.com,761293395828,Closed
+GRV-2025-100257,Health & Family Welfare,Guwahati,2025-06-27,2025-06-29,2,Water supply interruption,Rohan Reddy,+916461568558,rohan.reddy33@yahoo.in,995842505438,Closed
+GRV-2025-100258,Environment & Climate,Amritsar,2025-06-24,2025-07-15,21,Water supply interruption,Sunita Gupta,+918949560943,sunita.gupta92@rediffmail.com,625710272481,Closed
+GRV-2025-100259,Environment & Climate,Udaipur,2025-07-14,2025-09-23,71,Water supply interruption,Arjun Mishra,+917398304392,arjun.mishra96@outlook.com,317074841568,Closed
+GRV-2023-100260,Urban Affairs,Ganjam,2023-07-17,2023-07-18,1,Road damage / pothole,Priya Verma,+919803306045,priya.verma63@yahoo.in,952363764630,Escalated
+GRV-2025-100261,Environment & Climate,Madurai,2025-07-27,2025-10-31,96,Hospital bed unavailability,Sunita Kulkarni,+916282587321,sunita.kulkarni39@outlook.com,477637092879,Escalated
+GRV-2024-100262,Education,Mysuru,2024-03-16,2024-03-22,6,Street light outage,Kabir Gupta,+919478459813,kabir.gupta11@rediffmail.com,924394203445,Closed
+GRV-2024-100263,Road Transport & Highways,Lucknow,2024-06-05,2024-08-21,77,Hospital bed unavailability,Farhan Verma,+918689420699,farhan.verma93@yahoo.in,827168881286,Closed
+GRV-2023-100264,Jal Shakti,Tiruchirappalli,2023-04-27,2023-05-16,19,Water supply interruption,Aditya Reddy,+916320467318,aditya.reddy19@outlook.com,280777601911,Closed
+GRV-2025-100265,Environment & Climate,Amritsar,2025-01-22,2025-03-01,38,Water supply interruption,Lakshmi Singh,+918826669044,lakshmi.singh36@outlook.com,977489638755,Closed
+GRV-2024-100266,Road Transport & Highways,Nashik,2024-09-09,2024-09-30,21,Hospital bed unavailability,Priya Pillai,+916898094957,priya.pillai91@outlook.com,321959185402,Closed
+GRV-2024-100267,Rural Development,Tiruchirappalli,2024-02-22,2024-03-02,9,Sanitation / garbage,Ramesh Chauhan,+919515765768,ramesh.chauhan22@yahoo.in,643872012960,Closed
+GRV-2023-100268,Health & Family Welfare,Surat,2023-09-11,2023-11-06,56,Scheme payment pending,Kabir Patel,+919653670277,kabir.patel94@yahoo.in,364371551030,Closed
+GRV-2024-100269,Health & Family Welfare,Varanasi,2024-07-09,2024-10-10,93,Air pollution complaint,Kabir Sinha,+916756971168,kabir.sinha39@gmail.com,389741841489,Closed
+GRV-2023-100270,Road Transport & Highways,Raipur,2023-03-22,2023-04-23,32,Scheme payment pending,Vivaan Pillai,+917247071605,vivaan.pillai66@gmail.com,758388409847,Closed
+GRV-2024-100271,Jal Shakti,Dhanbad,2024-08-22,2024-09-15,24,Ambulance delay,Ramesh Nair,+916425785636,ramesh.nair19@outlook.com,265789972365,Closed
+GRV-2025-100272,Health & Family Welfare,Jaipur,2025-10-02,2025-11-07,36,Road damage / pothole,Diya Verma,+918757575153,diya.verma72@yahoo.in,382310314756,Closed
+GRV-2024-100273,Women & Child Development,Jodhpur,2024-07-15,2024-08-26,42,Road damage / pothole,Zoya Kulkarni,+919597783176,zoya.kulkarni61@gmail.com,773748679571,Closed
+GRV-2024-100274,Women & Child Development,Thiruvananthapuram,2024-11-26,,,Road damage / pothole,Sanya Kulkarni,+918311330250,sanya.kulkarni70@yahoo.in,973281488006,Open
+GRV-2023-100275,Health & Family Welfare,Bengaluru Urban,2023-07-25,2023-08-30,36,Sanitation / garbage,Sunita Pillai,+919503065904,sunita.pillai26@gmail.com,999474804218,Closed
+GRV-2025-100276,Health & Family Welfare,Dehradun,2025-11-24,2025-12-07,13,Scheme payment pending,Rahul Mishra,+918838254804,rahul.mishra99@rediffmail.com,777660878294,Closed
+GRV-2023-100277,Education,Ludhiana,2023-12-22,2024-01-12,21,Sanitation / garbage,Arjun Yadav,+918271794442,arjun.yadav43@gmail.com,747744365912,Closed
+GRV-2025-100278,Education,Udaipur,2025-11-13,2026-02-13,92,Water supply interruption,Ishaan Rao,+917504569011,ishaan.rao32@rediffmail.com,735667577617,Closed
+GRV-2024-100279,Road Transport & Highways,Ernakulam,2024-03-04,2024-06-08,96,Ambulance delay,Lakshmi Nair,+918163326781,lakshmi.nair23@outlook.com,700111852334,Escalated
+GRV-2023-100280,Education,Nagpur,2023-09-23,2023-10-04,11,Scheme payment pending,Arjun Kulkarni,+919212073920,arjun.kulkarni18@yahoo.in,388893393559,Closed
+GRV-2025-100281,Education,Jodhpur,2025-06-13,2025-08-26,74,Street light outage,Rohan Sharma,+917785382094,rohan.sharma15@yahoo.in,960073933221,Closed
+GRV-2023-100282,Education,Ahmedabad,2023-07-11,2023-08-06,26,Scheme payment pending,Rohan Kulkarni,+916159961036,rohan.kulkarni49@gmail.com,880632788093,Closed
+GRV-2025-100283,Rural Development,Dhanbad,2025-12-26,2026-01-25,30,Ambulance delay,Neha Iyer,+916287643577,neha.iyer65@gmail.com,421492417180,Escalated
+GRV-2025-100284,Rural Development,Tiruchirappalli,2025-04-22,2025-06-25,64,Street light outage,Aarav Pillai,+918120432778,aarav.pillai47@yahoo.in,690642107565,Escalated
+GRV-2023-100285,Women & Child Development,Lucknow,2023-08-21,2023-09-25,35,Scheme payment pending,Arjun Khan,+919933626998,arjun.khan53@gmail.com,250047623970,Closed
+GRV-2025-100286,Education,Ernakulam,2025-06-02,2025-07-28,56,Ambulance delay,Ishaan Joshi,+919727922172,ishaan.joshi46@gmail.com,436698244766,Escalated
+GRV-2023-100287,Jal Shakti,Rajkot,2023-03-25,2023-05-04,40,Street light outage,Zoya Gupta,+919623194156,zoya.gupta65@rediffmail.com,310646382691,Escalated
+GRV-2023-100288,Education,Coimbatore,2023-04-27,,,Street light outage,Aarav Mishra,+918961586399,aarav.mishra51@gmail.com,636926432474,Open
+GRV-2023-100289,Women & Child Development,Visakhapatnam,2023-08-26,2023-10-29,64,Hospital bed unavailability,Arjun Mishra,+916584913346,arjun.mishra45@gmail.com,986348398755,Closed
+GRV-2024-100290,Rural Development,Nagpur,2024-09-20,2024-10-11,21,Hospital bed unavailability,Meera Gupta,+916627305699,meera.gupta29@rediffmail.com,662428453582,Closed
+GRV-2023-100291,Education,Mysuru,2023-03-26,2023-05-04,39,Scheme payment pending,Neha Kulkarni,+916415597677,neha.kulkarni14@yahoo.in,514348892011,Closed
+GRV-2024-100292,Urban Affairs,Madurai,2024-04-23,2024-05-12,19,Street light outage,Sanya Pillai,+916987155203,sanya.pillai66@outlook.com,782470559638,Closed
+GRV-2025-100293,Urban Affairs,Dehradun,2025-04-14,,,Road damage / pothole,Kavya Reddy,+916326120513,kavya.reddy86@rediffmail.com,201030429098,Open
+GRV-2024-100294,Rural Development,Lucknow,2024-06-14,2024-08-14,61,Ambulance delay,Ananya Sharma,+918894541368,ananya.sharma43@yahoo.in,985537322905,Closed
+GRV-2025-100295,Women & Child Development,Aurangabad,2025-05-16,2025-07-29,74,Scheme payment pending,Farhan Patel,+918767424616,farhan.patel18@gmail.com,483667716488,Closed
+GRV-2023-100296,Urban Affairs,Guwahati,2023-03-21,2023-06-18,89,Sanitation / garbage,Rahul Sharma,+918177555274,rahul.sharma81@yahoo.in,909371208876,Closed
+GRV-2024-100297,Road Transport & Highways,Jaipur,2024-01-21,2024-02-29,39,Street light outage,Sunita Patel,+916136528325,sunita.patel95@rediffmail.com,674893019200,Closed
+GRV-2023-100298,Women & Child Development,Ernakulam,2023-12-09,,,Air pollution complaint,Ishaan Banerjee,+917887737054,ishaan.banerjee61@yahoo.in,300140685121,Open
+GRV-2024-100299,Urban Affairs,Mysuru,2024-09-20,,,Road damage / pothole,Rahul Khan,+919962832657,rahul.khan54@gmail.com,473478479628,Open
+GRV-2023-100300,Environment & Climate,Belagavi,2023-12-18,2024-01-02,15,Ambulance delay,Ananya Mahato,+916975559011,ananya.mahato99@outlook.com,335867125702,Closed
+GRV-2025-100301,Education,Muzaffarpur,2025-07-17,2025-08-09,23,Road damage / pothole,Meera Gupta,+918557601754,meera.gupta19@yahoo.in,598510992827,Closed
+GRV-2023-100302,Rural Development,Thiruvananthapuram,2023-07-19,2023-08-14,26,Hospital bed unavailability,Rohan Mahato,+916267372186,rohan.mahato58@rediffmail.com,527281786631,Closed
+GRV-2024-100303,Education,Gwalior,2024-04-16,2024-07-14,89,Scheme payment pending,Neha Sinha,+919703037915,neha.sinha71@outlook.com,485393431604,Closed
+GRV-2025-100304,Education,Patna,2025-10-24,2026-01-04,72,Road damage / pothole,Kavya Rao,+916812513284,kavya.rao29@outlook.com,630576396000,Closed
+GRV-2024-100305,Road Transport & Highways,Thiruvananthapuram,2024-08-17,,,Road damage / pothole,Neha Sharma,+916165840007,neha.sharma31@gmail.com,709241108160,Open
+GRV-2024-100306,Jal Shakti,Madurai,2024-07-27,,,Sanitation / garbage,Ananya Verma,+916526875183,ananya.verma93@yahoo.in,351677905086,Open
+GRV-2025-100307,Health & Family Welfare,Ranchi,2025-06-15,,,Ambulance delay,Aditya Kulkarni,+919268066221,aditya.kulkarni72@gmail.com,930784663063,Open
+GRV-2025-100308,Road Transport & Highways,Madurai,2025-01-18,,,Air pollution complaint,Farhan Nair,+919227732856,farhan.nair29@gmail.com,328068186275,Open
+GRV-2024-100309,Rural Development,Ernakulam,2024-03-06,2024-05-14,69,Ambulance delay,Sunita Kulkarni,+916771898954,sunita.kulkarni55@outlook.com,721572132143,Closed
+GRV-2025-100310,Rural Development,Jodhpur,2025-12-09,2025-12-11,2,Hospital bed unavailability,Kabir Banerjee,+918242627961,kabir.banerjee51@gmail.com,877672276370,Closed
+GRV-2024-100311,Urban Affairs,Muzaffarpur,2024-11-03,2025-02-05,94,Water supply interruption,Vivaan Rao,+917370368218,vivaan.rao88@gmail.com,552879209437,Closed
+GRV-2023-100312,Education,Jodhpur,2023-05-09,2023-05-27,18,Sanitation / garbage,Sunita Das,+919807982228,sunita.das44@gmail.com,863167445648,Closed
+GRV-2024-100313,Urban Affairs,Udaipur,2024-11-02,2024-11-06,4,Air pollution complaint,Farhan Sinha,+917475165692,farhan.sinha38@gmail.com,823378429473,Closed
+GRV-2024-100314,Urban Affairs,Indore,2024-12-12,,,Ambulance delay,Rohan Iyer,+918429998635,rohan.iyer39@yahoo.in,879184196523,Open
+GRV-2023-100315,Environment & Climate,Patna,2023-08-08,2023-09-16,39,Ambulance delay,Arjun Nair,+917757257079,arjun.nair70@rediffmail.com,599137043744,Closed
+GRV-2024-100316,Jal Shakti,Dhanbad,2024-12-22,2025-01-29,38,Street light outage,Meera Patel,+918849248270,meera.patel42@gmail.com,395376569606,Escalated
+GRV-2023-100317,Education,Nashik,2023-07-18,2023-08-27,40,Ambulance delay,Aarav Singh,+919773568316,aarav.singh76@rediffmail.com,720843977821,Closed
+GRV-2025-100318,Health & Family Welfare,Ernakulam,2025-11-12,2025-11-29,17,Scheme payment pending,Neha Mahato,+918858983973,neha.mahato54@yahoo.in,200944316137,Closed
+GRV-2024-100319,Women & Child Development,Ranchi,2024-08-13,,,Scheme payment pending,Aarav Reddy,+919985288448,aarav.reddy57@gmail.com,442283952367,Open
+GRV-2025-100320,Education,Indore,2025-12-11,2026-02-09,60,Ambulance delay,Aarav Yadav,+918412663437,aarav.yadav23@gmail.com,451758545167,Closed
+GRV-2025-100321,Environment & Climate,Nashik,2025-12-19,,,Scheme payment pending,Ishaan Patel,+917896435503,ishaan.patel90@rediffmail.com,453860845583,Open
+GRV-2024-100322,Health & Family Welfare,Bhopal,2024-11-15,2024-12-28,43,Hospital bed unavailability,Diya Singh,+919261788555,diya.singh17@yahoo.in,211263061818,Closed
+GRV-2024-100323,Rural Development,Rajkot,2024-12-20,2025-02-12,54,Air pollution complaint,Aarav Patel,+917744636260,aarav.patel28@gmail.com,465158899580,Closed
+GRV-2023-100324,Environment & Climate,Tiruchirappalli,2023-11-06,2023-11-17,11,Air pollution complaint,Kabir Mahato,+917613333978,kabir.mahato29@gmail.com,703459987006,Closed
+GRV-2024-100325,Education,Ernakulam,2024-08-04,2024-08-30,26,Road damage / pothole,Farhan Yadav,+916867961037,farhan.yadav27@outlook.com,559145747028,Closed
+GRV-2024-100326,Environment & Climate,Dibrugarh,2024-12-04,2025-03-03,89,Hospital bed unavailability,Kabir Kulkarni,+919870883558,kabir.kulkarni58@yahoo.in,861888628911,Closed
+GRV-2023-100327,Health & Family Welfare,Rajkot,2023-11-20,2024-02-04,76,Water supply interruption,Kavya Banerjee,+918963790755,kavya.banerjee86@yahoo.in,682320664837,Closed
+GRV-2025-100328,Road Transport & Highways,Nashik,2025-04-24,2025-06-24,61,Scheme payment pending,Ramesh Yadav,+919177777844,ramesh.yadav25@rediffmail.com,835982561400,Closed
+GRV-2024-100329,Rural Development,Nagpur,2024-03-27,2024-06-12,77,Sanitation / garbage,Rohan Chauhan,+916147787540,rohan.chauhan50@gmail.com,529041242102,Closed
+GRV-2023-100330,Urban Affairs,Patna,2023-06-18,2023-07-23,35,Sanitation / garbage,Sanya Pillai,+917130741967,sanya.pillai81@outlook.com,395728639646,Closed
+GRV-2025-100331,Urban Affairs,Nashik,2025-12-24,2026-01-23,30,Road damage / pothole,Aarav Chauhan,+919275442790,aarav.chauhan25@outlook.com,336420104211,Closed
+GRV-2025-100332,Women & Child Development,Jodhpur,2025-03-19,2025-05-27,69,Scheme payment pending,Zoya Mahato,+919267245750,zoya.mahato59@outlook.com,260663447034,Closed
+GRV-2024-100333,Road Transport & Highways,Aurangabad,2024-05-10,2024-05-11,1,Road damage / pothole,Meera Sinha,+918161014993,meera.sinha27@rediffmail.com,669564777453,Closed
+GRV-2025-100334,Health & Family Welfare,Guntur,2025-05-15,2025-05-18,3,Ambulance delay,Meera Singh,+916920004886,meera.singh54@gmail.com,576221881043,Closed
+GRV-2025-100335,Rural Development,Dibrugarh,2025-08-14,2025-11-08,86,Road damage / pothole,Priya Das,+918493625864,priya.das19@yahoo.in,595959319683,Closed
+GRV-2025-100336,Health & Family Welfare,Udaipur,2025-02-05,,,Ambulance delay,Arjun Mahato,+919988136592,arjun.mahato57@outlook.com,727987833260,Open
+GRV-2024-100337,Environment & Climate,Patna,2024-08-12,2024-09-26,45,Water supply interruption,Meera Mahato,+919632912467,meera.mahato61@yahoo.in,961792067236,Closed
+GRV-2023-100338,Women & Child Development,Nagpur,2023-07-06,2023-10-01,87,Hospital bed unavailability,Kavya Khan,+916282285570,kavya.khan73@outlook.com,683936085200,Escalated
+GRV-2025-100339,Rural Development,Gorakhpur,2025-01-19,2025-03-15,55,Road damage / pothole,Ananya Pillai,+918123205605,ananya.pillai44@gmail.com,983869349934,Closed
+GRV-2025-100340,Health & Family Welfare,Guntur,2025-03-06,2025-05-04,59,Sanitation / garbage,Zoya Rao,+916406095181,zoya.rao12@rediffmail.com,301843472554,Closed
+GRV-2024-100341,Environment & Climate,Varanasi,2024-09-18,2024-11-02,45,Hospital bed unavailability,Neha Pillai,+917577416013,neha.pillai51@gmail.com,476228916538,Closed
+GRV-2023-100342,Urban Affairs,Dehradun,2023-12-12,2024-01-04,23,Sanitation / garbage,Ananya Patel,+917966368420,ananya.patel94@yahoo.in,915238235800,Closed
+GRV-2024-100343,Health & Family Welfare,Gwalior,2024-12-09,2025-02-16,69,Street light outage,Zoya Yadav,+919510038469,zoya.yadav70@rediffmail.com,320684404402,Closed
+GRV-2025-100344,Health & Family Welfare,Varanasi,2025-04-09,2025-07-04,86,Sanitation / garbage,Kavya Joshi,+918889039556,kavya.joshi41@rediffmail.com,356572638988,Closed
+GRV-2024-100345,Road Transport & Highways,Amritsar,2024-10-20,2024-11-26,37,Sanitation / garbage,Meera Das,+916237497331,meera.das29@rediffmail.com,220112095337,Closed
+GRV-2024-100346,Women & Child Development,Jaipur,2024-03-19,2024-04-15,27,Ambulance delay,Sunita Mishra,+917630292853,sunita.mishra41@gmail.com,509462601407,Escalated
+GRV-2023-100347,Environment & Climate,Jodhpur,2023-10-07,2023-10-16,9,Air pollution complaint,Sanya Das,+917129377360,sanya.das92@yahoo.in,418737895047,Closed
+GRV-2025-100348,Education,Gorakhpur,2025-08-13,2025-09-17,35,Water supply interruption,Kavya Verma,+916874300883,kavya.verma23@outlook.com,734364118795,Closed
+GRV-2023-100349,Road Transport & Highways,Ranchi,2023-10-17,2023-11-26,40,Scheme payment pending,Neha Sharma,+918623482975,neha.sharma55@rediffmail.com,288313411465,Closed
+GRV-2025-100350,Environment & Climate,Muzaffarpur,2025-10-26,,,Ambulance delay,Kavya Joshi,+919438079274,kavya.joshi84@gmail.com,926748805298,Open
+GRV-2025-100351,Urban Affairs,Dibrugarh,2025-01-18,2025-04-04,76,Hospital bed unavailability,Zoya Rao,+919376486877,zoya.rao75@rediffmail.com,434914496183,Closed
+GRV-2023-100352,Urban Affairs,Muzaffarpur,2023-08-16,,,Scheme payment pending,Ramesh Yadav,+918850623451,ramesh.yadav80@yahoo.in,483182816245,Open
+GRV-2023-100353,Jal Shakti,Guwahati,2023-02-27,,,Air pollution complaint,Meera Khan,+917620378480,meera.khan36@rediffmail.com,341426084654,Open
+GRV-2025-100354,Jal Shakti,Ernakulam,2025-03-13,2025-04-26,44,Scheme payment pending,Vivaan Singh,+919928150362,vivaan.singh66@rediffmail.com,455296723135,Closed
+GRV-2023-100355,Health & Family Welfare,Gaya,2023-11-07,2024-01-17,71,Street light outage,Sunita Reddy,+919507893814,sunita.reddy66@outlook.com,914320911193,Closed
+GRV-2023-100356,Education,Rajkot,2023-02-24,2023-05-20,85,Hospital bed unavailability,Priya Gupta,+916911504107,priya.gupta36@gmail.com,935070389697,Closed
+GRV-2023-100357,Women & Child Development,Dhanbad,2023-11-05,2023-12-17,42,Scheme payment pending,Aditya Nair,+917124150550,aditya.nair27@gmail.com,933378007755,Escalated
+GRV-2024-100358,Road Transport & Highways,Jodhpur,2024-04-26,2024-05-29,33,Air pollution complaint,Aarav Pillai,+919181410831,aarav.pillai81@outlook.com,682437571607,Closed
+GRV-2024-100359,Environment & Climate,Ranchi,2024-03-23,2024-06-10,79,Street light outage,Lakshmi Singh,+916591564439,lakshmi.singh67@gmail.com,747469572105,Escalated
+GRV-2023-100360,Environment & Climate,Nashik,2023-09-22,2023-12-08,77,Air pollution complaint,Ananya Patel,+917540208093,ananya.patel66@outlook.com,588448563186,Closed
+GRV-2025-100361,Education,Amritsar,2025-09-06,2025-09-22,16,Scheme payment pending,Meera Joshi,+916816120708,meera.joshi31@yahoo.in,554682223401,Closed
+GRV-2025-100362,Education,Ernakulam,2025-08-19,2025-10-21,63,Street light outage,Aditya Mishra,+919342683703,aditya.mishra96@rediffmail.com,485114401623,Closed
+GRV-2025-100363,Environment & Climate,Bengaluru Urban,2025-03-02,2025-03-24,22,Water supply interruption,Neha Verma,+918914774649,neha.verma55@outlook.com,372141193650,Closed
+GRV-2023-100364,Road Transport & Highways,Dhanbad,2023-02-13,2023-05-18,94,Sanitation / garbage,Rahul Iyer,+919483626226,rahul.iyer63@gmail.com,360150511368,Closed
+GRV-2024-100365,Road Transport & Highways,Udaipur,2024-04-01,2024-04-21,20,Ambulance delay,Kavya Iyer,+919579996982,kavya.iyer16@outlook.com,973322581789,Closed
+GRV-2023-100366,Environment & Climate,Gorakhpur,2023-08-10,2023-09-19,40,Air pollution complaint,Sanya Khan,+918475037983,sanya.khan32@gmail.com,697650336344,Closed
+GRV-2025-100367,Women & Child Development,Ludhiana,2025-08-13,2025-10-30,78,Water supply interruption,Vivaan Gupta,+918654774355,vivaan.gupta20@rediffmail.com,682227576931,Closed
+GRV-2023-100368,Jal Shakti,Madurai,2023-01-19,2023-02-12,24,Water supply interruption,Priya Singh,+916890535495,priya.singh18@yahoo.in,549846603333,Closed
+GRV-2025-100369,Women & Child Development,Tiruchirappalli,2025-08-05,,,Sanitation / garbage,Ramesh Patel,+917977057274,ramesh.patel75@outlook.com,742398815714,Open
+GRV-2025-100370,Women & Child Development,Ranchi,2025-02-18,,,Road damage / pothole,Farhan Gupta,+917411651621,farhan.gupta19@gmail.com,355695475322,Open
+GRV-2024-100371,Road Transport & Highways,Indore,2024-01-18,2024-03-14,56,Sanitation / garbage,Vivaan Mahato,+916867009553,vivaan.mahato66@gmail.com,667516449017,Escalated
+GRV-2025-100372,Rural Development,Gorakhpur,2025-05-15,2025-08-12,89,Ambulance delay,Vivaan Sinha,+919731731208,vivaan.sinha68@yahoo.in,775527484087,Closed
+GRV-2025-100373,Education,Rajkot,2025-09-19,2025-10-21,32,Hospital bed unavailability,Rahul Singh,+917623415568,rahul.singh80@gmail.com,603889548415,Closed
+GRV-2025-100374,Education,Raipur,2025-05-09,2025-05-23,14,Street light outage,Zoya Mahato,+916535214585,zoya.mahato27@gmail.com,676530932977,Closed
+GRV-2025-100375,Road Transport & Highways,Gwalior,2025-02-19,2025-02-22,3,Ambulance delay,Sanya Banerjee,+917998171543,sanya.banerjee97@outlook.com,263911491853,Closed
+GRV-2025-100376,Environment & Climate,Cuttack,2025-05-20,2025-06-16,27,Street light outage,Neha Yadav,+916734089285,neha.yadav67@yahoo.in,420048967982,Closed
+GRV-2024-100377,Women & Child Development,Surat,2024-05-26,2024-06-26,31,Sanitation / garbage,Sanya Joshi,+916910690654,sanya.joshi29@outlook.com,326187731309,Closed
+GRV-2023-100378,Jal Shakti,Guntur,2023-01-21,2023-04-08,77,Scheme payment pending,Sunita Rao,+917506157481,sunita.rao16@outlook.com,472275271364,Closed
+GRV-2023-100379,Education,Guntur,2023-10-28,2023-11-13,16,Air pollution complaint,Neha Patel,+918629950445,neha.patel26@gmail.com,912430369656,Closed
+GRV-2025-100380,Rural Development,Tiruchirappalli,2025-10-07,2025-11-18,42,Road damage / pothole,Vivaan Khan,+916339549302,vivaan.khan87@rediffmail.com,735542235943,Closed
+GRV-2025-100381,Education,Surat,2025-06-01,2025-08-20,80,Street light outage,Meera Mahato,+919340996897,meera.mahato24@rediffmail.com,512831939681,Closed
+GRV-2023-100382,Rural Development,Kanpur Nagar,2023-07-20,2023-09-16,58,Air pollution complaint,Ananya Reddy,+918213221512,ananya.reddy91@yahoo.in,654762565390,Closed
+GRV-2025-100383,Health & Family Welfare,Guwahati,2025-03-22,,,Scheme payment pending,Priya Singh,+918344110525,priya.singh77@gmail.com,329019783359,Open
+GRV-2023-100384,Environment & Climate,Visakhapatnam,2023-07-28,,,Air pollution complaint,Ananya Mishra,+916548924715,ananya.mishra75@outlook.com,460852782262,Open
+GRV-2025-100385,Rural Development,Amritsar,2025-02-08,,,Street light outage,Rohan Das,+918949439878,rohan.das26@outlook.com,898023919875,Open
+GRV-2025-100386,Health & Family Welfare,Lucknow,2025-07-26,2025-08-19,24,Sanitation / garbage,Meera Reddy,+916818062709,meera.reddy71@gmail.com,929597909794,Closed
+GRV-2025-100387,Road Transport & Highways,Dehradun,2025-06-03,2025-08-18,76,Air pollution complaint,Rahul Das,+916685401156,rahul.das32@yahoo.in,566319003402,Closed
+GRV-2025-100388,Rural Development,Dibrugarh,2025-03-11,2025-03-21,10,Road damage / pothole,Diya Singh,+918267109870,diya.singh48@gmail.com,978343791593,Closed
+GRV-2023-100389,Rural Development,Kanpur Nagar,2023-12-02,2024-01-08,37,Hospital bed unavailability,Ishaan Iyer,+917703944114,ishaan.iyer36@rediffmail.com,610698693944,Escalated
+GRV-2023-100390,Education,Rajkot,2023-10-05,2023-12-20,76,Air pollution complaint,Sunita Joshi,+916219915538,sunita.joshi87@outlook.com,213266887107,Closed
+GRV-2024-100391,Education,Ludhiana,2024-01-09,,,Scheme payment pending,Sanya Banerjee,+918332957051,sanya.banerjee86@gmail.com,652311421889,Open
+GRV-2025-100392,Health & Family Welfare,Coimbatore,2025-03-04,2025-05-23,80,Street light outage,Aarav Singh,+919640045326,aarav.singh62@rediffmail.com,482368531794,Closed
+GRV-2025-100393,Rural Development,Dibrugarh,2025-07-06,2025-09-26,82,Ambulance delay,Neha Khan,+917168059862,neha.khan34@outlook.com,826111279969,Closed
+GRV-2024-100394,Women & Child Development,Guwahati,2024-09-10,2024-12-08,89,Scheme payment pending,Sunita Reddy,+916466470111,sunita.reddy53@rediffmail.com,275668284150,Closed
+GRV-2023-100395,Women & Child Development,Ganjam,2023-07-11,,,Hospital bed unavailability,Ramesh Sharma,+919345656246,ramesh.sharma52@rediffmail.com,982368986765,Open
+GRV-2024-100396,Urban Affairs,Coimbatore,2024-07-09,2024-09-03,56,Water supply interruption,Vivaan Sharma,+917657492980,vivaan.sharma40@yahoo.in,481751618669,Closed
+GRV-2023-100397,Urban Affairs,Patna,2023-03-27,2023-06-01,66,Sanitation / garbage,Lakshmi Iyer,+917535696987,lakshmi.iyer21@yahoo.in,896094863182,Closed
+GRV-2023-100398,Rural Development,Varanasi,2023-04-17,2023-07-16,90,Scheme payment pending,Kavya Iyer,+918814590431,kavya.iyer56@yahoo.in,329468157558,Closed
+GRV-2024-100399,Environment & Climate,Jodhpur,2024-05-24,2024-07-26,63,Road damage / pothole,Diya Khan,+918410789383,diya.khan64@gmail.com,249038966479,Closed
+GRV-2025-100400,Women & Child Development,Belagavi,2025-11-25,,,Sanitation / garbage,Ramesh Verma,+919595789896,ramesh.verma19@outlook.com,263451214844,Open
+GRV-2024-100401,Jal Shakti,Muzaffarpur,2024-10-07,2024-10-19,12,Water supply interruption,Ishaan Kulkarni,+917816518861,ishaan.kulkarni34@outlook.com,593171423038,Closed
+GRV-2023-100402,Jal Shakti,Dehradun,2023-07-23,2023-08-01,9,Air pollution complaint,Kabir Mishra,+917880735349,kabir.mishra85@gmail.com,694118428240,Escalated
+GRV-2024-100403,Urban Affairs,Thiruvananthapuram,2024-01-07,2024-04-03,87,Water supply interruption,Kavya Verma,+918672307731,kavya.verma18@yahoo.in,658023023961,Closed
+GRV-2025-100404,Urban Affairs,Belagavi,2025-12-23,2026-03-03,70,Water supply interruption,Priya Gupta,+916322322900,priya.gupta87@gmail.com,996143127134,Closed
+GRV-2025-100405,Rural Development,Guwahati,2025-01-16,2025-03-22,65,Street light outage,Ananya Das,+918848589172,ananya.das15@rediffmail.com,370192369168,Closed
+GRV-2025-100406,Education,Pune,2025-09-04,2025-10-07,33,Scheme payment pending,Ishaan Sinha,+917706820279,ishaan.sinha96@gmail.com,367867141507,Closed
+GRV-2023-100407,Environment & Climate,Udaipur,2023-10-27,2023-12-21,55,Sanitation / garbage,Ananya Joshi,+919858886932,ananya.joshi16@gmail.com,763955125566,Escalated
+GRV-2025-100408,Education,Ahmedabad,2025-11-17,2025-11-28,11,Road damage / pothole,Arjun Nair,+917378776016,arjun.nair32@rediffmail.com,700462925071,Closed
+GRV-2025-100409,Education,Thiruvananthapuram,2025-09-12,2025-11-28,77,Street light outage,Neha Patel,+917566635550,neha.patel30@yahoo.in,967858173630,Escalated
+GRV-2025-100410,Road Transport & Highways,Jodhpur,2025-10-12,2025-12-08,57,Water supply interruption,Aditya Khan,+919888127730,aditya.khan78@outlook.com,815199019884,Closed
+GRV-2023-100411,Environment & Climate,Jaipur,2023-06-07,2023-07-29,52,Street light outage,Ananya Iyer,+917825172578,ananya.iyer19@rediffmail.com,885440731001,Closed
+GRV-2024-100412,Environment & Climate,Coimbatore,2024-02-09,2024-05-07,88,Ambulance delay,Lakshmi Mishra,+917435744949,lakshmi.mishra99@gmail.com,276664248590,Closed
+GRV-2023-100413,Road Transport & Highways,Nagpur,2023-06-27,2023-08-11,45,Water supply interruption,Aarav Reddy,+916377427782,aarav.reddy14@outlook.com,331566484093,Escalated
+GRV-2023-100414,Health & Family Welfare,Jodhpur,2023-05-17,2023-08-07,82,Road damage / pothole,Rahul Chauhan,+916608653697,rahul.chauhan48@outlook.com,332995391056,Closed
+GRV-2025-100415,Urban Affairs,Pune,2025-07-04,2025-09-23,81,Hospital bed unavailability,Farhan Das,+917703734821,farhan.das30@rediffmail.com,264186143890,Closed
+GRV-2025-100416,Education,Cuttack,2025-11-19,2025-12-26,37,Hospital bed unavailability,Aditya Banerjee,+917164789884,aditya.banerjee62@yahoo.in,593849281668,Closed
+GRV-2025-100417,Health & Family Welfare,Udaipur,2025-04-27,2025-06-26,60,Water supply interruption,Meera Joshi,+918862450034,meera.joshi63@yahoo.in,314662126781,Closed
+GRV-2023-100418,Women & Child Development,Bhopal,2023-07-26,2023-09-06,42,Sanitation / garbage,Meera Das,+917967593756,meera.das33@yahoo.in,796951507841,Closed
+GRV-2023-100419,Women & Child Development,Raipur,2023-11-13,,,Water supply interruption,Sunita Mishra,+919471412470,sunita.mishra30@rediffmail.com,524674806774,Open
+GRV-2024-100420,Road Transport & Highways,Varanasi,2024-08-18,2024-10-09,52,Sanitation / garbage,Arjun Kulkarni,+917557152858,arjun.kulkarni62@outlook.com,681618344390,Closed
+GRV-2024-100421,Health & Family Welfare,Surat,2024-05-11,2024-08-05,86,Air pollution complaint,Ishaan Gupta,+919965839033,ishaan.gupta19@outlook.com,591255535370,Closed
+GRV-2023-100422,Women & Child Development,Pune,2023-09-03,2023-11-30,88,Street light outage,Arjun Iyer,+916489765349,arjun.iyer23@gmail.com,735847907001,Closed
+GRV-2023-100423,Education,Gorakhpur,2023-12-21,2024-01-14,24,Road damage / pothole,Aditya Das,+916345146288,aditya.das79@rediffmail.com,309589326727,Closed
+GRV-2025-100424,Environment & Climate,Jaipur,2025-04-21,2025-07-24,94,Water supply interruption,Arjun Chauhan,+919217496272,arjun.chauhan63@yahoo.in,596495064219,Closed
+GRV-2025-100425,Women & Child Development,Coimbatore,2025-01-13,2025-02-25,43,Water supply interruption,Rohan Singh,+916416835553,rohan.singh60@yahoo.in,964769545042,Closed
+GRV-2023-100426,Jal Shakti,Muzaffarpur,2023-09-01,2023-11-30,90,Water supply interruption,Rahul Singh,+916565684697,rahul.singh76@yahoo.in,522543286351,Closed
+GRV-2024-100427,Environment & Climate,Ahmedabad,2024-10-23,2025-01-20,89,Air pollution complaint,Rohan Singh,+919235411126,rohan.singh87@rediffmail.com,557176789814,Closed
+GRV-2025-100428,Jal Shakti,Patna,2025-11-14,2025-12-19,35,Sanitation / garbage,Ananya Verma,+917731961035,ananya.verma71@outlook.com,534617624533,Closed
+GRV-2025-100429,Urban Affairs,Belagavi,2025-06-07,2025-09-07,92,Street light outage,Priya Singh,+919910440880,priya.singh70@outlook.com,728348729886,Closed
+GRV-2024-100430,Urban Affairs,Amritsar,2024-06-11,2024-08-01,51,Road damage / pothole,Diya Pillai,+916740794647,diya.pillai27@outlook.com,242814953723,Closed
+GRV-2025-100431,Rural Development,Nagpur,2025-07-19,2025-09-19,62,Road damage / pothole,Diya Sinha,+916591325049,diya.sinha57@yahoo.in,426885202187,Escalated
+GRV-2024-100432,Environment & Climate,Raipur,2024-12-25,2025-03-29,94,Road damage / pothole,Kabir Pillai,+917814484771,kabir.pillai86@gmail.com,596179816135,Closed
+GRV-2023-100433,Environment & Climate,Bengaluru Urban,2023-04-12,,,Street light outage,Priya Sinha,+919850106515,priya.sinha35@outlook.com,653512879471,Open
+GRV-2023-100434,Environment & Climate,Bhopal,2023-04-25,2023-05-05,10,Sanitation / garbage,Lakshmi Mahato,+916664340347,lakshmi.mahato39@gmail.com,333573048391,Closed
+GRV-2025-100435,Urban Affairs,Visakhapatnam,2025-06-13,,,Street light outage,Aarav Chauhan,+918747757374,aarav.chauhan59@rediffmail.com,471856631376,Open
+GRV-2023-100436,Women & Child Development,Gwalior,2023-11-18,2024-02-15,89,Hospital bed unavailability,Vivaan Das,+918691025503,vivaan.das99@rediffmail.com,690656453422,Closed
+GRV-2023-100437,Education,Madurai,2023-06-25,2023-06-29,4,Ambulance delay,Lakshmi Iyer,+916382267452,lakshmi.iyer21@yahoo.in,237147784482,Closed
+GRV-2023-100438,Women & Child Development,Rajkot,2023-10-05,,,Water supply interruption,Arjun Verma,+918350306298,arjun.verma66@rediffmail.com,356939424061,Open
+GRV-2023-100439,Road Transport & Highways,Tiruchirappalli,2023-02-17,2023-04-17,59,Hospital bed unavailability,Rahul Patel,+919529283175,rahul.patel66@rediffmail.com,704357237163,Closed
+GRV-2025-100440,Education,Guntur,2025-06-07,2025-06-22,15,Scheme payment pending,Rahul Sinha,+916261720502,rahul.sinha28@rediffmail.com,317520443149,Closed
+GRV-2023-100441,Education,Bengaluru Urban,2023-12-08,2023-12-10,2,Road damage / pothole,Arjun Sinha,+917884194412,arjun.sinha27@outlook.com,932631164914,Closed
+GRV-2023-100442,Health & Family Welfare,Lucknow,2023-03-16,2023-04-27,42,Ambulance delay,Lakshmi Mahato,+918294332000,lakshmi.mahato38@outlook.com,877934506745,Closed
+GRV-2025-100443,Health & Family Welfare,Ernakulam,2025-07-25,2025-10-14,81,Ambulance delay,Sunita Banerjee,+919357314819,sunita.banerjee84@outlook.com,524533514726,Closed
+GRV-2025-100444,Women & Child Development,Ahmedabad,2025-07-24,2025-08-05,12,Road damage / pothole,Zoya Sharma,+919956012258,zoya.sharma46@yahoo.in,234713992240,Closed
+GRV-2023-100445,Environment & Climate,Aurangabad,2023-04-11,2023-06-11,61,Ambulance delay,Kavya Patel,+918324329643,kavya.patel79@yahoo.in,592887454429,Closed
+GRV-2023-100446,Women & Child Development,Dehradun,2023-02-22,2023-04-07,44,Air pollution complaint,Vivaan Das,+918866873471,vivaan.das19@outlook.com,550572555120,Closed
+GRV-2023-100447,Road Transport & Highways,Mysuru,2023-09-26,2023-11-26,61,Water supply interruption,Kabir Das,+917371265649,kabir.das17@outlook.com,739641952293,Closed
+GRV-2024-100448,Education,Udaipur,2024-07-16,2024-10-17,93,Ambulance delay,Ramesh Das,+916978304582,ramesh.das14@outlook.com,952137339211,Escalated
+GRV-2024-100449,Rural Development,Cuttack,2024-11-13,2024-12-23,40,Scheme payment pending,Ananya Patel,+917142611703,ananya.patel36@rediffmail.com,670170257629,Closed
+GRV-2025-100450,Education,Guntur,2025-02-23,2025-03-10,15,Water supply interruption,Vivaan Verma,+918791938228,vivaan.verma45@yahoo.in,524897772330,Closed
+GRV-2025-100451,Education,Madurai,2025-06-01,2025-07-31,60,Road damage / pothole,Aditya Nair,+917292483061,aditya.nair30@outlook.com,308555095196,Closed
+GRV-2023-100452,Urban Affairs,Coimbatore,2023-12-04,2024-01-04,31,Water supply interruption,Farhan Joshi,+917880444034,farhan.joshi63@gmail.com,753798977072,Closed
+GRV-2023-100453,Women & Child Development,Madurai,2023-04-14,2023-07-03,80,Hospital bed unavailability,Aditya Sharma,+917445547937,aditya.sharma32@outlook.com,491937049085,Closed
+GRV-2023-100454,Urban Affairs,Ludhiana,2023-06-11,2023-07-20,39,Scheme payment pending,Meera Reddy,+916432172708,meera.reddy65@rediffmail.com,957994425540,Closed
+GRV-2025-100455,Education,Lucknow,2025-03-17,2025-04-03,17,Hospital bed unavailability,Kabir Gupta,+916818882503,kabir.gupta69@yahoo.in,295473332042,Closed
+GRV-2023-100456,Education,Surat,2023-04-27,2023-07-12,76,Street light outage,Lakshmi Chauhan,+918957436124,lakshmi.chauhan66@gmail.com,330535324350,Closed
+GRV-2023-100457,Road Transport & Highways,Lucknow,2023-07-13,2023-09-03,52,Hospital bed unavailability,Kabir Chauhan,+916432575790,kabir.chauhan49@gmail.com,826217042426,Closed
+GRV-2025-100458,Health & Family Welfare,Mysuru,2025-04-20,2025-07-09,80,Road damage / pothole,Zoya Iyer,+917795478698,zoya.iyer91@gmail.com,788243169510,Closed
+GRV-2023-100459,Education,Patna,2023-05-24,2023-07-07,44,Water supply interruption,Ananya Reddy,+916858262503,ananya.reddy19@rediffmail.com,307762503866,Closed
+GRV-2025-100460,Rural Development,Dhanbad,2025-05-24,2025-07-24,61,Sanitation / garbage,Zoya Khan,+917408987737,zoya.khan33@yahoo.in,970398378995,Escalated
+GRV-2023-100461,Rural Development,Ganjam,2023-08-24,2023-09-08,15,Sanitation / garbage,Priya Gupta,+916962173014,priya.gupta51@rediffmail.com,936826299084,Closed
+GRV-2023-100462,Rural Development,Jodhpur,2023-01-21,,,Hospital bed unavailability,Zoya Kulkarni,+919943578457,zoya.kulkarni97@yahoo.in,639722582700,Open
+GRV-2023-100463,Environment & Climate,Jodhpur,2023-05-01,2023-05-23,22,Water supply interruption,Diya Das,+919307437991,diya.das17@rediffmail.com,393655276807,Closed
+GRV-2023-100464,Road Transport & Highways,Gaya,2023-11-16,2023-11-27,11,Road damage / pothole,Ramesh Reddy,+917350324004,ramesh.reddy60@outlook.com,449111595228,Closed
+GRV-2023-100465,Health & Family Welfare,Coimbatore,2023-06-09,2023-06-25,16,Road damage / pothole,Diya Gupta,+916501052160,diya.gupta21@yahoo.in,661425235938,Closed
+GRV-2023-100466,Women & Child Development,Guwahati,2023-07-14,2023-10-03,81,Water supply interruption,Neha Khan,+918712963962,neha.khan42@gmail.com,899958506862,Closed
+GRV-2024-100467,Urban Affairs,Jaipur,2024-01-10,2024-01-13,3,Ambulance delay,Aarav Khan,+918689483640,aarav.khan78@outlook.com,594924781133,Closed
+GRV-2024-100468,Road Transport & Highways,Raipur,2024-01-12,2024-03-12,60,Air pollution complaint,Arjun Gupta,+916761902943,arjun.gupta73@rediffmail.com,603117534703,Closed
+GRV-2024-100469,Environment & Climate,Gorakhpur,2024-02-20,,,Road damage / pothole,Meera Sharma,+917906038936,meera.sharma66@outlook.com,464223593937,Open
+GRV-2023-100470,Environment & Climate,Patna,2023-12-25,,,Street light outage,Priya Banerjee,+917293122986,priya.banerjee66@rediffmail.com,315282052490,Open
+GRV-2025-100471,Urban Affairs,Dibrugarh,2025-09-05,,,Hospital bed unavailability,Sunita Rao,+919919177463,sunita.rao26@outlook.com,468265339147,Open
+GRV-2023-100472,Rural Development,Gaya,2023-11-02,,,Sanitation / garbage,Kabir Chauhan,+917712546274,kabir.chauhan18@gmail.com,303572647248,Open
+GRV-2024-100473,Urban Affairs,Indore,2024-09-15,2024-11-19,65,Road damage / pothole,Sunita Nair,+918928260286,sunita.nair29@gmail.com,594167344510,Closed
+GRV-2023-100474,Women & Child Development,Guntur,2023-04-24,,,Hospital bed unavailability,Lakshmi Sharma,+917959965685,lakshmi.sharma84@outlook.com,530437522169,Open
+GRV-2025-100475,Education,Lucknow,2025-02-22,2025-04-11,48,Hospital bed unavailability,Aarav Sinha,+918932477947,aarav.sinha72@yahoo.in,404663116355,Closed
+GRV-2023-100476,Education,Ludhiana,2023-09-01,2023-11-17,77,Scheme payment pending,Sanya Reddy,+919993762599,sanya.reddy28@rediffmail.com,802337064504,Closed
+GRV-2025-100477,Women & Child Development,Patna,2025-04-19,2025-07-10,82,Sanitation / garbage,Diya Iyer,+917146031910,diya.iyer30@gmail.com,260218345094,Closed
+GRV-2024-100478,Jal Shakti,Madurai,2024-02-09,,,Scheme payment pending,Ananya Nair,+916849838605,ananya.nair89@gmail.com,542031827042,Open
+GRV-2023-100479,Urban Affairs,Amritsar,2023-05-02,2023-06-28,57,Water supply interruption,Neha Mahato,+917729631074,neha.mahato45@outlook.com,580411926168,Closed
+GRV-2024-100480,Jal Shakti,Varanasi,2024-02-17,2024-05-16,89,Street light outage,Diya Patel,+917761294810,diya.patel17@outlook.com,508460602369,Closed
+GRV-2025-100481,Health & Family Welfare,Patna,2025-06-04,2025-09-04,92,Sanitation / garbage,Kabir Sharma,+918284852646,kabir.sharma41@gmail.com,252077276151,Closed
+GRV-2023-100482,Jal Shakti,Bengaluru Urban,2023-12-01,2024-01-04,34,Road damage / pothole,Sunita Joshi,+918203253640,sunita.joshi97@gmail.com,512663293567,Closed
+GRV-2023-100483,Health & Family Welfare,Ahmedabad,2023-02-08,2023-05-07,88,Water supply interruption,Sunita Iyer,+918252073687,sunita.iyer47@gmail.com,312812775846,Closed
+GRV-2025-100484,Road Transport & Highways,Madurai,2025-11-02,2025-12-04,32,Water supply interruption,Ananya Reddy,+916272542286,ananya.reddy58@rediffmail.com,933790815965,Closed
+GRV-2023-100485,Rural Development,Pune,2023-12-07,2024-02-11,66,Road damage / pothole,Aditya Mahato,+918164628925,aditya.mahato37@yahoo.in,359261165265,Closed
+GRV-2024-100486,Rural Development,Aurangabad,2024-11-09,2025-01-22,74,Hospital bed unavailability,Ishaan Singh,+916965677950,ishaan.singh65@gmail.com,254288461323,Closed
+GRV-2025-100487,Environment & Climate,Pune,2025-03-15,2025-05-09,55,Street light outage,Ramesh Yadav,+916217949931,ramesh.yadav46@gmail.com,431319232214,Closed
+GRV-2025-100488,Education,Thiruvananthapuram,2025-03-25,2025-06-24,91,Street light outage,Ramesh Das,+917704145666,ramesh.das75@yahoo.in,511427039303,Closed
+GRV-2024-100489,Environment & Climate,Amritsar,2024-05-09,2024-07-28,80,Air pollution complaint,Arjun Patel,+919432277878,arjun.patel37@gmail.com,254344359864,Closed
+GRV-2025-100490,Education,Patna,2025-10-23,,,Hospital bed unavailability,Vivaan Singh,+918154440322,vivaan.singh24@yahoo.in,583264351930,Open
+GRV-2024-100491,Jal Shakti,Udaipur,2024-06-12,2024-07-21,39,Hospital bed unavailability,Aditya Mahato,+919395774846,aditya.mahato86@gmail.com,390438416704,Escalated
+GRV-2025-100492,Urban Affairs,Thiruvananthapuram,2025-08-10,2025-09-24,45,Road damage / pothole,Aditya Sharma,+919837917509,aditya.sharma45@outlook.com,750060425779,Closed
+GRV-2023-100493,Rural Development,Gaya,2023-01-11,2023-03-20,68,Scheme payment pending,Aarav Rao,+918592645836,aarav.rao13@yahoo.in,529543388614,Closed
+GRV-2024-100494,Environment & Climate,Guwahati,2024-02-20,2024-05-06,76,Hospital bed unavailability,Ishaan Das,+917886505817,ishaan.das13@outlook.com,232361178172,Closed
+GRV-2025-100495,Urban Affairs,Amritsar,2025-02-22,2025-04-22,59,Air pollution complaint,Arjun Rao,+916688313784,arjun.rao21@yahoo.in,608960709617,Closed
+GRV-2023-100496,Women & Child Development,Coimbatore,2023-06-19,2023-08-04,46,Air pollution complaint,Rohan Sharma,+919437094944,rohan.sharma65@yahoo.in,428757991500,Closed
+GRV-2025-100497,Women & Child Development,Ludhiana,2025-09-10,2025-11-20,71,Ambulance delay,Rahul Verma,+917886318565,rahul.verma37@yahoo.in,320540849214,Closed
+GRV-2025-100498,Environment & Climate,Varanasi,2025-11-16,2026-02-03,79,Water supply interruption,Diya Mahato,+918974166000,diya.mahato54@outlook.com,653197001969,Closed
+GRV-2025-100499,Environment & Climate,Kanpur Nagar,2025-10-14,2025-12-12,59,Road damage / pothole,Ramesh Rao,+916521406396,ramesh.rao13@yahoo.in,398215895180,Closed
+GRV-2024-100500,Education,Lucknow,2024-05-01,2024-07-14,74,Ambulance delay,Zoya Khan,+919356370137,zoya.khan71@gmail.com,509139915435,Closed
+GRV-2024-100501,Road Transport & Highways,Ernakulam,2024-12-23,,,Sanitation / garbage,Neha Mahato,+916518084531,neha.mahato45@outlook.com,725284938319,Open
+GRV-2024-100502,Urban Affairs,Surat,2024-07-17,2024-09-26,71,Scheme payment pending,Sunita Banerjee,+919990579549,sunita.banerjee49@outlook.com,707223269618,Closed
+GRV-2024-100503,Environment & Climate,Jodhpur,2024-12-10,,,Road damage / pothole,Sunita Pillai,+919122118636,sunita.pillai95@rediffmail.com,973030386375,Open
+GRV-2024-100504,Women & Child Development,Nagpur,2024-11-19,2025-01-13,55,Air pollution complaint,Zoya Rao,+919696538365,zoya.rao98@gmail.com,287127675507,Closed
+GRV-2025-100505,Environment & Climate,Belagavi,2025-05-28,2025-08-27,91,Water supply interruption,Diya Banerjee,+919531182887,diya.banerjee39@yahoo.in,629477662489,Closed
+GRV-2025-100506,Environment & Climate,Rajkot,2025-11-03,,,Sanitation / garbage,Arjun Patel,+916774042017,arjun.patel36@yahoo.in,247763261742,Open
+GRV-2023-100507,Women & Child Development,Ernakulam,2023-09-03,2023-11-19,77,Hospital bed unavailability,Diya Nair,+917743378627,diya.nair47@outlook.com,507961183382,Closed
+GRV-2024-100508,Environment & Climate,Aurangabad,2024-06-11,2024-09-10,91,Scheme payment pending,Rohan Khan,+916860590173,rohan.khan43@outlook.com,760424478097,Closed
+GRV-2025-100509,Urban Affairs,Ganjam,2025-02-20,2025-04-06,45,Air pollution complaint,Sunita Yadav,+916278656173,sunita.yadav31@rediffmail.com,234195242750,Closed
+GRV-2023-100510,Jal Shakti,Ahmedabad,2023-05-23,2023-08-02,71,Ambulance delay,Ananya Singh,+916528800435,ananya.singh73@yahoo.in,592996528088,Closed
+GRV-2025-100511,Education,Nashik,2025-12-24,2025-12-26,2,Water supply interruption,Farhan Sinha,+916421824768,farhan.sinha87@outlook.com,469054513466,Closed
+GRV-2023-100512,Education,Belagavi,2023-10-23,2024-01-14,83,Ambulance delay,Vivaan Chauhan,+916236754864,vivaan.chauhan58@rediffmail.com,610472419925,Closed
+GRV-2025-100513,Health & Family Welfare,Bhopal,2025-03-02,2025-05-29,88,Street light outage,Arjun Pillai,+918220520802,arjun.pillai69@yahoo.in,303758908203,Closed
+GRV-2024-100514,Urban Affairs,Dhanbad,2024-05-18,2024-06-17,30,Hospital bed unavailability,Sanya Patel,+917373101854,sanya.patel67@rediffmail.com,290042192486,Closed
+GRV-2025-100515,Road Transport & Highways,Ahmedabad,2025-04-02,2025-05-30,58,Hospital bed unavailability,Sanya Banerjee,+918741295585,sanya.banerjee42@yahoo.in,852056966849,Closed
+GRV-2024-100516,Health & Family Welfare,Cuttack,2024-09-28,,,Scheme payment pending,Diya Singh,+918231194781,diya.singh37@yahoo.in,867629085120,Open
+GRV-2023-100517,Health & Family Welfare,Gorakhpur,2023-12-14,2024-03-15,92,Sanitation / garbage,Arjun Sinha,+916982657067,arjun.sinha98@outlook.com,439661128237,Escalated
+GRV-2024-100518,Health & Family Welfare,Dhanbad,2024-02-16,2024-04-08,52,Water supply interruption,Diya Nair,+918218807284,diya.nair36@rediffmail.com,490996349950,Closed
+GRV-2023-100519,Rural Development,Nashik,2023-04-26,2023-05-04,8,Scheme payment pending,Sunita Nair,+919280027294,sunita.nair88@rediffmail.com,902318082546,Closed
+GRV-2023-100520,Rural Development,Udaipur,2023-04-05,2023-04-22,17,Scheme payment pending,Zoya Mishra,+918923210215,zoya.mishra56@outlook.com,715754379180,Closed
+GRV-2023-100521,Women & Child Development,Kanpur Nagar,2023-12-13,2023-12-19,6,Hospital bed unavailability,Diya Reddy,+918664717904,diya.reddy13@gmail.com,637737564309,Closed
+GRV-2024-100522,Road Transport & Highways,Dhanbad,2024-09-22,2024-12-25,94,Scheme payment pending,Ishaan Singh,+918861407778,ishaan.singh43@outlook.com,871536001476,Closed
+GRV-2025-100523,Urban Affairs,Udaipur,2025-11-26,2026-01-18,53,Sanitation / garbage,Neha Kulkarni,+916185912659,neha.kulkarni66@yahoo.in,532450457584,Closed
+GRV-2024-100524,Urban Affairs,Pune,2024-09-18,2024-09-26,8,Sanitation / garbage,Kavya Chauhan,+918812289508,kavya.chauhan38@yahoo.in,686690858026,Closed
+GRV-2025-100525,Education,Dhanbad,2025-07-10,2025-07-15,5,Scheme payment pending,Meera Rao,+918988357011,meera.rao57@yahoo.in,746270156283,Closed
+GRV-2025-100526,Women & Child Development,Dehradun,2025-10-07,2025-10-20,13,Hospital bed unavailability,Meera Joshi,+919783559335,meera.joshi61@yahoo.in,773529366915,Closed
+GRV-2025-100527,Women & Child Development,Nashik,2025-03-21,2025-06-02,73,Ambulance delay,Ananya Sinha,+919935343619,ananya.sinha75@yahoo.in,967738251582,Closed
+GRV-2025-100528,Urban Affairs,Ernakulam,2025-03-19,2025-05-08,50,Air pollution complaint,Diya Das,+918308714582,diya.das77@outlook.com,560655111426,Closed
+GRV-2025-100529,Rural Development,Gorakhpur,2025-08-03,2025-10-04,62,Air pollution complaint,Vivaan Gupta,+919251141704,vivaan.gupta88@gmail.com,513245269630,Closed
+GRV-2025-100530,Urban Affairs,Aurangabad,2025-09-25,2025-12-30,96,Air pollution complaint,Aditya Kulkarni,+919802125375,aditya.kulkarni33@rediffmail.com,425942649584,Closed
+GRV-2023-100531,Road Transport & Highways,Gwalior,2023-07-12,2023-08-05,24,Hospital bed unavailability,Farhan Pillai,+918240453424,farhan.pillai12@rediffmail.com,366772611458,Closed
+GRV-2025-100532,Education,Dhanbad,2025-02-04,2025-05-08,93,Ambulance delay,Ananya Rao,+918131137047,ananya.rao79@outlook.com,396273078495,Closed
+GRV-2025-100533,Rural Development,Thiruvananthapuram,2025-07-16,2025-10-03,79,Street light outage,Diya Pillai,+917161728472,diya.pillai70@gmail.com,997225734728,Escalated
+GRV-2023-100534,Jal Shakti,Mysuru,2023-04-09,,,Sanitation / garbage,Vivaan Patel,+918482355321,vivaan.patel36@gmail.com,707560333557,Open
+GRV-2023-100535,Jal Shakti,Bengaluru Urban,2023-07-14,2023-10-06,84,Scheme payment pending,Sanya Chauhan,+917324061360,sanya.chauhan73@yahoo.in,329530556049,Closed
+GRV-2023-100536,Rural Development,Patna,2023-05-01,2023-07-04,64,Air pollution complaint,Lakshmi Yadav,+918259070482,lakshmi.yadav58@gmail.com,703919491944,Closed
+GRV-2024-100537,Road Transport & Highways,Nashik,2024-11-15,2024-12-07,22,Hospital bed unavailability,Kavya Joshi,+917541122545,kavya.joshi41@gmail.com,748664864877,Closed
+GRV-2024-100538,Rural Development,Surat,2024-05-17,2024-07-29,73,Hospital bed unavailability,Ramesh Pillai,+916885353137,ramesh.pillai60@rediffmail.com,783764179417,Closed
+GRV-2023-100539,Health & Family Welfare,Ranchi,2023-03-11,2023-05-23,73,Water supply interruption,Sunita Yadav,+916424408684,sunita.yadav33@rediffmail.com,238461797165,Closed
+GRV-2023-100540,Jal Shakti,Visakhapatnam,2023-10-11,2023-12-20,70,Ambulance delay,Aarav Mahato,+917596321110,aarav.mahato49@rediffmail.com,265222451613,Closed
+GRV-2024-100541,Women & Child Development,Tiruchirappalli,2024-06-25,2024-08-06,42,Street light outage,Arjun Iyer,+916647871229,arjun.iyer53@gmail.com,932931521695,Closed
+GRV-2025-100542,Women & Child Development,Udaipur,2025-01-19,2025-02-09,21,Scheme payment pending,Aarav Sinha,+919876149543,aarav.sinha49@rediffmail.com,229670491833,Closed
+GRV-2025-100543,Environment & Climate,Mysuru,2025-02-14,2025-04-11,56,Water supply interruption,Ananya Gupta,+918107254372,ananya.gupta24@yahoo.in,412775733191,Closed
+GRV-2024-100544,Health & Family Welfare,Guntur,2024-12-15,2024-12-23,8,Scheme payment pending,Zoya Yadav,+919168029668,zoya.yadav50@gmail.com,725394283630,Closed
+GRV-2024-100545,Education,Belagavi,2024-08-22,2024-10-15,54,Air pollution complaint,Lakshmi Khan,+917109822826,lakshmi.khan85@outlook.com,442430547722,Closed
+GRV-2024-100546,Jal Shakti,Varanasi,2024-02-13,2024-03-08,24,Ambulance delay,Aditya Singh,+918383176550,aditya.singh15@outlook.com,410627828936,Escalated
+GRV-2023-100547,Road Transport & Highways,Belagavi,2023-12-08,2024-01-04,27,Air pollution complaint,Arjun Verma,+917936896226,arjun.verma28@gmail.com,319784993261,Closed
+GRV-2023-100548,Education,Kanpur Nagar,2023-08-04,2023-08-09,5,Road damage / pothole,Rahul Mishra,+919331957398,rahul.mishra12@rediffmail.com,293373937325,Closed
+GRV-2023-100549,Health & Family Welfare,Mysuru,2023-12-08,2023-12-12,4,Ambulance delay,Priya Iyer,+917677184756,priya.iyer78@rediffmail.com,377344339161,Closed
+GRV-2024-100550,Rural Development,Mysuru,2024-07-08,2024-08-18,41,Water supply interruption,Meera Iyer,+917499332529,meera.iyer20@yahoo.in,243640855217,Closed
+GRV-2024-100551,Women & Child Development,Gorakhpur,2024-12-27,2025-03-09,72,Air pollution complaint,Kabir Sharma,+918723478059,kabir.sharma29@yahoo.in,351924939286,Closed
+GRV-2024-100552,Road Transport & Highways,Indore,2024-09-01,2024-11-07,67,Hospital bed unavailability,Rohan Das,+918589011674,rohan.das45@gmail.com,200733268841,Closed
+GRV-2024-100553,Rural Development,Dibrugarh,2024-02-15,,,Water supply interruption,Arjun Pillai,+918678806622,arjun.pillai14@yahoo.in,317972128559,Open
+GRV-2025-100554,Rural Development,Dibrugarh,2025-04-13,2025-06-28,76,Water supply interruption,Aditya Sinha,+916841890750,aditya.sinha33@outlook.com,442693232643,Closed
+GRV-2024-100555,Urban Affairs,Gorakhpur,2024-07-23,2024-08-07,15,Sanitation / garbage,Vivaan Singh,+918339344696,vivaan.singh78@outlook.com,571043433075,Closed
+GRV-2025-100556,Urban Affairs,Mysuru,2025-02-23,2025-03-07,12,Scheme payment pending,Sanya Verma,+916583651242,sanya.verma22@outlook.com,392636478747,Closed
+GRV-2024-100557,Education,Nagpur,2024-01-13,2024-04-17,95,Sanitation / garbage,Ishaan Joshi,+918131392135,ishaan.joshi98@yahoo.in,771147921824,Escalated
+GRV-2024-100558,Urban Affairs,Gaya,2024-05-06,2024-06-16,41,Street light outage,Kavya Kulkarni,+917191995870,kavya.kulkarni15@outlook.com,301751941089,Closed
+GRV-2023-100559,Women & Child Development,Dhanbad,2023-03-17,2023-05-13,57,Scheme payment pending,Kavya Sinha,+916162946426,kavya.sinha82@yahoo.in,313639278964,Closed
+GRV-2024-100560,Education,Nagpur,2024-10-11,2024-10-26,15,Sanitation / garbage,Neha Singh,+918504440061,neha.singh90@gmail.com,776491482853,Escalated
+GRV-2024-100561,Women & Child Development,Ranchi,2024-10-23,2025-01-03,72,Ambulance delay,Sunita Reddy,+916285811241,sunita.reddy88@rediffmail.com,296484621891,Closed
+GRV-2025-100562,Urban Affairs,Visakhapatnam,2025-12-05,,,Air pollution complaint,Diya Singh,+918463975910,diya.singh57@gmail.com,967732465141,Open
+GRV-2025-100563,Women & Child Development,Kanpur Nagar,2025-03-06,2025-05-31,86,Road damage / pothole,Vivaan Gupta,+918743582253,vivaan.gupta25@yahoo.in,819137074332,Closed
+GRV-2024-100564,Road Transport & Highways,Indore,2024-06-21,2024-08-17,57,Air pollution complaint,Rohan Iyer,+917696325964,rohan.iyer86@outlook.com,553771294079,Closed
+GRV-2023-100565,Jal Shakti,Patna,2023-07-19,2023-08-08,20,Ambulance delay,Aarav Gupta,+919337353664,aarav.gupta19@outlook.com,902691011763,Escalated
+GRV-2023-100566,Health & Family Welfare,Ernakulam,2023-06-21,2023-08-10,50,Ambulance delay,Ramesh Joshi,+919430205147,ramesh.joshi83@outlook.com,328325939531,Closed
+GRV-2024-100567,Environment & Climate,Kanpur Nagar,2024-02-28,,,Ambulance delay,Diya Iyer,+917601068607,diya.iyer12@yahoo.in,204314742140,Open
+GRV-2023-100568,Environment & Climate,Udaipur,2023-11-27,2024-01-15,49,Ambulance delay,Neha Verma,+919348946271,neha.verma93@gmail.com,331717025246,Closed
+GRV-2024-100569,Education,Pune,2024-12-07,2025-02-12,67,Street light outage,Ananya Iyer,+917738328350,ananya.iyer47@rediffmail.com,745963799176,Closed
+GRV-2025-100570,Health & Family Welfare,Gorakhpur,2025-04-24,2025-07-07,74,Street light outage,Diya Mahato,+918713863741,diya.mahato37@rediffmail.com,359688755413,Closed
+GRV-2024-100571,Jal Shakti,Nagpur,2024-11-01,2024-11-21,20,Scheme payment pending,Kavya Gupta,+918397965895,kavya.gupta73@gmail.com,774371768199,Closed
+GRV-2023-100572,Jal Shakti,Rajkot,2023-10-26,,,Water supply interruption,Priya Banerjee,+918657970659,priya.banerjee54@outlook.com,681791957529,Open
+GRV-2025-100573,Women & Child Development,Dibrugarh,2025-07-03,2025-09-13,72,Air pollution complaint,Sanya Banerjee,+919713269062,sanya.banerjee60@rediffmail.com,782279162327,Closed
+GRV-2024-100574,Health & Family Welfare,Visakhapatnam,2024-10-24,2024-12-16,53,Street light outage,Lakshmi Joshi,+919835835002,lakshmi.joshi81@gmail.com,219510575287,Closed
+GRV-2024-100575,Education,Thiruvananthapuram,2024-10-10,2024-12-17,68,Road damage / pothole,Sunita Nair,+918804389429,sunita.nair51@rediffmail.com,812657363018,Closed
+GRV-2025-100576,Rural Development,Bhopal,2025-05-27,2025-08-26,91,Scheme payment pending,Aarav Gupta,+918854699622,aarav.gupta28@rediffmail.com,598345007857,Closed
+GRV-2023-100577,Education,Amritsar,2023-07-24,2023-09-06,44,Sanitation / garbage,Ananya Verma,+918918957669,ananya.verma37@rediffmail.com,903242616746,Closed
+GRV-2025-100578,Jal Shakti,Mysuru,2025-01-21,2025-04-02,71,Sanitation / garbage,Neha Nair,+916782471716,neha.nair50@yahoo.in,466450177609,Closed
+GRV-2024-100579,Jal Shakti,Pune,2024-07-23,2024-10-25,94,Hospital bed unavailability,Sanya Sinha,+918995501539,sanya.sinha83@gmail.com,991515624773,Closed
+GRV-2023-100580,Urban Affairs,Guwahati,2023-10-10,2024-01-06,88,Water supply interruption,Neha Joshi,+916905066171,neha.joshi81@outlook.com,296562861948,Closed
+GRV-2023-100581,Health & Family Welfare,Kanpur Nagar,2023-02-28,2023-06-04,96,Road damage / pothole,Vivaan Mahato,+916821096179,vivaan.mahato70@outlook.com,235916201205,Closed
+GRV-2023-100582,Environment & Climate,Gaya,2023-07-25,2023-10-01,68,Ambulance delay,Neha Verma,+918985628996,neha.verma69@gmail.com,453494058574,Closed
+GRV-2025-100583,Rural Development,Aurangabad,2025-09-07,2025-11-17,71,Water supply interruption,Zoya Sharma,+917899301941,zoya.sharma82@rediffmail.com,856590701517,Closed
+GRV-2025-100584,Health & Family Welfare,Surat,2025-08-26,2025-09-28,33,Water supply interruption,Ramesh Kulkarni,+917139712365,ramesh.kulkarni48@rediffmail.com,590260958372,Escalated
+GRV-2024-100585,Environment & Climate,Aurangabad,2024-11-07,2024-11-30,23,Water supply interruption,Zoya Verma,+918789927519,zoya.verma25@gmail.com,261872011148,Closed
+GRV-2025-100586,Urban Affairs,Aurangabad,2025-08-12,2025-10-14,63,Hospital bed unavailability,Meera Verma,+916915334761,meera.verma29@rediffmail.com,708134878727,Closed
+GRV-2023-100587,Jal Shakti,Gwalior,2023-01-28,,,Sanitation / garbage,Sunita Patel,+916756294744,sunita.patel22@outlook.com,443798869671,Open
+GRV-2023-100588,Jal Shakti,Gorakhpur,2023-05-06,2023-05-22,16,Air pollution complaint,Sanya Patel,+918950319038,sanya.patel60@outlook.com,581383386872,Closed
+GRV-2023-100589,Women & Child Development,Guntur,2023-07-24,2023-07-27,3,Air pollution complaint,Aditya Rao,+918754607464,aditya.rao60@gmail.com,775498998572,Closed
+GRV-2024-100590,Urban Affairs,Thiruvananthapuram,2024-07-19,2024-07-28,9,Water supply interruption,Meera Gupta,+916773958896,meera.gupta40@outlook.com,375490229211,Closed
+GRV-2025-100591,Health & Family Welfare,Nashik,2025-01-18,,,Water supply interruption,Kabir Pillai,+919391472394,kabir.pillai13@rediffmail.com,574325718957,Open
+GRV-2023-100592,Health & Family Welfare,Lucknow,2023-08-27,2023-09-08,12,Scheme payment pending,Priya Kulkarni,+918547118574,priya.kulkarni79@outlook.com,407832379919,Closed
+GRV-2024-100593,Women & Child Development,Pune,2024-10-13,2025-01-09,88,Scheme payment pending,Ramesh Iyer,+919226266791,ramesh.iyer56@rediffmail.com,941272883093,Closed
+GRV-2023-100594,Rural Development,Varanasi,2023-02-12,2023-02-27,15,Water supply interruption,Lakshmi Pillai,+918242691093,lakshmi.pillai50@yahoo.in,515052575125,Escalated
+GRV-2023-100595,Education,Gaya,2023-03-21,2023-05-23,63,Street light outage,Kavya Nair,+918764087710,kavya.nair54@yahoo.in,658140513429,Closed
+GRV-2024-100596,Health & Family Welfare,Udaipur,2024-12-14,2025-02-10,58,Hospital bed unavailability,Farhan Sharma,+917449138081,farhan.sharma77@rediffmail.com,863638501329,Closed
+GRV-2024-100597,Environment & Climate,Surat,2024-10-19,2025-01-13,86,Water supply interruption,Aarav Das,+919474405157,aarav.das70@gmail.com,690978111723,Closed
+GRV-2023-100598,Health & Family Welfare,Dehradun,2023-01-21,2023-03-02,40,Air pollution complaint,Rahul Yadav,+918218692377,rahul.yadav49@rediffmail.com,748536999137,Closed
+GRV-2024-100599,Education,Raipur,2024-08-19,2024-11-23,96,Air pollution complaint,Ramesh Banerjee,+917553890671,ramesh.banerjee63@rediffmail.com,984619312405,Closed
+GRV-2023-100600,Health & Family Welfare,Varanasi,2023-10-05,2024-01-02,89,Sanitation / garbage,Rahul Mishra,+918763096162,rahul.mishra97@rediffmail.com,584371035167,Closed
+GRV-2024-100601,Road Transport & Highways,Jodhpur,2024-11-23,2024-11-24,1,Road damage / pothole,Vivaan Iyer,+917609425978,vivaan.iyer95@gmail.com,294712387986,Escalated
+GRV-2023-100602,Health & Family Welfare,Surat,2023-05-27,,,Scheme payment pending,Lakshmi Gupta,+919262027887,lakshmi.gupta57@yahoo.in,385938544116,Open
+GRV-2023-100603,Environment & Climate,Visakhapatnam,2023-08-24,2023-09-10,17,Scheme payment pending,Rohan Sinha,+917346158853,rohan.sinha49@yahoo.in,632717391338,Closed
+GRV-2024-100604,Environment & Climate,Cuttack,2024-05-23,2024-08-27,96,Ambulance delay,Kavya Khan,+917486770107,kavya.khan25@outlook.com,520997951211,Closed
+GRV-2025-100605,Women & Child Development,Bengaluru Urban,2025-08-15,,,Street light outage,Rahul Chauhan,+918974561195,rahul.chauhan31@yahoo.in,552219809334,Open
+GRV-2024-100606,Environment & Climate,Bengaluru Urban,2024-10-26,,,Road damage / pothole,Farhan Kulkarni,+916401479724,farhan.kulkarni12@gmail.com,427818306313,Open
+GRV-2024-100607,Environment & Climate,Jodhpur,2024-07-28,2024-08-31,34,Street light outage,Kavya Banerjee,+917872323204,kavya.banerjee92@outlook.com,344586611894,Closed
+GRV-2024-100608,Road Transport & Highways,Cuttack,2024-02-02,2024-03-10,37,Scheme payment pending,Arjun Gupta,+918407128945,arjun.gupta57@outlook.com,939490993245,Escalated
+GRV-2025-100609,Health & Family Welfare,Visakhapatnam,2025-04-12,2025-05-27,45,Street light outage,Sanya Sinha,+918692334241,sanya.sinha63@rediffmail.com,204123278098,Closed
+GRV-2023-100610,Road Transport & Highways,Indore,2023-09-01,2023-11-24,84,Water supply interruption,Sanya Mahato,+916509913266,sanya.mahato84@rediffmail.com,337550707690,Escalated
+GRV-2023-100611,Road Transport & Highways,Muzaffarpur,2023-09-28,2023-10-18,20,Water supply interruption,Meera Iyer,+919776338176,meera.iyer14@outlook.com,398842842223,Closed
+GRV-2023-100612,Environment & Climate,Udaipur,2023-05-28,2023-06-14,17,Ambulance delay,Sanya Mahato,+917674379101,sanya.mahato26@outlook.com,609713395395,Closed
+GRV-2024-100613,Environment & Climate,Thiruvananthapuram,2024-05-27,2024-08-30,95,Scheme payment pending,Sunita Das,+919466328405,sunita.das99@yahoo.in,528581688609,Closed
+GRV-2025-100614,Health & Family Welfare,Ganjam,2025-07-14,2025-08-06,23,Sanitation / garbage,Aarav Das,+916541216424,aarav.das48@yahoo.in,982910614944,Closed
+GRV-2024-100615,Road Transport & Highways,Jodhpur,2024-05-27,,,Air pollution complaint,Ishaan Pillai,+919816100746,ishaan.pillai54@rediffmail.com,723520663992,Open
+GRV-2024-100616,Rural Development,Jaipur,2024-08-16,,,Street light outage,Priya Yadav,+919231318821,priya.yadav68@outlook.com,278684894166,Open
+GRV-2024-100617,Rural Development,Guwahati,2024-09-25,,,Ambulance delay,Sanya Chauhan,+916713571974,sanya.chauhan42@yahoo.in,624646652166,Open
+GRV-2025-100618,Education,Gorakhpur,2025-06-21,,,Sanitation / garbage,Farhan Sinha,+919884560172,farhan.sinha76@rediffmail.com,512080714060,Open
+GRV-2025-100619,Urban Affairs,Amritsar,2025-03-16,2025-03-26,10,Hospital bed unavailability,Priya Gupta,+919355994281,priya.gupta60@gmail.com,692280405440,Closed
+GRV-2025-100620,Road Transport & Highways,Visakhapatnam,2025-04-10,2025-06-08,59,Ambulance delay,Kabir Khan,+918302699155,kabir.khan24@gmail.com,446530999312,Closed
+GRV-2024-100621,Education,Bengaluru Urban,2024-06-23,,,Street light outage,Vivaan Mahato,+918494733405,vivaan.mahato74@rediffmail.com,561474116288,Open
+GRV-2024-100622,Education,Thiruvananthapuram,2024-06-04,,,Scheme payment pending,Rohan Nair,+919656178920,rohan.nair53@outlook.com,460252736748,Open
+GRV-2023-100623,Urban Affairs,Raipur,2023-06-06,2023-07-20,44,Street light outage,Vivaan Das,+918729211819,vivaan.das91@gmail.com,281791937816,Closed
+GRV-2023-100624,Education,Pune,2023-07-13,2023-08-14,32,Street light outage,Meera Banerjee,+916695639106,meera.banerjee55@rediffmail.com,250283383126,Closed
+GRV-2023-100625,Road Transport & Highways,Belagavi,2023-10-12,2024-01-12,92,Air pollution complaint,Sunita Mishra,+916339429273,sunita.mishra22@gmail.com,954777715693,Closed
+GRV-2023-100626,Women & Child Development,Varanasi,2023-06-05,2023-06-14,9,Sanitation / garbage,Arjun Khan,+916643168936,arjun.khan74@rediffmail.com,768726607416,Closed
+GRV-2025-100627,Urban Affairs,Amritsar,2025-07-18,2025-08-08,21,Air pollution complaint,Rohan Chauhan,+919736485881,rohan.chauhan17@yahoo.in,701890056384,Closed
+GRV-2025-100628,Jal Shakti,Belagavi,2025-11-16,2025-12-23,37,Air pollution complaint,Zoya Patel,+919575440036,zoya.patel63@rediffmail.com,577239207036,Closed
+GRV-2023-100629,Environment & Climate,Ahmedabad,2023-04-13,2023-05-20,37,Road damage / pothole,Diya Kulkarni,+917504336338,diya.kulkarni66@yahoo.in,285449282302,Closed
+GRV-2024-100630,Education,Visakhapatnam,2024-08-17,2024-09-24,38,Air pollution complaint,Rohan Nair,+918855140368,rohan.nair46@outlook.com,444925215710,Closed
+GRV-2024-100631,Rural Development,Gaya,2024-04-16,2024-04-18,2,Water supply interruption,Kavya Singh,+919658234585,kavya.singh75@rediffmail.com,318113778341,Closed
+GRV-2023-100632,Rural Development,Belagavi,2023-06-18,2023-08-03,46,Water supply interruption,Priya Pillai,+919685037815,priya.pillai97@outlook.com,282376424767,Closed
+GRV-2025-100633,Education,Guntur,2025-09-21,2025-11-18,58,Sanitation / garbage,Rahul Gupta,+918988888842,rahul.gupta20@outlook.com,393279121159,Closed
+GRV-2024-100634,Education,Gorakhpur,2024-09-12,2024-10-14,32,Hospital bed unavailability,Sanya Sinha,+916178136198,sanya.sinha95@yahoo.in,427895878769,Closed
+GRV-2024-100635,Urban Affairs,Raipur,2024-02-18,2024-03-21,32,Water supply interruption,Vivaan Verma,+916990005317,vivaan.verma34@yahoo.in,835567952440,Closed
+GRV-2023-100636,Rural Development,Aurangabad,2023-10-18,2024-01-22,96,Sanitation / garbage,Sunita Reddy,+917698931566,sunita.reddy71@outlook.com,527952988675,Closed
+GRV-2025-100637,Education,Mysuru,2025-11-05,2025-11-22,17,Ambulance delay,Lakshmi Rao,+916843774780,lakshmi.rao13@gmail.com,572567173255,Closed
+GRV-2023-100638,Urban Affairs,Lucknow,2023-05-09,2023-07-09,61,Scheme payment pending,Ramesh Kulkarni,+917321072200,ramesh.kulkarni35@gmail.com,952646601685,Closed
+GRV-2023-100639,Health & Family Welfare,Rajkot,2023-05-05,2023-05-25,20,Hospital bed unavailability,Ananya Sinha,+916571553944,ananya.sinha57@outlook.com,673640342332,Closed
+GRV-2025-100640,Women & Child Development,Dhanbad,2025-09-09,,,Sanitation / garbage,Kavya Verma,+916803540402,kavya.verma63@outlook.com,668280117758,Open
+GRV-2025-100641,Environment & Climate,Dehradun,2025-02-24,,,Air pollution complaint,Sunita Rao,+917377100102,sunita.rao26@rediffmail.com,481542824309,Open
+GRV-2025-100642,Environment & Climate,Cuttack,2025-09-01,2025-10-21,50,Ambulance delay,Diya Iyer,+918340790846,diya.iyer54@yahoo.in,658732394139,Closed
+GRV-2025-100643,Jal Shakti,Guntur,2025-03-14,2025-04-27,44,Ambulance delay,Farhan Reddy,+916901359182,farhan.reddy35@rediffmail.com,596947934950,Closed
+GRV-2025-100644,Urban Affairs,Gwalior,2025-12-25,2026-01-21,27,Road damage / pothole,Zoya Nair,+917207574640,zoya.nair19@rediffmail.com,915452171082,Closed
+GRV-2024-100645,Urban Affairs,Gorakhpur,2024-10-22,,,Ambulance delay,Lakshmi Kulkarni,+916139774819,lakshmi.kulkarni55@rediffmail.com,990418383935,Open
+GRV-2025-100646,Rural Development,Coimbatore,2025-04-24,2025-04-25,1,Hospital bed unavailability,Sanya Chauhan,+918703101521,sanya.chauhan94@yahoo.in,871098662378,Closed
+GRV-2023-100647,Urban Affairs,Nashik,2023-03-20,2023-04-15,26,Scheme payment pending,Farhan Verma,+916844788623,farhan.verma84@gmail.com,433437059312,Closed
+GRV-2025-100648,Women & Child Development,Jaipur,2025-10-07,2025-10-14,7,Water supply interruption,Neha Khan,+919267325278,neha.khan15@gmail.com,436986413114,Closed
+GRV-2023-100649,Urban Affairs,Thiruvananthapuram,2023-07-09,2023-08-01,23,Water supply interruption,Ishaan Yadav,+916735561207,ishaan.yadav35@yahoo.in,717027888193,Escalated
+GRV-2023-100650,Environment & Climate,Belagavi,2023-07-07,2023-10-06,91,Hospital bed unavailability,Ananya Mishra,+918847728436,ananya.mishra96@gmail.com,998349872769,Closed
+GRV-2024-100651,Women & Child Development,Raipur,2024-05-20,2024-08-22,94,Ambulance delay,Lakshmi Kulkarni,+919374021210,lakshmi.kulkarni18@gmail.com,488442792744,Closed
+GRV-2025-100652,Education,Mysuru,2025-04-17,2025-05-02,15,Ambulance delay,Arjun Das,+917944351046,arjun.das32@rediffmail.com,896535157317,Closed
+GRV-2023-100653,Road Transport & Highways,Bengaluru Urban,2023-03-14,,,Scheme payment pending,Ishaan Banerjee,+918223481375,ishaan.banerjee66@yahoo.in,992941198880,Open
+GRV-2024-100654,Environment & Climate,Rajkot,2024-05-09,2024-07-28,80,Hospital bed unavailability,Kavya Verma,+919997980889,kavya.verma13@outlook.com,834891281376,Closed
+GRV-2024-100655,Jal Shakti,Ranchi,2024-11-24,,,Sanitation / garbage,Kabir Singh,+917472416017,kabir.singh71@rediffmail.com,235456619878,Open
+GRV-2025-100656,Road Transport & Highways,Guntur,2025-02-19,2025-05-09,79,Hospital bed unavailability,Neha Sharma,+919288818085,neha.sharma76@outlook.com,992956683238,Closed
+GRV-2025-100657,Health & Family Welfare,Gorakhpur,2025-08-17,2025-10-28,72,Ambulance delay,Sunita Das,+916129702406,sunita.das86@outlook.com,931432817815,Closed
+GRV-2025-100658,Environment & Climate,Jaipur,2025-05-06,2025-06-19,44,Hospital bed unavailability,Arjun Gupta,+918787146394,arjun.gupta27@outlook.com,720353073904,Escalated
+GRV-2025-100659,Rural Development,Pune,2025-09-13,2025-10-12,29,Hospital bed unavailability,Farhan Khan,+919725991410,farhan.khan47@gmail.com,860967046972,Closed
+GRV-2024-100660,Women & Child Development,Indore,2024-10-07,,,Road damage / pothole,Diya Pillai,+919152661356,diya.pillai19@yahoo.in,982917777940,Open
+GRV-2024-100661,Road Transport & Highways,Nashik,2024-04-28,2024-05-27,29,Ambulance delay,Aditya Patel,+916698489031,aditya.patel61@gmail.com,331178434188,Closed
+GRV-2023-100662,Women & Child Development,Dhanbad,2023-02-07,2023-02-17,10,Hospital bed unavailability,Vivaan Nair,+918347504434,vivaan.nair80@gmail.com,771389584972,Closed
+GRV-2023-100663,Road Transport & Highways,Jaipur,2023-12-23,2023-12-31,8,Scheme payment pending,Lakshmi Mishra,+919507924273,lakshmi.mishra84@gmail.com,378429409288,Closed
+GRV-2025-100664,Environment & Climate,Surat,2025-11-07,2025-11-17,10,Air pollution complaint,Priya Chauhan,+916479763889,priya.chauhan78@rediffmail.com,577597984093,Closed
+GRV-2025-100665,Jal Shakti,Ernakulam,2025-04-22,2025-05-21,29,Scheme payment pending,Arjun Iyer,+916774029715,arjun.iyer19@rediffmail.com,249633176806,Closed
+GRV-2024-100666,Education,Belagavi,2024-02-12,2024-02-13,1,Road damage / pothole,Kavya Banerjee,+917637981279,kavya.banerjee14@gmail.com,463072243710,Closed
+GRV-2025-100667,Health & Family Welfare,Guwahati,2025-01-26,2025-01-28,2,Water supply interruption,Diya Das,+919494014049,diya.das17@rediffmail.com,243998003423,Closed
+GRV-2024-100668,Urban Affairs,Thiruvananthapuram,2024-05-14,2024-05-23,9,Sanitation / garbage,Rohan Banerjee,+916760948193,rohan.banerjee43@rediffmail.com,406285457410,Closed
+GRV-2025-100669,Women & Child Development,Jaipur,2025-11-06,2025-11-10,4,Hospital bed unavailability,Ananya Patel,+918847285695,ananya.patel42@outlook.com,987978761019,Closed
+GRV-2023-100670,Environment & Climate,Dhanbad,2023-07-03,2023-08-04,32,Street light outage,Sunita Yadav,+919820062777,sunita.yadav40@yahoo.in,995167918523,Closed
+GRV-2025-100671,Women & Child Development,Guwahati,2025-08-11,2025-09-15,35,Ambulance delay,Farhan Iyer,+917719119015,farhan.iyer91@rediffmail.com,833126563880,Escalated
+GRV-2023-100672,Jal Shakti,Mysuru,2023-12-10,2024-02-08,60,Water supply interruption,Kabir Sharma,+919887140958,kabir.sharma19@rediffmail.com,214521312553,Closed
+GRV-2024-100673,Rural Development,Lucknow,2024-12-23,2025-01-20,28,Road damage / pothole,Ishaan Patel,+916672995291,ishaan.patel83@gmail.com,531075233603,Closed
+GRV-2025-100674,Women & Child Development,Ganjam,2025-04-23,2025-07-10,78,Ambulance delay,Farhan Chauhan,+917889121691,farhan.chauhan21@outlook.com,476766151677,Closed
+GRV-2024-100675,Education,Mysuru,2024-10-15,2024-12-15,61,Street light outage,Neha Rao,+917502597797,neha.rao42@gmail.com,584736619145,Closed
+GRV-2025-100676,Women & Child Development,Madurai,2025-04-17,2025-06-21,65,Hospital bed unavailability,Ramesh Singh,+916199177957,ramesh.singh31@outlook.com,246175873443,Closed
+GRV-2025-100677,Road Transport & Highways,Bhopal,2025-02-06,,,Ambulance delay,Ananya Singh,+917623333810,ananya.singh66@outlook.com,397590521332,Open
+GRV-2023-100678,Rural Development,Madurai,2023-08-12,,,Street light outage,Aarav Gupta,+916636850010,aarav.gupta95@gmail.com,504038953228,Open
+GRV-2024-100679,Jal Shakti,Mysuru,2024-04-17,,,Road damage / pothole,Neha Rao,+916729692000,neha.rao38@rediffmail.com,579461329033,Open
+GRV-2025-100680,Rural Development,Gwalior,2025-07-12,,,Ambulance delay,Neha Reddy,+916891641847,neha.reddy11@outlook.com,807442543854,Open
+GRV-2024-100681,Rural Development,Indore,2024-07-06,2024-07-10,4,Air pollution complaint,Diya Khan,+916282968727,diya.khan41@yahoo.in,825484881428,Escalated
+GRV-2023-100682,Rural Development,Visakhapatnam,2023-10-22,2023-12-01,40,Ambulance delay,Kabir Gupta,+918251634835,kabir.gupta52@rediffmail.com,721191736845,Closed
+GRV-2025-100683,Road Transport & Highways,Ranchi,2025-08-05,,,Air pollution complaint,Rohan Banerjee,+916974096169,rohan.banerjee69@outlook.com,447797146311,Open
+GRV-2025-100684,Women & Child Development,Udaipur,2025-10-21,2025-12-08,48,Ambulance delay,Sanya Yadav,+916656002876,sanya.yadav99@outlook.com,664071404440,Escalated
+GRV-2024-100685,Road Transport & Highways,Raipur,2024-05-15,2024-05-21,6,Hospital bed unavailability,Diya Verma,+919617643077,diya.verma35@outlook.com,762868754929,Closed
+GRV-2023-100686,Environment & Climate,Amritsar,2023-10-12,2023-10-25,13,Scheme payment pending,Kavya Gupta,+918314218924,kavya.gupta85@rediffmail.com,332279702026,Closed
+GRV-2025-100687,Road Transport & Highways,Jaipur,2025-06-25,2025-08-27,63,Water supply interruption,Sunita Mishra,+918979736284,sunita.mishra98@yahoo.in,892164031542,Closed
+GRV-2025-100688,Rural Development,Belagavi,2025-08-27,2025-09-04,8,Sanitation / garbage,Neha Singh,+919426679117,neha.singh41@gmail.com,814971475274,Closed
+GRV-2023-100689,Rural Development,Mysuru,2023-11-18,2024-01-09,52,Road damage / pothole,Kabir Iyer,+918332898257,kabir.iyer20@yahoo.in,602229838986,Closed
+GRV-2024-100690,Education,Belagavi,2024-05-09,2024-08-06,89,Street light outage,Rahul Verma,+918477047731,rahul.verma27@rediffmail.com,963299909537,Closed
+GRV-2023-100691,Women & Child Development,Guntur,2023-04-20,2023-06-28,69,Road damage / pothole,Kabir Sinha,+918740245841,kabir.sinha71@yahoo.in,968761194220,Closed
+GRV-2024-100692,Rural Development,Bhopal,2024-09-21,2024-11-04,44,Scheme payment pending,Arjun Kulkarni,+919154695965,arjun.kulkarni38@outlook.com,307681589038,Closed
+GRV-2025-100693,Education,Nagpur,2025-01-06,,,Water supply interruption,Lakshmi Iyer,+916944496379,lakshmi.iyer72@outlook.com,713143982985,Open
+GRV-2024-100694,Women & Child Development,Muzaffarpur,2024-05-17,2024-06-05,19,Road damage / pothole,Ishaan Nair,+916468285362,ishaan.nair94@gmail.com,697684437695,Closed
+GRV-2023-100695,Women & Child Development,Coimbatore,2023-02-13,2023-04-25,71,Street light outage,Lakshmi Reddy,+918478721409,lakshmi.reddy77@rediffmail.com,804595409816,Escalated
+GRV-2025-100696,Environment & Climate,Ahmedabad,2025-12-24,2026-03-19,85,Sanitation / garbage,Zoya Mahato,+917851276623,zoya.mahato65@gmail.com,780792125919,Closed
+GRV-2024-100697,Health & Family Welfare,Cuttack,2024-05-11,,,Ambulance delay,Kabir Sharma,+918534672335,kabir.sharma40@outlook.com,299811833277,Open
+GRV-2025-100698,Jal Shakti,Tiruchirappalli,2025-11-16,2026-01-08,53,Scheme payment pending,Aditya Iyer,+918982097298,aditya.iyer36@outlook.com,964193912795,Closed
+GRV-2024-100699,Jal Shakti,Muzaffarpur,2024-03-07,2024-03-24,17,Air pollution complaint,Rahul Iyer,+918925077678,rahul.iyer70@outlook.com,558566296616,Closed
+GRV-2025-100700,Rural Development,Belagavi,2025-06-26,2025-08-18,53,Road damage / pothole,Rahul Nair,+917648282023,rahul.nair17@rediffmail.com,824843886594,Escalated
+GRV-2025-100701,Road Transport & Highways,Jodhpur,2025-03-12,2025-04-07,26,Hospital bed unavailability,Priya Reddy,+916441149153,priya.reddy49@gmail.com,976173096654,Closed
+GRV-2023-100702,Urban Affairs,Lucknow,2023-12-04,,,Air pollution complaint,Kabir Chauhan,+919155679189,kabir.chauhan84@yahoo.in,601319612775,Open
+GRV-2024-100703,Environment & Climate,Surat,2024-06-05,2024-08-03,59,Road damage / pothole,Priya Joshi,+918860357793,priya.joshi91@gmail.com,273253979560,Escalated
+GRV-2023-100704,Women & Child Development,Jaipur,2023-12-22,2024-03-25,94,Road damage / pothole,Diya Das,+919243992413,diya.das38@rediffmail.com,449346122693,Closed
+GRV-2025-100705,Urban Affairs,Thiruvananthapuram,2025-09-03,2025-11-09,67,Ambulance delay,Meera Iyer,+919433161291,meera.iyer16@yahoo.in,377171419820,Closed
+GRV-2023-100706,Jal Shakti,Madurai,2023-03-28,2023-04-14,17,Street light outage,Meera Banerjee,+918127509248,meera.banerjee94@gmail.com,548140247206,Closed
+GRV-2025-100707,Women & Child Development,Nashik,2025-10-09,2025-12-02,54,Road damage / pothole,Sanya Banerjee,+917841154438,sanya.banerjee74@gmail.com,911930505694,Escalated
+GRV-2023-100708,Health & Family Welfare,Rajkot,2023-12-24,2023-12-30,6,Road damage / pothole,Neha Gupta,+918311290785,neha.gupta51@yahoo.in,385216828966,Closed
+GRV-2024-100709,Women & Child Development,Dehradun,2024-10-27,2024-12-05,39,Road damage / pothole,Aarav Rao,+919941447779,aarav.rao26@rediffmail.com,601912115706,Closed
+GRV-2024-100710,Rural Development,Surat,2024-11-14,2025-02-18,96,Scheme payment pending,Priya Verma,+918217787302,priya.verma18@rediffmail.com,473951595390,Closed
+GRV-2023-100711,Education,Dehradun,2023-03-26,2023-06-24,90,Water supply interruption,Ishaan Khan,+919389405804,ishaan.khan17@rediffmail.com,638657596372,Closed
+GRV-2024-100712,Health & Family Welfare,Surat,2024-08-02,2024-10-31,90,Water supply interruption,Meera Yadav,+918523430380,meera.yadav72@rediffmail.com,650029398769,Closed
+GRV-2024-100713,Health & Family Welfare,Guwahati,2024-12-24,2025-03-23,89,Sanitation / garbage,Arjun Nair,+919848838656,arjun.nair55@yahoo.in,932091799269,Closed
+GRV-2024-100714,Women & Child Development,Madurai,2024-11-08,2025-01-29,82,Hospital bed unavailability,Lakshmi Das,+917940925695,lakshmi.das20@outlook.com,542958843393,Closed
+GRV-2024-100715,Rural Development,Bhopal,2024-11-02,2024-12-30,58,Street light outage,Sanya Sinha,+918302672790,sanya.sinha67@yahoo.in,626020876451,Closed
+GRV-2024-100716,Jal Shakti,Ludhiana,2024-05-07,2024-06-17,41,Air pollution complaint,Ramesh Chauhan,+916700373551,ramesh.chauhan34@yahoo.in,501015752879,Closed
+GRV-2025-100717,Jal Shakti,Indore,2025-10-18,2025-11-10,23,Air pollution complaint,Rahul Reddy,+918290164903,rahul.reddy15@gmail.com,747499269012,Closed
+GRV-2024-100718,Health & Family Welfare,Lucknow,2024-05-16,2024-08-02,78,Water supply interruption,Aarav Rao,+916852107923,aarav.rao33@yahoo.in,517936085118,Closed
+GRV-2024-100719,Urban Affairs,Cuttack,2024-10-14,2024-11-21,38,Ambulance delay,Aarav Reddy,+917460122364,aarav.reddy67@outlook.com,888185299438,Closed
+GRV-2023-100720,Health & Family Welfare,Visakhapatnam,2023-04-05,2023-04-13,8,Water supply interruption,Arjun Banerjee,+919763988958,arjun.banerjee36@outlook.com,592575722808,Closed
+GRV-2025-100721,Urban Affairs,Nashik,2025-02-24,2025-04-21,56,Air pollution complaint,Arjun Nair,+916768619073,arjun.nair77@rediffmail.com,622148889524,Closed
+GRV-2024-100722,Environment & Climate,Gwalior,2024-11-27,2025-02-17,82,Air pollution complaint,Rohan Yadav,+918684475966,rohan.yadav41@rediffmail.com,726549248363,Closed
+GRV-2023-100723,Women & Child Development,Indore,2023-04-04,2023-06-14,71,Hospital bed unavailability,Lakshmi Iyer,+917182265450,lakshmi.iyer86@outlook.com,836287079151,Closed
+GRV-2023-100724,Urban Affairs,Jaipur,2023-11-21,2023-12-02,11,Hospital bed unavailability,Sanya Banerjee,+916948622451,sanya.banerjee20@outlook.com,416461883249,Closed
+GRV-2023-100725,Health & Family Welfare,Ahmedabad,2023-12-22,2024-01-15,24,Air pollution complaint,Priya Kulkarni,+919236477562,priya.kulkarni92@yahoo.in,217860246170,Closed
+GRV-2024-100726,Rural Development,Muzaffarpur,2024-03-10,2024-05-05,56,Ambulance delay,Sunita Sharma,+919656227066,sunita.sharma98@outlook.com,659484491804,Closed
+GRV-2024-100727,Environment & Climate,Bhopal,2024-01-23,2024-04-14,82,Scheme payment pending,Aditya Chauhan,+917882208376,aditya.chauhan15@outlook.com,361456231747,Closed
+GRV-2023-100728,Environment & Climate,Indore,2023-12-11,,,Road damage / pothole,Arjun Verma,+919778464010,arjun.verma43@rediffmail.com,758821059048,Open
+GRV-2023-100729,Road Transport & Highways,Varanasi,2023-04-05,,,Hospital bed unavailability,Sunita Verma,+917532623671,sunita.verma33@yahoo.in,607867316453,Open
+GRV-2024-100730,Environment & Climate,Udaipur,2024-05-13,2024-06-19,37,Water supply interruption,Arjun Mahato,+918638191836,arjun.mahato50@yahoo.in,777378986510,Closed
+GRV-2025-100731,Women & Child Development,Bhopal,2025-07-01,2025-08-24,54,Scheme payment pending,Ishaan Pillai,+917398384195,ishaan.pillai49@rediffmail.com,991110284007,Closed
+GRV-2024-100732,Rural Development,Bengaluru Urban,2024-11-25,2025-02-10,77,Street light outage,Farhan Patel,+916721247387,farhan.patel87@rediffmail.com,864522226864,Closed
+GRV-2025-100733,Women & Child Development,Surat,2025-04-15,2025-05-02,17,Hospital bed unavailability,Sanya Sinha,+919783183528,sanya.sinha77@yahoo.in,932446184623,Closed
+GRV-2023-100734,Urban Affairs,Muzaffarpur,2023-03-02,2023-06-01,91,Scheme payment pending,Priya Kulkarni,+916285925119,priya.kulkarni25@gmail.com,985157849805,Closed
+GRV-2024-100735,Urban Affairs,Indore,2024-11-19,2024-12-05,16,Hospital bed unavailability,Ramesh Rao,+918640855100,ramesh.rao94@yahoo.in,963512858081,Closed
+GRV-2023-100736,Jal Shakti,Thiruvananthapuram,2023-10-05,2023-12-28,84,Road damage / pothole,Zoya Pillai,+919535913774,zoya.pillai66@yahoo.in,939873618290,Closed
+GRV-2023-100737,Jal Shakti,Tiruchirappalli,2023-02-12,2023-05-03,80,Hospital bed unavailability,Kavya Yadav,+917512246018,kavya.yadav15@yahoo.in,852143262904,Closed
+GRV-2025-100738,Women & Child Development,Guntur,2025-03-03,2025-05-24,82,Water supply interruption,Meera Pillai,+917246501228,meera.pillai99@rediffmail.com,310090392576,Closed
+GRV-2024-100739,Jal Shakti,Gaya,2024-04-25,2024-06-27,63,Scheme payment pending,Rahul Mishra,+916525622082,rahul.mishra59@yahoo.in,937079397364,Closed
+GRV-2023-100740,Urban Affairs,Patna,2023-05-08,2023-07-12,65,Air pollution complaint,Farhan Banerjee,+916376475338,farhan.banerjee83@yahoo.in,907488114637,Closed
+GRV-2023-100741,Education,Mysuru,2023-04-08,,,Air pollution complaint,Lakshmi Gupta,+917952484447,lakshmi.gupta56@gmail.com,286627824008,Open
+GRV-2025-100742,Education,Ernakulam,2025-03-02,2025-03-25,23,Hospital bed unavailability,Meera Chauhan,+917294437046,meera.chauhan52@rediffmail.com,665461056091,Closed
+GRV-2024-100743,Urban Affairs,Varanasi,2024-02-28,,,Hospital bed unavailability,Arjun Patel,+919216405400,arjun.patel67@rediffmail.com,584729329115,Open
+GRV-2023-100744,Women & Child Development,Patna,2023-12-25,2024-01-31,37,Water supply interruption,Zoya Nair,+917371199880,zoya.nair73@outlook.com,654222429930,Closed
+GRV-2023-100745,Urban Affairs,Raipur,2023-09-19,2023-11-18,60,Street light outage,Meera Iyer,+919806820512,meera.iyer13@outlook.com,619279593081,Closed
+GRV-2025-100746,Jal Shakti,Thiruvananthapuram,2025-05-11,2025-07-25,75,Scheme payment pending,Neha Reddy,+918625710869,neha.reddy79@yahoo.in,486845561345,Closed
+GRV-2025-100747,Urban Affairs,Bhopal,2025-01-26,2025-05-01,95,Scheme payment pending,Rohan Singh,+919447291568,rohan.singh42@yahoo.in,381328348617,Closed
+GRV-2024-100748,Education,Raipur,2024-05-07,2024-05-19,12,Scheme payment pending,Ananya Verma,+919783228453,ananya.verma11@rediffmail.com,889236798675,Closed
+GRV-2024-100749,Jal Shakti,Aurangabad,2024-11-09,2025-02-13,96,Sanitation / garbage,Rahul Banerjee,+919231400131,rahul.banerjee31@rediffmail.com,516567202305,Closed
+GRV-2024-100750,Education,Lucknow,2024-08-06,2024-10-02,57,Hospital bed unavailability,Sanya Mahato,+917196684900,sanya.mahato33@outlook.com,898660291573,Escalated
+GRV-2023-100751,Rural Development,Varanasi,2023-05-17,2023-07-19,63,Street light outage,Neha Mahato,+918527467560,neha.mahato92@gmail.com,614852663510,Closed
+GRV-2023-100752,Jal Shakti,Visakhapatnam,2023-07-22,2023-09-29,69,Air pollution complaint,Ramesh Sinha,+916171567987,ramesh.sinha51@yahoo.in,881372094666,Closed
+GRV-2023-100753,Women & Child Development,Amritsar,2023-03-01,2023-03-19,18,Road damage / pothole,Ishaan Rao,+919915578915,ishaan.rao23@outlook.com,819427435404,Closed
+GRV-2023-100754,Education,Bhopal,2023-08-01,,,Hospital bed unavailability,Farhan Kulkarni,+918601348271,farhan.kulkarni40@yahoo.in,666411977796,Open
+GRV-2023-100755,Urban Affairs,Dehradun,2023-08-14,2023-08-25,11,Ambulance delay,Sanya Sharma,+917590527590,sanya.sharma76@yahoo.in,738142146706,Closed
+GRV-2023-100756,Rural Development,Indore,2023-07-27,2023-10-29,94,Sanitation / garbage,Priya Sharma,+917943983409,priya.sharma46@yahoo.in,767854442550,Closed
+GRV-2023-100757,Education,Udaipur,2023-12-16,2024-01-13,28,Air pollution complaint,Diya Joshi,+919273161113,diya.joshi81@outlook.com,412757668102,Closed
+GRV-2025-100758,Environment & Climate,Mysuru,2025-06-10,2025-07-02,22,Air pollution complaint,Meera Singh,+918161974195,meera.singh73@yahoo.in,523681599687,Closed
+GRV-2025-100759,Jal Shakti,Lucknow,2025-01-02,2025-02-14,43,Hospital bed unavailability,Aarav Mishra,+916906142447,aarav.mishra76@outlook.com,511697065278,Closed
+GRV-2025-100760,Jal Shakti,Pune,2025-08-28,2025-11-21,85,Sanitation / garbage,Rohan Mishra,+916648664591,rohan.mishra20@yahoo.in,216126563725,Closed
+GRV-2025-100761,Environment & Climate,Nashik,2025-08-15,2025-09-14,30,Road damage / pothole,Neha Sharma,+917494610774,neha.sharma46@yahoo.in,793228066590,Escalated
+GRV-2024-100762,Health & Family Welfare,Guntur,2024-12-02,2024-12-09,7,Road damage / pothole,Diya Mishra,+918156170494,diya.mishra67@rediffmail.com,962385156031,Closed
+GRV-2024-100763,Rural Development,Thiruvananthapuram,2024-11-24,2025-01-14,51,Road damage / pothole,Meera Mishra,+918415197902,meera.mishra73@outlook.com,267785002826,Closed
+GRV-2024-100764,Urban Affairs,Patna,2024-12-23,2025-01-24,32,Road damage / pothole,Kavya Pillai,+919945151065,kavya.pillai39@rediffmail.com,855762226406,Closed
+GRV-2023-100765,Environment & Climate,Ahmedabad,2023-04-14,2023-06-04,51,Air pollution complaint,Sanya Patel,+918770821101,sanya.patel30@gmail.com,820579068099,Closed
+GRV-2024-100766,Urban Affairs,Dibrugarh,2024-09-16,2024-10-09,23,Scheme payment pending,Sanya Das,+917897462395,sanya.das64@yahoo.in,797877371125,Closed
+GRV-2025-100767,Women & Child Development,Raipur,2025-02-21,,,Hospital bed unavailability,Lakshmi Iyer,+918284671717,lakshmi.iyer94@yahoo.in,517627511846,Open
+GRV-2024-100768,Road Transport & Highways,Madurai,2024-12-22,2025-02-04,44,Water supply interruption,Ishaan Reddy,+918566544043,ishaan.reddy51@outlook.com,965316032794,Closed
+GRV-2025-100769,Women & Child Development,Lucknow,2025-04-03,2025-07-06,94,Street light outage,Kavya Khan,+919985917418,kavya.khan20@rediffmail.com,443660261192,Closed
+GRV-2023-100770,Environment & Climate,Ganjam,2023-06-16,2023-07-13,27,Sanitation / garbage,Rohan Yadav,+916735915149,rohan.yadav57@rediffmail.com,995882625679,Closed
+GRV-2025-100771,Rural Development,Ahmedabad,2025-06-26,2025-07-08,12,Road damage / pothole,Ananya Chauhan,+917573596833,ananya.chauhan55@gmail.com,808884408483,Closed
+GRV-2024-100772,Jal Shakti,Ernakulam,2024-11-04,2024-12-04,30,Road damage / pothole,Farhan Gupta,+917973804872,farhan.gupta63@yahoo.in,627290843839,Closed
+GRV-2025-100773,Jal Shakti,Amritsar,2025-02-14,2025-03-06,20,Road damage / pothole,Ishaan Singh,+919322625326,ishaan.singh91@yahoo.in,873497847724,Closed
+GRV-2024-100774,Road Transport & Highways,Udaipur,2024-10-27,2024-12-29,63,Sanitation / garbage,Sunita Sinha,+916865220961,sunita.sinha29@rediffmail.com,854325138809,Closed
+GRV-2024-100775,Education,Nashik,2024-04-03,,,Road damage / pothole,Lakshmi Das,+919239913846,lakshmi.das48@rediffmail.com,846628219903,Open
+GRV-2024-100776,Women & Child Development,Pune,2024-07-05,2024-08-20,46,Street light outage,Diya Banerjee,+918332799096,diya.banerjee74@outlook.com,977649266957,Closed
+GRV-2024-100777,Health & Family Welfare,Udaipur,2024-09-26,,,Water supply interruption,Rahul Reddy,+919974416397,rahul.reddy42@yahoo.in,633245485866,Open
+GRV-2025-100778,Rural Development,Aurangabad,2025-03-03,2025-05-20,78,Air pollution complaint,Sunita Mahato,+919797526983,sunita.mahato37@outlook.com,764635268301,Closed
+GRV-2024-100779,Environment & Climate,Pune,2024-09-02,2024-09-17,15,Air pollution complaint,Kavya Iyer,+917838116110,kavya.iyer34@outlook.com,221961625989,Closed
+GRV-2023-100780,Health & Family Welfare,Lucknow,2023-06-19,2023-09-22,95,Street light outage,Kabir Chauhan,+919592137241,kabir.chauhan37@outlook.com,919334198258,Closed
+GRV-2023-100781,Rural Development,Jodhpur,2023-02-12,2023-02-24,12,Hospital bed unavailability,Ishaan Mahato,+919469115046,ishaan.mahato96@rediffmail.com,751257121096,Closed
+GRV-2024-100782,Environment & Climate,Indore,2024-07-26,2024-10-19,85,Street light outage,Zoya Sharma,+917537466803,zoya.sharma59@outlook.com,850172042722,Closed
+GRV-2024-100783,Education,Pune,2024-02-20,2024-04-25,65,Water supply interruption,Vivaan Yadav,+917640850130,vivaan.yadav29@rediffmail.com,996279061980,Closed
+GRV-2025-100784,Health & Family Welfare,Patna,2025-02-03,2025-02-19,16,Air pollution complaint,Zoya Rao,+919259641712,zoya.rao97@outlook.com,349582858323,Closed
+GRV-2025-100785,Urban Affairs,Ernakulam,2025-03-04,2025-04-14,41,Water supply interruption,Zoya Sinha,+919923312589,zoya.sinha52@gmail.com,505416427416,Closed
+GRV-2025-100786,Urban Affairs,Madurai,2025-02-05,,,Water supply interruption,Lakshmi Sinha,+918284076138,lakshmi.sinha27@rediffmail.com,765141707857,Open
+GRV-2025-100787,Environment & Climate,Cuttack,2025-06-24,2025-08-09,46,Ambulance delay,Rahul Sinha,+918108519308,rahul.sinha17@yahoo.in,311322821382,Closed
+GRV-2024-100788,Health & Family Welfare,Ludhiana,2024-03-04,2024-04-21,48,Hospital bed unavailability,Aditya Mahato,+919166537056,aditya.mahato57@outlook.com,372874878834,Escalated
+GRV-2023-100789,Health & Family Welfare,Nagpur,2023-02-23,,,Sanitation / garbage,Zoya Rao,+919358017082,zoya.rao69@outlook.com,881250285376,Open
+GRV-2025-100790,Women & Child Development,Ernakulam,2025-09-16,,,Water supply interruption,Ananya Yadav,+919498436106,ananya.yadav17@yahoo.in,411988535355,Open
+GRV-2023-100791,Urban Affairs,Thiruvananthapuram,2023-03-07,2023-04-06,30,Street light outage,Vivaan Banerjee,+919954632869,vivaan.banerjee77@gmail.com,543256003930,Closed
+GRV-2023-100792,Jal Shakti,Thiruvananthapuram,2023-10-15,2023-12-21,67,Hospital bed unavailability,Kabir Reddy,+917899975427,kabir.reddy36@gmail.com,660860983834,Closed
+GRV-2024-100793,Women & Child Development,Dhanbad,2024-10-20,2024-12-18,59,Water supply interruption,Lakshmi Chauhan,+919233731368,lakshmi.chauhan45@gmail.com,738692799187,Closed
+GRV-2025-100794,Health & Family Welfare,Nashik,2025-08-24,,,Water supply interruption,Rohan Gupta,+917855934192,rohan.gupta53@rediffmail.com,296488748120,Open
+GRV-2023-100795,Road Transport & Highways,Muzaffarpur,2023-09-13,2023-11-16,64,Sanitation / garbage,Aarav Kulkarni,+916422331368,aarav.kulkarni54@gmail.com,812814934712,Closed
+GRV-2024-100796,Environment & Climate,Nagpur,2024-07-23,2024-08-16,24,Road damage / pothole,Priya Pillai,+919858701287,priya.pillai85@gmail.com,654325618352,Closed
+GRV-2025-100797,Rural Development,Belagavi,2025-08-11,2025-11-04,85,Air pollution complaint,Kavya Pillai,+919991155913,kavya.pillai21@yahoo.in,901498539942,Closed
+GRV-2023-100798,Women & Child Development,Cuttack,2023-06-25,2023-08-05,41,Air pollution complaint,Zoya Yadav,+919988946104,zoya.yadav71@yahoo.in,802025492749,Closed
+GRV-2025-100799,Urban Affairs,Indore,2025-06-04,2025-06-18,14,Air pollution complaint,Ishaan Sinha,+919648887397,ishaan.sinha85@rediffmail.com,272569844101,Closed
+GRV-2025-100800,Education,Visakhapatnam,2025-04-13,2025-07-14,92,Air pollution complaint,Arjun Banerjee,+919241207130,arjun.banerjee58@gmail.com,318945277105,Closed
+GRV-2024-100801,Rural Development,Varanasi,2024-05-20,,,Hospital bed unavailability,Ramesh Yadav,+919262572318,ramesh.yadav93@outlook.com,567190426474,Open
+GRV-2024-100802,Education,Guntur,2024-05-14,2024-06-02,19,Air pollution complaint,Aditya Das,+918103808469,aditya.das34@yahoo.in,976815877047,Closed
+GRV-2023-100803,Jal Shakti,Raipur,2023-02-27,2023-05-27,89,Road damage / pothole,Ramesh Nair,+918522769845,ramesh.nair81@gmail.com,413566697952,Escalated
+GRV-2025-100804,Women & Child Development,Belagavi,2025-01-28,,,Hospital bed unavailability,Priya Rao,+918576170179,priya.rao70@rediffmail.com,352832052906,Open
+GRV-2024-100805,Jal Shakti,Guwahati,2024-11-23,2025-01-04,42,Street light outage,Priya Mahato,+918353446066,priya.mahato77@rediffmail.com,709052287278,Closed
+GRV-2025-100806,Education,Indore,2025-08-08,2025-09-20,43,Ambulance delay,Sanya Khan,+917111805386,sanya.khan26@gmail.com,417677969060,Closed
+GRV-2023-100807,Women & Child Development,Jodhpur,2023-03-11,2023-03-16,5,Hospital bed unavailability,Aditya Nair,+919781111469,aditya.nair43@rediffmail.com,994814835585,Closed
+GRV-2025-100808,Rural Development,Cuttack,2025-12-11,2025-12-19,8,Street light outage,Neha Khan,+919737458107,neha.khan96@gmail.com,901885157880,Closed
+GRV-2023-100809,Road Transport & Highways,Aurangabad,2023-01-02,2023-04-07,95,Road damage / pothole,Arjun Banerjee,+918346640360,arjun.banerjee66@gmail.com,572947824658,Escalated
+GRV-2023-100810,Environment & Climate,Ludhiana,2023-09-02,2023-11-20,79,Water supply interruption,Vivaan Pillai,+917769394681,vivaan.pillai36@rediffmail.com,414038225893,Closed
+GRV-2023-100811,Urban Affairs,Dhanbad,2023-03-07,,,Air pollution complaint,Aarav Gupta,+918279582297,aarav.gupta40@gmail.com,650723225441,Open
+GRV-2023-100812,Road Transport & Highways,Raipur,2023-03-02,2023-05-06,65,Street light outage,Sunita Khan,+918157273456,sunita.khan93@yahoo.in,566842116780,Closed
+GRV-2024-100813,Urban Affairs,Madurai,2024-03-02,2024-04-11,40,Water supply interruption,Neha Nair,+919896771870,neha.nair19@outlook.com,224029446576,Closed
+GRV-2024-100814,Women & Child Development,Dhanbad,2024-07-07,2024-08-07,31,Street light outage,Sanya Singh,+919763267189,sanya.singh23@rediffmail.com,572371463600,Closed
+GRV-2025-100815,Women & Child Development,Bengaluru Urban,2025-05-03,2025-07-21,79,Sanitation / garbage,Kabir Yadav,+917739959627,kabir.yadav81@outlook.com,646172104107,Closed
+GRV-2023-100816,Women & Child Development,Indore,2023-11-02,2024-01-09,68,Scheme payment pending,Zoya Patel,+919115967740,zoya.patel38@yahoo.in,221942225117,Closed
+GRV-2023-100817,Road Transport & Highways,Udaipur,2023-01-25,2023-01-29,4,Air pollution complaint,Ananya Nair,+918783710196,ananya.nair17@gmail.com,856913773260,Escalated
+GRV-2023-100818,Jal Shakti,Dhanbad,2023-07-08,,,Scheme payment pending,Aditya Banerjee,+918779842222,aditya.banerjee43@outlook.com,584653099590,Open
+GRV-2025-100819,Urban Affairs,Dibrugarh,2025-05-12,2025-07-18,67,Water supply interruption,Zoya Khan,+918306993780,zoya.khan67@rediffmail.com,530279009735,Closed
+GRV-2023-100820,Road Transport & Highways,Indore,2023-08-28,2023-10-13,46,Street light outage,Ananya Yadav,+916402957368,ananya.yadav77@outlook.com,534584368319,Closed
+GRV-2023-100821,Environment & Climate,Varanasi,2023-11-02,2024-02-04,94,Scheme payment pending,Farhan Verma,+916614984506,farhan.verma96@outlook.com,656689406972,Closed
+GRV-2023-100822,Health & Family Welfare,Madurai,2023-02-22,2023-05-04,71,Street light outage,Meera Sharma,+917916246228,meera.sharma54@yahoo.in,759114992993,Closed
+GRV-2023-100823,Road Transport & Highways,Dibrugarh,2023-06-19,,,Hospital bed unavailability,Ishaan Joshi,+917950302654,ishaan.joshi71@outlook.com,529028377675,Open
+GRV-2023-100824,Road Transport & Highways,Jaipur,2023-02-14,2023-04-20,65,Scheme payment pending,Zoya Sinha,+917932919799,zoya.sinha71@gmail.com,808728374492,Closed
+GRV-2024-100825,Health & Family Welfare,Madurai,2024-10-11,2024-11-05,25,Sanitation / garbage,Farhan Mahato,+919923216515,farhan.mahato62@yahoo.in,299358162047,Closed
+GRV-2023-100826,Road Transport & Highways,Gwalior,2023-03-20,2023-04-21,32,Water supply interruption,Ramesh Iyer,+917899160231,ramesh.iyer28@yahoo.in,542258623497,Closed
+GRV-2025-100827,Women & Child Development,Dibrugarh,2025-03-20,2025-05-01,42,Sanitation / garbage,Aditya Chauhan,+917321698226,aditya.chauhan13@rediffmail.com,215716411992,Closed
+GRV-2023-100828,Education,Jaipur,2023-04-15,2023-05-08,23,Scheme payment pending,Aarav Banerjee,+917657763069,aarav.banerjee54@rediffmail.com,534968982678,Closed
+GRV-2023-100829,Urban Affairs,Bengaluru Urban,2023-03-19,2023-04-14,26,Scheme payment pending,Farhan Mahato,+919598165597,farhan.mahato46@yahoo.in,423924602771,Closed
+GRV-2024-100830,Education,Ernakulam,2024-08-08,,,Scheme payment pending,Ishaan Chauhan,+918837955928,ishaan.chauhan36@gmail.com,873426311998,Open
+GRV-2023-100831,Environment & Climate,Ganjam,2023-02-12,2023-04-26,73,Street light outage,Aditya Sharma,+918264855955,aditya.sharma39@rediffmail.com,600458194166,Closed
+GRV-2024-100832,Education,Bengaluru Urban,2024-12-16,2025-01-28,43,Water supply interruption,Kabir Rao,+917745772409,kabir.rao34@outlook.com,291232068022,Closed
+GRV-2025-100833,Women & Child Development,Jodhpur,2025-02-20,2025-03-02,10,Road damage / pothole,Zoya Das,+919685118645,zoya.das93@gmail.com,247732123147,Closed
+GRV-2024-100834,Urban Affairs,Ernakulam,2024-11-14,,,Scheme payment pending,Rahul Kulkarni,+917926101254,rahul.kulkarni71@rediffmail.com,719585485174,Open
+GRV-2025-100835,Environment & Climate,Dehradun,2025-12-09,2026-03-07,88,Scheme payment pending,Kabir Rao,+919683078836,kabir.rao46@gmail.com,275477116061,Closed
+GRV-2025-100836,Jal Shakti,Gwalior,2025-06-09,2025-08-28,80,Road damage / pothole,Aarav Nair,+918763814560,aarav.nair78@rediffmail.com,508559689219,Closed
+GRV-2025-100837,Urban Affairs,Ahmedabad,2025-11-21,2025-12-26,35,Air pollution complaint,Ananya Das,+917981831356,ananya.das97@rediffmail.com,269387849981,Closed
+GRV-2023-100838,Health & Family Welfare,Gaya,2023-01-01,2023-01-07,6,Street light outage,Zoya Reddy,+916140069160,zoya.reddy54@outlook.com,752358172518,Escalated
+GRV-2025-100839,Rural Development,Kanpur Nagar,2025-11-18,2025-12-23,35,Ambulance delay,Aditya Joshi,+919507693902,aditya.joshi61@yahoo.in,600413761602,Closed
+GRV-2025-100840,Women & Child Development,Surat,2025-04-19,2025-05-12,23,Hospital bed unavailability,Kabir Khan,+917272371512,kabir.khan36@gmail.com,634897017360,Closed
+GRV-2025-100841,Rural Development,Gorakhpur,2025-02-03,2025-02-07,4,Hospital bed unavailability,Arjun Banerjee,+918456545553,arjun.banerjee67@rediffmail.com,883919203757,Closed
+GRV-2025-100842,Rural Development,Surat,2025-06-26,2025-07-31,35,Ambulance delay,Kavya Mishra,+918715396600,kavya.mishra82@rediffmail.com,894393291018,Closed
+GRV-2025-100843,Rural Development,Udaipur,2025-05-05,2025-07-31,87,Road damage / pothole,Aarav Rao,+918321471729,aarav.rao28@yahoo.in,309210009693,Closed
+GRV-2023-100844,Road Transport & Highways,Jodhpur,2023-03-04,2023-03-27,23,Water supply interruption,Meera Khan,+919143631840,meera.khan23@gmail.com,513396946716,Closed
+GRV-2023-100845,Rural Development,Gaya,2023-07-02,,,Water supply interruption,Vivaan Reddy,+919527500946,vivaan.reddy43@gmail.com,742083968962,Open
+GRV-2023-100846,Health & Family Welfare,Gaya,2023-01-22,2023-03-19,56,Street light outage,Priya Chauhan,+918194058808,priya.chauhan21@rediffmail.com,256584615682,Closed
+GRV-2023-100847,Road Transport & Highways,Lucknow,2023-05-12,2023-06-26,45,Ambulance delay,Sunita Gupta,+918373708430,sunita.gupta79@yahoo.in,550436481683,Closed
+GRV-2024-100848,Environment & Climate,Bengaluru Urban,2024-09-12,2024-12-14,93,Scheme payment pending,Ananya Iyer,+918774222599,ananya.iyer92@gmail.com,542366654870,Closed
+GRV-2025-100849,Road Transport & Highways,Visakhapatnam,2025-01-06,2025-01-29,23,Street light outage,Zoya Mishra,+916839667855,zoya.mishra82@rediffmail.com,545995531560,Closed
+GRV-2023-100850,Environment & Climate,Dhanbad,2023-10-06,2023-10-11,5,Air pollution complaint,Neha Mahato,+916368369280,neha.mahato92@rediffmail.com,371160551332,Closed
+GRV-2024-100851,Women & Child Development,Ranchi,2024-10-28,,,Ambulance delay,Kabir Patel,+916734943218,kabir.patel88@gmail.com,433391974422,Open
+GRV-2024-100852,Rural Development,Cuttack,2024-11-22,2025-02-18,88,Scheme payment pending,Rahul Chauhan,+918732552168,rahul.chauhan34@outlook.com,690286045022,Closed
+GRV-2024-100853,Women & Child Development,Nagpur,2024-12-24,,,Ambulance delay,Aarav Kulkarni,+918608256276,aarav.kulkarni43@gmail.com,692455407663,Open
+GRV-2025-100854,Jal Shakti,Gaya,2025-03-22,2025-05-11,50,Hospital bed unavailability,Aditya Nair,+918811057866,aditya.nair43@gmail.com,928524455077,Closed
+GRV-2024-100855,Urban Affairs,Ahmedabad,2024-10-14,2024-11-11,28,Road damage / pothole,Ishaan Sharma,+916169778494,ishaan.sharma78@yahoo.in,894272572414,Closed
+GRV-2025-100856,Urban Affairs,Surat,2025-01-22,2025-02-18,27,Air pollution complaint,Kabir Rao,+918674695668,kabir.rao12@rediffmail.com,277896214073,Closed
+GRV-2025-100857,Jal Shakti,Visakhapatnam,2025-06-16,2025-09-08,84,Scheme payment pending,Zoya Sinha,+918761657056,zoya.sinha60@yahoo.in,660245703839,Closed
+GRV-2025-100858,Urban Affairs,Rajkot,2025-08-27,,,Scheme payment pending,Rahul Nair,+917215356471,rahul.nair32@outlook.com,491561042214,Open
+GRV-2023-100859,Urban Affairs,Madurai,2023-07-14,2023-08-24,41,Water supply interruption,Ishaan Rao,+919455542867,ishaan.rao52@gmail.com,238573209861,Closed
+GRV-2024-100860,Health & Family Welfare,Ranchi,2024-06-04,2024-09-08,96,Street light outage,Vivaan Sinha,+918764292226,vivaan.sinha15@outlook.com,405462347657,Closed
+GRV-2023-100861,Urban Affairs,Visakhapatnam,2023-07-20,2023-09-17,59,Street light outage,Sanya Reddy,+918522077786,sanya.reddy34@rediffmail.com,304217269805,Closed
+GRV-2023-100862,Urban Affairs,Raipur,2023-08-09,2023-10-30,82,Water supply interruption,Priya Singh,+916809551724,priya.singh55@rediffmail.com,569994001349,Escalated
+GRV-2024-100863,Women & Child Development,Gwalior,2024-12-28,2025-02-26,60,Water supply interruption,Aarav Rao,+917945222852,aarav.rao11@gmail.com,712319732855,Closed
+GRV-2023-100864,Road Transport & Highways,Dhanbad,2023-03-21,,,Ambulance delay,Diya Nair,+919145700421,diya.nair67@gmail.com,961342497090,Open
+GRV-2024-100865,Jal Shakti,Guntur,2024-06-08,2024-09-10,94,Hospital bed unavailability,Ishaan Nair,+919163467108,ishaan.nair30@outlook.com,740021777207,Escalated
+GRV-2024-100866,Environment & Climate,Ludhiana,2024-05-25,,,Scheme payment pending,Priya Rao,+917287014353,priya.rao37@outlook.com,808959636366,Open
+GRV-2023-100867,Road Transport & Highways,Udaipur,2023-03-18,2023-04-02,15,Air pollution complaint,Kavya Nair,+918579395435,kavya.nair86@outlook.com,993368511878,Closed
+GRV-2024-100868,Education,Patna,2024-06-06,2024-07-22,46,Street light outage,Aditya Mahato,+919539464620,aditya.mahato92@rediffmail.com,541124335163,Closed
+GRV-2025-100869,Urban Affairs,Ranchi,2025-04-27,2025-06-14,48,Street light outage,Diya Das,+918343954806,diya.das71@yahoo.in,862775516459,Escalated
+GRV-2023-100870,Education,Raipur,2023-09-05,,,Ambulance delay,Arjun Khan,+918268263492,arjun.khan16@yahoo.in,412385668137,Open
+GRV-2023-100871,Women & Child Development,Bengaluru Urban,2023-03-13,,,Scheme payment pending,Diya Kulkarni,+919626406425,diya.kulkarni77@gmail.com,615665309788,Open
+GRV-2025-100872,Health & Family Welfare,Tiruchirappalli,2025-12-01,2026-02-14,75,Water supply interruption,Aarav Iyer,+918495639739,aarav.iyer34@rediffmail.com,571092136007,Closed
+GRV-2023-100873,Road Transport & Highways,Coimbatore,2023-04-17,2023-04-22,5,Scheme payment pending,Ananya Patel,+917182383684,ananya.patel73@outlook.com,674360911118,Closed
+GRV-2023-100874,Urban Affairs,Nagpur,2023-10-18,2023-12-27,70,Water supply interruption,Aditya Pillai,+918503663926,aditya.pillai51@yahoo.in,285810381721,Closed
+GRV-2024-100875,Rural Development,Ernakulam,2024-11-09,2025-01-23,75,Street light outage,Farhan Sharma,+918720500885,farhan.sharma20@yahoo.in,944992698366,Closed
+GRV-2024-100876,Rural Development,Ernakulam,2024-07-03,2024-08-27,55,Water supply interruption,Kavya Kulkarni,+918663358181,kavya.kulkarni85@rediffmail.com,341843324724,Closed
+GRV-2024-100877,Environment & Climate,Mysuru,2024-02-23,,,Street light outage,Ishaan Das,+916637564903,ishaan.das27@gmail.com,223198649156,Open
+GRV-2025-100878,Road Transport & Highways,Rajkot,2025-11-19,,,Air pollution complaint,Arjun Verma,+919881842431,arjun.verma72@rediffmail.com,707385795204,Open
+GRV-2024-100879,Health & Family Welfare,Jaipur,2024-06-07,2024-08-15,69,Road damage / pothole,Ananya Verma,+919148082470,ananya.verma52@outlook.com,501579394658,Closed
+GRV-2023-100880,Road Transport & Highways,Muzaffarpur,2023-06-09,,,Road damage / pothole,Aarav Nair,+916721505362,aarav.nair20@gmail.com,976298376861,Open
+GRV-2023-100881,Rural Development,Indore,2023-02-04,2023-03-18,42,Hospital bed unavailability,Aarav Sinha,+918736699446,aarav.sinha63@yahoo.in,717212649486,Escalated
+GRV-2025-100882,Environment & Climate,Visakhapatnam,2025-05-21,2025-06-21,31,Street light outage,Diya Patel,+916636037283,diya.patel86@gmail.com,734451738859,Closed
+GRV-2025-100883,Environment & Climate,Varanasi,2025-06-04,2025-08-17,74,Street light outage,Farhan Mahato,+919244438070,farhan.mahato78@yahoo.in,626519723199,Closed
+GRV-2024-100884,Health & Family Welfare,Ranchi,2024-02-13,2024-04-26,73,Road damage / pothole,Arjun Khan,+916215980309,arjun.khan62@outlook.com,464254771742,Closed
+GRV-2025-100885,Environment & Climate,Surat,2025-04-09,2025-05-06,27,Ambulance delay,Ananya Patel,+917278010564,ananya.patel90@rediffmail.com,270349853238,Closed
+GRV-2024-100886,Health & Family Welfare,Jodhpur,2024-04-24,2024-04-28,4,Water supply interruption,Ananya Sharma,+919641245809,ananya.sharma39@yahoo.in,276268436476,Closed
+GRV-2023-100887,Jal Shakti,Ahmedabad,2023-05-11,2023-06-10,30,Road damage / pothole,Zoya Gupta,+916252687481,zoya.gupta45@gmail.com,325317658882,Closed
+GRV-2024-100888,Jal Shakti,Lucknow,2024-12-15,2025-02-28,75,Scheme payment pending,Arjun Singh,+916668787990,arjun.singh38@rediffmail.com,236056531662,Closed
+GRV-2023-100889,Urban Affairs,Dhanbad,2023-08-21,2023-10-20,60,Water supply interruption,Lakshmi Chauhan,+916537073904,lakshmi.chauhan16@gmail.com,743816477778,Closed
+GRV-2023-100890,Environment & Climate,Gwalior,2023-10-18,2023-11-03,16,Water supply interruption,Kavya Sinha,+919583792735,kavya.sinha79@outlook.com,959673607695,Closed
+GRV-2024-100891,Health & Family Welfare,Visakhapatnam,2024-08-04,,,Sanitation / garbage,Arjun Rao,+919863638371,arjun.rao65@rediffmail.com,387689785552,Open
+GRV-2025-100892,Jal Shakti,Jaipur,2025-02-28,2025-06-02,94,Air pollution complaint,Lakshmi Singh,+919133981725,lakshmi.singh11@gmail.com,541984068095,Closed
+GRV-2025-100893,Road Transport & Highways,Jaipur,2025-03-14,2025-04-16,33,Scheme payment pending,Meera Sinha,+918530939235,meera.sinha59@gmail.com,792090186524,Closed
+GRV-2025-100894,Education,Jodhpur,2025-03-06,2025-03-17,11,Air pollution complaint,Meera Gupta,+919110491100,meera.gupta34@outlook.com,993786728630,Closed
+GRV-2023-100895,Road Transport & Highways,Aurangabad,2023-08-22,2023-10-21,60,Ambulance delay,Sunita Patel,+918228205664,sunita.patel21@rediffmail.com,987441557015,Escalated
+GRV-2024-100896,Rural Development,Gwalior,2024-04-04,2024-05-22,48,Scheme payment pending,Meera Reddy,+916183961750,meera.reddy22@yahoo.in,347758981301,Closed
+GRV-2025-100897,Health & Family Welfare,Dehradun,2025-02-12,,,Street light outage,Ramesh Reddy,+917138208341,ramesh.reddy53@rediffmail.com,752346869790,Open
+GRV-2025-100898,Environment & Climate,Gwalior,2025-07-16,2025-09-20,66,Water supply interruption,Diya Gupta,+916416024606,diya.gupta30@rediffmail.com,626629722586,Closed
+GRV-2025-100899,Health & Family Welfare,Ludhiana,2025-12-25,2026-03-22,87,Air pollution complaint,Meera Nair,+917585099485,meera.nair23@gmail.com,400349456676,Closed
+GRV-2024-100900,Education,Kanpur Nagar,2024-07-27,2024-08-16,20,Street light outage,Neha Sharma,+917721779203,neha.sharma46@rediffmail.com,954026241317,Closed
+GRV-2024-100901,Environment & Climate,Amritsar,2024-11-24,2025-02-02,70,Ambulance delay,Kabir Das,+916522352146,kabir.das15@yahoo.in,923270974551,Closed
+GRV-2025-100902,Environment & Climate,Tiruchirappalli,2025-02-27,2025-05-30,92,Hospital bed unavailability,Aarav Iyer,+918859308202,aarav.iyer69@outlook.com,559332909870,Closed
+GRV-2023-100903,Road Transport & Highways,Gwalior,2023-12-24,,,Street light outage,Ramesh Sharma,+916713795247,ramesh.sharma96@rediffmail.com,415478413199,Open
+GRV-2023-100904,Environment & Climate,Rajkot,2023-08-02,2023-08-13,11,Street light outage,Aditya Joshi,+919759903333,aditya.joshi50@outlook.com,418299609216,Closed
+GRV-2024-100905,Education,Surat,2024-01-04,2024-01-05,1,Hospital bed unavailability,Kavya Sinha,+916955299797,kavya.sinha38@yahoo.in,789033139867,Closed
+GRV-2023-100906,Education,Ludhiana,2023-05-18,,,Air pollution complaint,Vivaan Sinha,+917739601862,vivaan.sinha44@outlook.com,281830599539,Open
+GRV-2025-100907,Women & Child Development,Raipur,2025-08-12,2025-10-14,63,Air pollution complaint,Aditya Rao,+917952196509,aditya.rao14@gmail.com,760070243847,Closed
+GRV-2025-100908,Women & Child Development,Aurangabad,2025-12-06,2026-01-22,47,Hospital bed unavailability,Rohan Pillai,+919665608704,rohan.pillai25@yahoo.in,452333458495,Closed
+GRV-2024-100909,Rural Development,Ranchi,2024-09-18,2024-10-23,35,Sanitation / garbage,Aarav Mahato,+918881858422,aarav.mahato53@yahoo.in,621266066492,Closed
+GRV-2024-100910,Women & Child Development,Nashik,2024-07-15,2024-09-10,57,Street light outage,Kavya Reddy,+919474065204,kavya.reddy49@rediffmail.com,946787599033,Escalated
+GRV-2025-100911,Jal Shakti,Rajkot,2025-09-02,2025-10-08,36,Street light outage,Aarav Patel,+916371725137,aarav.patel75@outlook.com,278336527195,Closed
+GRV-2025-100912,Environment & Climate,Patna,2025-01-11,,,Street light outage,Vivaan Iyer,+918450440700,vivaan.iyer63@outlook.com,490148474320,Open
+GRV-2023-100913,Education,Visakhapatnam,2023-07-18,,,Sanitation / garbage,Sanya Patel,+918446681816,sanya.patel21@rediffmail.com,669271245868,Open
+GRV-2023-100914,Rural Development,Ahmedabad,2023-07-27,2023-09-12,47,Hospital bed unavailability,Kabir Iyer,+917895084527,kabir.iyer14@rediffmail.com,745915382940,Closed
+GRV-2023-100915,Urban Affairs,Patna,2023-01-17,2023-02-16,30,Scheme payment pending,Priya Reddy,+918274606533,priya.reddy59@gmail.com,421671479155,Closed
+GRV-2025-100916,Women & Child Development,Nagpur,2025-02-03,2025-03-11,36,Ambulance delay,Aditya Sharma,+919262895065,aditya.sharma64@gmail.com,697586472628,Closed
+GRV-2025-100917,Jal Shakti,Udaipur,2025-09-14,,,Hospital bed unavailability,Priya Joshi,+918464313716,priya.joshi61@outlook.com,470097685655,Open
+GRV-2023-100918,Rural Development,Aurangabad,2023-02-18,2023-03-11,21,Ambulance delay,Farhan Banerjee,+916176379276,farhan.banerjee65@rediffmail.com,800522923187,Closed
+GRV-2025-100919,Environment & Climate,Guntur,2025-01-13,2025-03-20,66,Ambulance delay,Ishaan Rao,+919452570884,ishaan.rao18@outlook.com,986327868163,Closed
+GRV-2023-100920,Road Transport & Highways,Patna,2023-06-03,2023-08-03,61,Sanitation / garbage,Zoya Pillai,+918906411334,zoya.pillai61@gmail.com,551454622474,Closed
+GRV-2025-100921,Women & Child Development,Rajkot,2025-02-14,2025-04-08,53,Street light outage,Kabir Reddy,+916363107514,kabir.reddy88@yahoo.in,951076783663,Closed
+GRV-2024-100922,Environment & Climate,Gwalior,2024-01-02,2024-02-13,42,Ambulance delay,Arjun Sharma,+918553030679,arjun.sharma79@rediffmail.com,383090381796,Escalated
+GRV-2025-100923,Environment & Climate,Coimbatore,2025-04-19,2025-04-21,2,Water supply interruption,Ramesh Reddy,+916388280435,ramesh.reddy79@rediffmail.com,966054382013,Closed
+GRV-2024-100924,Urban Affairs,Ganjam,2024-06-24,,,Road damage / pothole,Meera Banerjee,+918508556849,meera.banerjee65@outlook.com,455334597641,Open
+GRV-2025-100925,Urban Affairs,Gaya,2025-07-18,2025-09-29,73,Hospital bed unavailability,Diya Sinha,+918283045888,diya.sinha30@outlook.com,280920881063,Closed
+GRV-2023-100926,Urban Affairs,Ernakulam,2023-01-20,2023-04-16,86,Water supply interruption,Aarav Singh,+916990709182,aarav.singh73@rediffmail.com,965899284724,Closed
+GRV-2023-100927,Urban Affairs,Nashik,2023-06-27,2023-09-25,90,Street light outage,Neha Kulkarni,+918499039527,neha.kulkarni23@outlook.com,692292297463,Closed
+GRV-2023-100928,Health & Family Welfare,Coimbatore,2023-02-08,,,Road damage / pothole,Zoya Patel,+917498384208,zoya.patel24@yahoo.in,817289369663,Open
+GRV-2025-100929,Environment & Climate,Indore,2025-01-11,2025-04-16,95,Street light outage,Meera Pillai,+917682572899,meera.pillai47@gmail.com,780518696900,Closed
+GRV-2023-100930,Health & Family Welfare,Dehradun,2023-03-10,,,Ambulance delay,Kavya Sharma,+919256017150,kavya.sharma37@rediffmail.com,761064535401,Open
+GRV-2024-100931,Women & Child Development,Ludhiana,2024-10-17,2024-11-27,41,Air pollution complaint,Kavya Mahato,+917742336581,kavya.mahato80@rediffmail.com,209566956851,Closed
+GRV-2025-100932,Environment & Climate,Cuttack,2025-06-26,2025-08-29,64,Hospital bed unavailability,Sanya Sinha,+916832256274,sanya.sinha57@yahoo.in,758867577241,Closed
+GRV-2025-100933,Education,Indore,2025-09-08,2025-09-20,12,Sanitation / garbage,Ananya Mahato,+919712135831,ananya.mahato54@yahoo.in,514140593812,Escalated
+GRV-2023-100934,Road Transport & Highways,Ahmedabad,2023-01-06,2023-03-08,61,Air pollution complaint,Ananya Das,+919781376574,ananya.das38@rediffmail.com,887349192717,Closed
+GRV-2024-100935,Road Transport & Highways,Udaipur,2024-07-11,2024-07-18,7,Hospital bed unavailability,Ishaan Mahato,+917199419540,ishaan.mahato97@gmail.com,942182626020,Closed
+GRV-2023-100936,Health & Family Welfare,Madurai,2023-08-16,2023-10-29,74,Air pollution complaint,Lakshmi Reddy,+916388107443,lakshmi.reddy37@gmail.com,930279845725,Closed
+GRV-2025-100937,Women & Child Development,Guntur,2025-03-06,2025-03-07,1,Air pollution complaint,Sunita Das,+917994633134,sunita.das89@gmail.com,783413911679,Closed
+GRV-2024-100938,Jal Shakti,Tiruchirappalli,2024-08-21,,,Street light outage,Aarav Joshi,+919919670101,aarav.joshi77@outlook.com,731941156530,Open
+GRV-2025-100939,Jal Shakti,Mysuru,2025-04-16,2025-04-17,1,Street light outage,Priya Banerjee,+918972218595,priya.banerjee67@outlook.com,740131197261,Closed
+GRV-2025-100940,Women & Child Development,Indore,2025-11-10,2026-01-23,74,Water supply interruption,Rohan Reddy,+917962995921,rohan.reddy43@outlook.com,840019321625,Closed
+GRV-2024-100941,Jal Shakti,Surat,2024-08-07,2024-08-09,2,Water supply interruption,Aarav Patel,+916287111186,aarav.patel45@rediffmail.com,932856189101,Closed
+GRV-2024-100942,Women & Child Development,Jodhpur,2024-03-25,2024-05-22,58,Scheme payment pending,Ramesh Mahato,+917725907107,ramesh.mahato37@gmail.com,518590762124,Closed
+GRV-2025-100943,Women & Child Development,Nagpur,2025-06-17,2025-08-24,68,Scheme payment pending,Kavya Mishra,+917548313149,kavya.mishra94@outlook.com,725575583859,Closed
+GRV-2024-100944,Rural Development,Ganjam,2024-10-16,,,Scheme payment pending,Meera Gupta,+916301046331,meera.gupta29@gmail.com,635941488987,Open
+GRV-2025-100945,Environment & Climate,Pune,2025-07-09,2025-09-05,58,Water supply interruption,Priya Mahato,+916749079167,priya.mahato74@yahoo.in,858795075345,Closed
+GRV-2024-100946,Women & Child Development,Jaipur,2024-08-13,2024-10-16,64,Sanitation / garbage,Priya Pillai,+916345339942,priya.pillai35@yahoo.in,378491945380,Closed
+GRV-2025-100947,Urban Affairs,Gwalior,2025-05-28,,,Water supply interruption,Arjun Singh,+916417568558,arjun.singh51@outlook.com,765166398534,Open
+GRV-2025-100948,Jal Shakti,Bengaluru Urban,2025-08-26,,,Air pollution complaint,Arjun Khan,+918145350972,arjun.khan81@outlook.com,488734006235,Open
+GRV-2025-100949,Education,Muzaffarpur,2025-02-03,2025-04-28,84,Street light outage,Aditya Das,+918782702322,aditya.das79@rediffmail.com,946966284603,Closed
+GRV-2024-100950,Education,Ganjam,2024-08-15,2024-09-15,31,Water supply interruption,Rohan Reddy,+917444704722,rohan.reddy71@outlook.com,594387093413,Closed
+GRV-2024-100951,Education,Belagavi,2024-03-17,,,Street light outage,Kabir Mishra,+916335011026,kabir.mishra87@gmail.com,996015188281,Open
+GRV-2025-100952,Health & Family Welfare,Gorakhpur,2025-06-01,2025-08-19,79,Road damage / pothole,Ishaan Banerjee,+917644715633,ishaan.banerjee50@yahoo.in,707420062776,Closed
+GRV-2023-100953,Environment & Climate,Tiruchirappalli,2023-05-14,2023-06-08,25,Street light outage,Rahul Das,+918102751884,rahul.das89@yahoo.in,466223839724,Closed
+GRV-2023-100954,Jal Shakti,Tiruchirappalli,2023-12-25,2024-03-09,75,Street light outage,Zoya Reddy,+918792727313,zoya.reddy98@outlook.com,853458647945,Closed
+GRV-2023-100955,Education,Ludhiana,2023-04-24,,,Hospital bed unavailability,Farhan Yadav,+918896677173,farhan.yadav45@yahoo.in,439116584673,Open
+GRV-2024-100956,Jal Shakti,Guntur,2024-02-06,,,Road damage / pothole,Arjun Mahato,+919954348340,arjun.mahato27@outlook.com,444016159077,Open
+GRV-2024-100957,Education,Ernakulam,2024-10-10,2025-01-03,85,Street light outage,Ananya Iyer,+918387001504,ananya.iyer11@gmail.com,402584014359,Closed
+GRV-2025-100958,Health & Family Welfare,Jaipur,2025-07-19,2025-09-08,51,Sanitation / garbage,Aarav Singh,+917393529846,aarav.singh34@rediffmail.com,409993943253,Closed
+GRV-2025-100959,Health & Family Welfare,Amritsar,2025-01-06,2025-03-23,76,Water supply interruption,Vivaan Nair,+916150766789,vivaan.nair25@yahoo.in,981021691057,Closed
+GRV-2025-100959,Health & Family Welfare,Amritsar,2025-01-06,2025-03-23,76
+GRV-2025-100959,Health & Family Welfare,Amritsar,2025-01-06,2025-03-23,76,Water supply interruption,Vivaan Nair,+916150766789,vivaan.nair25@yahoo.in,981021691057,Closed,EXTRA_UNMAPPED_CELL
+GRV-2025-100959,Health & Family Welfare,Amritsar,2025-01-06,2025-03-23,NOT_A_NUMBER,Water supply interruption,Vivaan Nair,+916150766789,vivaan.nair25@yahoo.in,981021691057,Closed
